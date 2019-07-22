@@ -1,0 +1,401 @@
+NEW_FILE:examiner-date-text.txt ============================================================================================ NEW_FILE:examiner-date-text.txt
+Use threshold: True
+WNVerbsOnly: True
+threshold: 2
+Lemmatize Candidates: True
+Lemmatize Cues: True
+Debug: False
+Use Phrase Extraction: True
+Parse Sem Eval: False
+Sentence: David Archuleta wows his fans at Brut Sun Bowl performance and meet and greet
+Cue Found: wow
+NPG1:
+	David Archuleta
+NPG2:
+	his fans at Brut Sun Bowl performance
+
+Sentence: Fargo rallies past Team USA
+Cue Found: rally
+NPG1:
+	Fargo
+NPG2:
+	past Team USA
+
+Sentence: Hailey Glassman's friends reveal Hailey is afraid of Jon Gosselin
+Cue Found: reveal
+NPG1:
+	friends
+NPG2:
+	Hailey
+
+Sentence: Jennifer Lopez New Year's Eve outfit wows crowd (photos/video)
+Cue Found: wow
+NPG1:
+	Eve outfit
+NPG2:
+	crowd ( photos/video )
+
+Sentence: Last-second bounce propels the Kalamazoo Wings over the Toledo Walleye
+Cue Found: propel
+NPG1:
+	Last-second bounce
+NPG2:
+	the Kalamazoo Wings over the Toledo Walleye
+
+Sentence: Ohio State Buckeyes defeat the Oregon Ducks 26-17 in the 96th Rose Bowl
+Cue Found: defeat
+NPG1:
+	Ohio State Buckeyes
+NPG2:
+	the Oregon Ducks
+
+Sentence: Ohio State defeats Oregon 26-17
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Oregon
+
+Sentence: Susan Boyle wows Japan with New Years Eve performance
+Cue Found: wow
+NPG1:
+	Susan Boyle
+NPG2:
+	Japan with New Years Eve performance
+
+Sentence: TLC Jon & Kate Plus 8 - Hailey Glassman scared of Jon Gosselin & fears he is GPS tracking her
+Cue Found: scar
+NPG1:
+	Hailey Glassman
+NPG2:
+	of Jon Gosselin & fears he
+
+Sentence: Vail skier triggers avalanche in Blue Sky Basin
+Cue Found: trigger
+NPG1:
+	Vail skier
+NPG2:
+	avalanche in Blue Sky Basin
+
+Sentence: Woman arrested in 1998 kidnapping of sons, children found safe
+Cue Found: arrest
+NPG1:
+	Woman
+NPG2:
+	in 1998 kidnapping of sons
+
+Sentence: Zodiac killer's identity revealed by newly-discovered evidence in cold case?
+Cue Found: reveal
+NPG1:
+	identity
+NPG2:
+	by newly-discovered evidence in cold case
+
+Sentence: Annual APAP arts presenters conference commences this week in Manhattan
+Cue Found: commence
+NPG1:
+	Annual APAP arts presenters conference
+NPG2:
+	this week in Manhattan
+
+Sentence: Biggest Loser trainer Bob Harper reveals his love of cooking
+Cue Found: reveal
+NPG1:
+	Loser trainer Bob Harper
+NPG2:
+	his love of cooking
+
+Sentence: Christian Tim Tebow and Florida dismantle Cincinnati to win the 2010 Sugar Bowl
+Cue Found: dismantle
+NPG1:
+	Christian Tim Tebow and Florida
+NPG2:
+	Cincinnati
+
+Sentence: Drunken smoker ignites apartment building; two dead, one missing and several injured
+Cue Found: ignite
+NPG1:
+	Drunken smoker
+NPG2:
+	apartment building
+
+Sentence: Harper prorogues Parliament, Canadians sigh
+Cue Found: prorogue
+NPG1:
+	Harper
+NPG2:
+	Parliament , Canadians sigh
+
+Sentence: Jan 1, 2010 news recap: Tiger reveals chest to cops, Elin has birthday, Pastrana breaks world record
+Cue Found: reveal
+NPG1:
+	Tiger
+NPG2:
+	chest
+
+Sentence: Penn State overcomes muddy field and second half surge to defeat LSU in 2010 Capital One Bowl
+Cue Found: overcome
+NPG1:
+	Penn State
+NPG2:
+	muddy field and second half surge
+
+Sentence: Sade's new 'Soldier of Love' album soothes Valentine's Day doubts
+Cue Found: soothe
+NPG1:
+	album
+NPG2:
+	Valentine
+
+Sentence: Study reveals college admissions often more lenient for prospective athletes
+Cue Found: reveal
+NPG1:
+	Study
+NPG2:
+	college admissions
+
+Sentence: Collabor8 Dance Co readies itself for 2010 with a search fo new members
+Cue Found: ready
+NPG1:
+	Collabor8 Dance Co
+NPG2:
+	itself
+
+Sentence: Drexel topples James Madison for first ever Top-25 victory
+Cue Found: topple
+NPG1:
+	Drexel
+NPG2:
+	James Madison
+
+Sentence: Elin wanted to take kids away from 'minefield' Tiger Woods caused children's health, marriage
+Cue Found: cause
+NPG1:
+	Tiger Woods
+NPG2:
+	children
+
+Sentence: Kansas defeats Temple: Was the game as big as the hype?
+Cue Found: defeat
+NPG1:
+	Kansas
+NPG2:
+	Temple
+
+Sentence: Lindsay Lohan promises a new image for the New Year: One-piece outfit reveals possible bodily injury
+Cue Found: reveal
+NPG1:
+	One-piece outfit
+NPG2:
+	possible bodily injury
+
+Sentence: Michelle Obama reveals secret ingredient on Iron Chef America
+Cue Found: reveal
+NPG1:
+	Michelle Obama
+NPG2:
+	secret ingredient on Iron Chef America
+
+Sentence: Missouri-born journalist Jake Adelstein reveals the truth about Japan
+Cue Found: reveal
+NPG1:
+	Missouri-born journalist Jake Adelstein
+NPG2:
+	the truth about Japan
+
+Sentence: Neighborhood Watch leader busted for explosives assault, cache of marijuana
+Cue Found: bust
+NPG1:
+	Neighborhood Watch leader
+NPG2:
+	for explosives assault , cache of marijuana
+
+Sentence: NE Patriots Wes Welker injures knee, tears Anterior Cruciate/Median Collateral Ligament Photos/Video
+Cue Found: injure
+NPG1:
+	NE Patriots Wes Welker
+NPG2:
+	knee , tears Anterior Cruciate/Median Collateral Ligament Photos/Video
+
+Sentence: Texans delight fans with 4th quarter comeback over Patriots
+Cue Found: delight
+NPG1:
+	Texans
+NPG2:
+	fans with 4th quarter comeback over Patriots
+
+Sentence: Video: Wes Welker injures left leg during first half action
+Cue Found: injure
+NPG1:
+	Wes Welker
+NPG2:
+	left leg during first half action
+
+Sentence: A revival of The Babysitters Club sparks new interest in young adult series
+Cue Found: spark
+NPG1:
+	A revival of The Babysitters Club
+NPG2:
+	new interest in young adult series
+
+Sentence: Avatar movie technology igniting the 3D revolution
+Cue Found: ignite
+NPG1:
+	Avatar movie technology
+NPG2:
+	the 3D revolution
+
+Sentence: Dr. Oz reveals his Ultimate Diet plan
+Cue Found: reveal
+NPG1:
+	Dr. Oz
+NPG2:
+	his Ultimate Diet plan
+
+Sentence: Family Ties actor Brian Bonsall arrested on assault charges in Colorado
+Cue Found: arrest
+NPG1:
+	Family Ties actor Brian Bonsall
+NPG2:
+	on assault charges in Colorado
+
+Sentence: Free networking event with Modern Bride Trendsetter, Andy Kushner
+Cue Found: network
+NPG1:
+	Free
+NPG2:
+	event with Modern Bride Trendsetter , Andy Kushner
+
+Sentence: Google honors Sir Isaac Newton with Google.com enabling an apple to fall from its logo
+Cue Found: enable
+NPG1:
+	Google honors Sir Isaac Newton with Google.com
+NPG2:
+	an apple
+
+Sentence: Lindsay Lohan expels 'negative energy' from her new year
+Cue Found: expel
+NPG1:
+	Lindsay Lohan
+NPG2:
+	'negative energy
+
+Sentence: NASCAR triggers decisions, decisions (Part 2)
+Cue Found: trigger
+NPG1:
+	NASCAR
+NPG2:
+	decisions
+
+Sentence: Ohio State defeats Hofstra, George Mason and Columbia - all in one afternoon
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Hofstra , George Mason and Columbia
+
+Sentence: Raleigh Conservative Examiner busted by his readers, pleads for another chance. Will they listen?
+Cue Found: bust
+NPG1:
+	Raleigh Conservative Examiner
+NPG2:
+	by his readers , pleads for another chance
+
+Sentence: RVD squashes TNA rumors
+Cue Found: squash
+NPG1:
+	RVD
+NPG2:
+	TNA rumors
+
+Sentence: Social networking death
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	death
+
+Sentence: Tiger Woods reveals bare chest on Vanity Fair cover (photos, video)
+Cue Found: reveal
+NPG1:
+	Tiger Woods
+NPG2:
+	bare chest on Vanity Fair
+
+Sentence: TSA reopens Newark airport Terminal C after 5 hour lockdown (video)
+Cue Found: reopen
+NPG1:
+	TSA
+NPG2:
+	Newark airport Terminal C after 5 hour lockdown ( video )
+
+Sentence: Unreleased Michael Jackson duet with Lenny Kravitz sparks excitement on the Internet
+Cue Found: spark
+NPG1:
+	Unreleased Michael Jackson duet with Lenny Kravitz
+NPG2:
+	excitement on the Internet
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: US demands for more security causes confusion
+Cue Found: cause
+NPG1:
+	security
+NPG2:
+	confusion
+
+Sentence: Will Obama's policies endanger America?
+Cue Found: endanger
+NPG1:
+	policies
+NPG2:
+	America
+
+Sentence: 'American Idol' judge Kara DioGuardi reveals contestant for upcoming season
+Cue Found: reveal
+NPG1:
+	judge Kara DioGuardi
+NPG2:
+	contestant
+
+Sentence: Arizona splits two game road trip
+Cue Found: split
+NPG1:
+	Arizona
+NPG2:
+	two game road trip
+
+Sentence: Bartlett befuddles Bobcats with three-goal, four-point outburst to lead Princeton to 4-3 OT win
+Cue Found: befuddle
+NPG1:
+	Bartlett
+NPG2:
+	Bobcats
+
+Sentence: BioMed Realty, L.P. commences offer of exchangeable senior notes
+Cue Found: commence
+NPG1:
+	L.P.
+NPG2:
+	offer of exchangeable senior notes
+
+Sentence: Dozens of activists injured during riot in Egypt
+Cue Found: injure
+NPG1:
+	Dozens of activists
+NPG2:
+	during riot in Egypt
+
+Sentence: Flames halt Predators winning streak at 3
+Cue Found: halt
+NPG1:
+	Flames
+NPG2:
+	Predators
+

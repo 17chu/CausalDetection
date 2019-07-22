@@ -1,0 +1,8458 @@
+NEW_FILE:examiner-date-text2.txt ============================================================================================ NEW_FILE:examiner-date-text2.txt
+Use threshold: True
+WNVerbsOnly: True
+threshold: 2
+Lemmatize Candidates: True
+Lemmatize Cues: True
+Debug: False
+Use Phrase Extraction: True
+Parse Sem Eval: False
+Sentence: Flames halt Predators winning streak at 3
+Cue Found: halt
+NPG1:
+	Flames
+NPG2:
+	Predators
+
+Sentence: Homeowner jailed while the burglar he attacked walks free
+Cue Found: jail
+NPG1:
+	Homeowner
+NPG2:
+	while the burglar he
+
+Sentence: Huskies ravage Knights 72-35 in JV tilt at Del Norte; Golden Eagles girls fly over Mustangs 77-23
+Cue Found: ravage
+NPG1:
+	Huskies
+NPG2:
+	Knights
+
+Sentence: L.A. Clippers defeat Portland for first win of new year
+Cue Found: defeat
+NPG1:
+	L.A. Clippers
+NPG2:
+	Portland
+
+Sentence: Lenovo reveals U1 IdeaPad Hybrid at CES 2010
+Cue Found: reveal
+NPG1:
+	Lenovo
+NPG2:
+	U1 IdeaPad Hybrid at CES
+
+Sentence: Nicole Henry overcomes nervousness to perform at the Orange Bowl (VIDEO)
+Cue Found: overcome
+NPG1:
+	Nicole Henry
+NPG2:
+	nervousness
+
+Sentence: Nintendo reveals holiday sales figures for Wii and DS
+Cue Found: reveal
+NPG1:
+	Nintendo
+NPG2:
+	holiday sales figures for Wii and DS
+
+Sentence: Social networking websites
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	websites
+
+Sentence: Some Aion players rewarded with trillions of in-game money
+Cue Found: reward
+NPG1:
+	Some Aion players
+NPG2:
+	with trillions of in-game money
+
+Sentence: Suki Thai heals your hunger!
+Cue Found: heal
+NPG1:
+	Suki Thai
+NPG2:
+	your hunger
+
+Sentence: U.S. embassy in Yemen reopens after raid against al Qaeda
+Cue Found: reopen
+NPG1:
+	U.S. embassy in Yemen
+NPG2:
+	after raid against al Qaeda
+
+Sentence: Voucher system ensures liberty
+Cue Found: ensure
+NPG1:
+	Voucher system
+NPG2:
+	liberty
+
+Sentence: Want an autograph? Fans shouldn't be asking Twilight cast or U2: Study reveals they don't write much
+Cue Found: reveal
+NPG1:
+	Study
+NPG2:
+	they
+
+Sentence: Alan Alda reveals why science sparks his human interest
+Cue Found: spark
+NPG1:
+	science
+NPG2:
+	his human interest
+
+Sentence: Body Bug featured on Biggest Loser sparks interest in New Year fitness toy
+Cue Found: spark
+NPG1:
+	Loser
+NPG2:
+	interest in New Year fitness toy
+
+Sentence: Coal tar asphalt sealants polluting homes, lowering IQs
+Cue Found: pollute
+NPG1:
+	Coal tar asphalt sealants
+NPG2:
+	homes
+
+Sentence: Devils decimate Stars 4-0
+Cue Found: decimate
+NPG1:
+	Devils
+NPG2:
+	Stars
+
+Sentence: Fast start propels Norwalk to win over Newton
+Cue Found: propel
+NPG1:
+	Fast start
+NPG2:
+	Norwalk
+
+Sentence: Giving shortfalls and devaluation of U.S. dollar causes missionary crisis
+Cue Found: cause
+NPG1:
+	shortfalls and devaluation of U.S. dollar
+NPG2:
+	missionary crisis
+
+Sentence: HP reveals new Mini 210 netbook at CES 2010
+Cue Found: reveal
+NPG1:
+	HP
+NPG2:
+	new Mini 210 netbook at CES
+
+Sentence: Injuries to key Cardinals players cause concern for Sunday's game against the Green Bay Packers
+Cue Found: cause
+NPG1:
+	key Cardinals players
+NPG2:
+	concern for Sunday
+
+Sentence: JIMS releases new transmission rebuild kits
+Cue Found: rebuild
+NPG1:
+	JIMS releases new transmission
+NPG2:
+	kits
+
+Sentence: Museum of Modern Art revitalizes architecture & design galleries
+Cue Found: revitalize
+NPG1:
+	Museum of Modern Art
+NPG2:
+	architecture & design galleries
+
+Sentence: Obama ensuring a future in the red?
+Cue Found: ensure
+NPG1:
+	Obama
+NPG2:
+	a future in the red
+
+Sentence: Orange Bowl photo gallery, Iowa defeats Georgia Tech
+Cue Found: defeat
+NPG1:
+	Iowa
+NPG2:
+	Georgia Tech
+
+Sentence: Racial picture of Barack Obama and Sarah Palin causes workplace stir
+Cue Found: cause
+NPG1:
+	Racial picture of Barack Obama and Sarah Palin
+NPG2:
+	workplace
+
+Sentence: Sony Pictures postpones Spider-Man 4
+Cue Found: postpone
+NPG1:
+	Sony Pictures
+NPG2:
+	Spider-Man
+
+Sentence: Steelers Zeirlein fired, Arians demoted sources say
+Cue Found: demote
+NPG1:
+	Arians
+NPG2:
+	sources
+
+Sentence: 'Survivor: Heroes vs. Villains' cast revealed (videos + slideshow)
+Cue Found: reveal
+NPG1:
+	cast
+NPG2:
+	( videos + slideshow )
+
+Sentence: Tonight's Highlights: Lisa Kudrow reunites with Friend Courteney Cox on Cougar Town
+Cue Found: reunite
+NPG1:
+	Lisa Kudrow
+NPG2:
+	with Friend Courteney Cox on Cougar Town
+
+Sentence: Unsatisfied customer trashes midtown McDonald's while we all sit back and watch
+Cue Found: trash
+NPG1:
+	Unsatisfied customer
+NPG2:
+	midtown McDonald
+
+Sentence: Video: Mariah Carey's drunken acceptance speech baffles festival-goers
+Cue Found: baffle
+NPG1:
+	drunken acceptance speech
+NPG2:
+	festival-goers
+
+Sentence: Will full body scanners improve airport security? Revealing body scan images face strong objection
+Cue Found: improve
+NPG1:
+	body scanners
+NPG2:
+	airport security
+
+Sentence: WWE postpones Feb. 7 live event in Huntsville
+Cue Found: postpone
+NPG1:
+	WWE
+NPG2:
+	Feb. 7 live event in Huntsville
+
+Sentence: Cherry's withdrawal improves Democratic chances of keeping the governorship
+Cue Found: improve
+NPG1:
+	withdrawal
+NPG2:
+	Democratic chances
+
+Sentence: Dell reveals 5-inch Android slate device at CES 2010
+Cue Found: reveal
+NPG1:
+	Dell
+NPG2:
+	5-inch Android slate device at CES
+
+Sentence: Drone attacks undermine war on terror, says President Zardari
+Cue Found: undermine
+NPG1:
+	attacks
+NPG2:
+	war on terror
+
+Sentence: EPA toughens standards on smog
+Cue Found: toughen
+NPG1:
+	EPA
+NPG2:
+	standards on smog
+
+Sentence: Evan Turner returns; Ohio State defeats Indiana 79-54
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Indiana
+
+Sentence: Frigid temperatures cause problems for horses and owners
+Cue Found: cause
+NPG1:
+	Frigid temperatures
+NPG2:
+	problems for horses and owners
+
+Sentence: H&M tosses their unworn clothes out with the garbage
+Cue Found: toss
+NPG1:
+	H & M
+NPG2:
+	their unworn clothes
+
+Sentence: Home health code pro helps providers improve compliance
+Cue Found: improve
+NPG1:
+	providers
+NPG2:
+	compliance
+
+Sentence: Info 101: how can I dye my hair naturally?
+Cue Found: dye
+NPG1:
+	I
+NPG2:
+	my hair
+
+Sentence: Kim and Khloe Kardashian reveal their celebrity crushes
+Cue Found: reveal
+NPG1:
+	Kim and Khloe Kardashian
+NPG2:
+	their celebrity
+
+Sentence: Lighten up: brightener trend eases winter beauty woes
+Cue Found: ease
+NPG1:
+	brightener trend
+NPG2:
+	winter beauty woes
+
+Sentence: Makai Golf Course reopens at Princeville on Kauai
+Cue Found: reopen
+NPG1:
+	Makai Golf Course
+NPG2:
+	at Princeville on Kauai
+
+Sentence: New study reveals some frozen meals and restaurant items contain more calories than you need
+Cue Found: reveal
+NPG1:
+	New study
+NPG2:
+	some frozen meals and restaurant items
+
+Sentence: Own a Chi flat iron? Democrat Farouk Shami invented it and he's running for Texas Governor
+Cue Found: invent
+NPG1:
+	Democrat Farouk Shami
+NPG2:
+	it and he
+
+Sentence: Stallone injures his neck filming The Expendables
+Cue Found: injure
+NPG1:
+	Stallone
+NPG2:
+	his neck
+
+Sentence: Swiss court fines speeding millionaire record $290000
+Cue Found: speed
+NPG1:
+	Swiss court fines
+NPG2:
+	millionaire record
+
+Sentence: Taco flavored wings
+Cue Found: flavor
+NPG1:
+	Taco
+NPG2:
+	wings
+
+Sentence: The Terminator rescinds support of Obamacare
+Cue Found: rescind
+NPG1:
+	The Terminator
+NPG2:
+	support of Obamacare
+
+Sentence: UMass basketball splits a doubleheader
+Cue Found: split
+NPG1:
+	UMass basketball
+NPG2:
+	a doubleheader
+
+Sentence: Weather Delays 101: Canceled flights in MKE cause commotion during first heavy New Year snowstorm
+Cue Found: cause
+NPG1:
+	flights in MKE
+NPG2:
+	commotion during first heavy New Year snowstorm
+
+Sentence: CES: Otterbox reveals Tandem Series
+Cue Found: reveal
+NPG1:
+	Otterbox
+NPG2:
+	Tandem Series
+
+Sentence: CHA Craft SuperShow announced star-studded line up of Hollywood and industry crafting celebrities
+Cue Found: craft
+NPG1:
+	of Hollywood and industry
+NPG2:
+	celebrities
+
+Sentence: Did Howard Stern convince TMZ to stay quiet about Artie Lange?
+Cue Found: convince
+NPG1:
+	Howard Stern
+NPG2:
+	TMZ
+
+Sentence: Elvis Presley's 75th birthday anniversary sparks new interest in The King of Rock and Roll
+Cue Found: spark
+NPG1:
+	75th birthday anniversary
+NPG2:
+	new interest in The King of Rock and Roll
+
+Sentence: Engine Software demos tilt functionality in Nintendo's DSi
+Cue Found: tilt
+NPG1:
+	Engine Software demos
+NPG2:
+	functionality in Nintendo
+
+Sentence: Have you overcome an obstacle? Tell Prevention magazine and The Doctors
+Cue Found: overcome
+NPG1:
+	you
+NPG2:
+	an obstacle
+
+Sentence: Jake Pavelka reveals the identity of woman involved with 'Bachelor' scandal
+Cue Found: reveal
+NPG1:
+	Jake Pavelka
+NPG2:
+	the identity of woman
+
+Sentence: Lompoc City Council imposes wage cuts on police officers
+Cue Found: impose
+NPG1:
+	Lompoc City Council
+NPG2:
+	wage cuts on police officers
+
+Sentence: Man arrested in double murder over drug deal
+Cue Found: arrest
+NPG1:
+	Man
+NPG2:
+	in double murder over drug deal
+
+Sentence: Massachusetts College of Pharmacy reverses ban on niqabs and burqas
+Cue Found: reverse
+NPG1:
+	Massachusetts College of Pharmacy
+NPG2:
+	ban on niqabs and burqas
+
+Sentence: Nicky Hilton and Bijou Phillips liberate Casey Johnson's dogs from Tila Tequila's home
+Cue Found: liberate
+NPG1:
+	Nicky Hilton and Bijou Phillips
+NPG2:
+	Casey Johnson
+
+Sentence: Seawolves hoops defeats Hartford Hawks, 70-59
+Cue Found: defeat
+NPG1:
+	Seawolves hoops
+NPG2:
+	Hartford Hawks
+
+Sentence: Soundgarden readying a return after 12 year absence
+Cue Found: ready
+NPG1:
+	Soundgarden
+NPG2:
+	a return after 12 year absence
+
+Sentence: XULA women rally past LSU-Shreveport, but men blocked out at the buzzer
+Cue Found: rally
+NPG1:
+	XULA women
+NPG2:
+	past LSU-Shreveport , but men
+
+Sentence: Bamboozle Festival reveals 2010 lineup
+Cue Found: reveal
+NPG1:
+	Bamboozle Festival
+NPG2:
+	2010 lineup
+
+Sentence: Bogut's big night propels Bucks to third straight win
+Cue Found: propel
+NPG1:
+	big night
+NPG2:
+	Bucks
+
+Sentence: Cold weather wreaks havoc and turns deadly across the United States
+Cue Found: wreak
+NPG1:
+	Cold weather
+NPG2:
+	havoc
+
+Sentence: Jessup, Md. Seafood Company operations halted for multiple violations and public health concerns
+Cue Found: halt
+NPG1:
+	Seafood Company operations
+NPG2:
+	for multiple violations and public health concerns
+
+Sentence: Maria Sharapova defeats Caroline Wozniacki in exhibition in Hong Kong (photos)
+Cue Found: defeat
+NPG1:
+	Maria Sharapova
+NPG2:
+	Caroline Wozniacki in exhibition in Hong Kong ( photos
+
+Sentence: Men arrested at Heathrow for bomb threat made to staff on flight to Dubai
+Cue Found: arrest
+NPG1:
+	Men
+NPG2:
+	at Heathrow for bomb threat
+
+Sentence: Nexus One support problems spoiling Google's parade
+Cue Found: spoil
+NPG1:
+	Nexus One support problems
+NPG2:
+	Google
+
+Sentence: Pet photos unify Wigglypups readers
+Cue Found: unify
+NPG1:
+	Pet photos
+NPG2:
+	Wigglypups readers
+
+Sentence: Research scientists reveal hidden truths in Google Suggest project
+Cue Found: reveal
+NPG1:
+	Research scientists
+NPG2:
+	hidden truths in Google Suggest project
+
+Sentence: 'Talhotblond': How Internet sex caused a workplace murder
+Cue Found: cause
+NPG1:
+	Internet sex
+NPG2:
+	a workplace murder
+
+Sentence: Tufts Jumbos defeat Babson Beavers, 2-1
+Cue Found: defeat
+NPG1:
+	Tufts Jumbos
+NPG2:
+	Babson Beavers
+
+Sentence: U.K. man arrested for bomb hoax on Dubai flight at Heathrow
+Cue Found: arrest
+NPG1:
+	U.K. man
+NPG2:
+	for bomb hoax on Dubai flight at Heathrow
+
+Sentence: Villanova defeats Marquette for the second time in eight days
+Cue Found: defeat
+NPG1:
+	Villanova
+NPG2:
+	Marquette for the second time in eight days
+
+Sentence: Wintery weather causes Natchez Trace Parkway closures
+Cue Found: cause
+NPG1:
+	Wintery weather
+NPG2:
+	Natchez Trace Parkway closures
+
+Sentence: Author Kaleb Nation reveals title and details about second 'Bran Hambric' book
+Cue Found: reveal
+NPG1:
+	Author Kaleb Nation
+NPG2:
+	title and details about second 'Bran Hambric
+
+Sentence: Bulls halt three game skid, rout Timberwolves
+Cue Found: halt
+NPG1:
+	Bulls
+NPG2:
+	three game skid , rout Timberwolves
+
+Sentence: Can coffee ease the effects of Hepatitis C?
+Cue Found: ease
+NPG1:
+	coffee
+NPG2:
+	the effects of Hepatitis C
+
+Sentence: Chiefs axe Flanagan, name owner Smith interim head coach
+Cue Found: axe
+NPG1:
+	Chiefs
+NPG2:
+	Flanagan , name owner Smith interim head coach
+
+Sentence: GAME NOTES: Cardinals defeat Packers in highest scoring NFL playoff game in history (slide show)
+Cue Found: defeat
+NPG1:
+	Cardinals
+NPG2:
+	Packers
+
+Sentence: Harry Reid's 'racist' remarks: comments about Obama spark controversy (video)
+Cue Found: spark
+NPG1:
+	comments about Obama
+NPG2:
+	controversy ( video )
+
+Sentence: Is low self-esteem causing you to underestimate your self worth when it comes to relationships?
+Cue Found: cause
+NPG1:
+	low self-esteem
+NPG2:
+	you
+
+Sentence: Kurt Warner tosses five touchdown passes to lead Cardinals past the Packers in overtime
+Cue Found: toss
+NPG1:
+	Kurt Warner
+NPG2:
+	five touchdown
+
+Sentence: Media Matters.org reveals right-wing lies: Commentary
+Cue Found: reveal
+NPG1:
+	Media Matters.org
+NPG2:
+	right-wing lies
+
+Sentence: Ravens humiliate Patriots at Gillette Stadium
+Cue Found: humiliate
+NPG1:
+	Ravens
+NPG2:
+	Patriots at Gillette Stadium
+
+Sentence: Three men arrested at Heathrow after bomb threat
+Cue Found: arrest
+NPG1:
+	Three men
+NPG2:
+	at Heathrow after bomb threat
+
+Sentence: Amazon reveals Heavy Rain US box art
+Cue Found: reveal
+NPG1:
+	Amazon
+NPG2:
+	Heavy Rain US box art
+
+Sentence: Cold abates across the US, but California turns very wet!
+Cue Found: abate
+NPG1:
+	Cold
+NPG2:
+	across the US , but California
+
+Sentence: Complex magazine compiles a list of the 50 hottest women of reality television.
+Cue Found: compile
+NPG1:
+	Complex magazine
+NPG2:
+	a list
+
+Sentence: Dupont Circle floods after water main break: streets reopen hours later
+Cue Found: reopen
+NPG1:
+	streets
+NPG2:
+	hours
+
+Sentence: Flogging Molly readies for release of new live DVD
+Cue Found: ready
+NPG1:
+	Molly
+NPG2:
+	for release of new live DVD
+
+Sentence: Greg Maddux rejoins Cubs
+Cue Found: rejoin
+NPG1:
+	Greg Maddux
+NPG2:
+	Cubs
+
+Sentence: Head Coach Butch Jones finalizes UC football staff
+Cue Found: finalize
+NPG1:
+	Butch Jones
+NPG2:
+	UC football staff
+
+Sentence: Head Coach Butch Jones finalizes UC football staff
+Cue Found: finalize
+NPG1:
+	Butch Jones
+NPG2:
+	UC football staff
+
+Sentence: Is inflammation a silent assassin? Can you improve life expectancy by controlling it?
+Cue Found: improve
+NPG1:
+	you
+NPG2:
+	life expectancy
+
+Sentence: January 2010 glass crafting classes offered at Delphi Creativity Center in Lansing
+Cue Found: craft
+NPG1:
+	January 2010 glass
+NPG2:
+	classes
+
+Sentence: Marvel Studios commences production on 'Thor'
+Cue Found: commence
+NPG1:
+	Marvel Studios
+NPG2:
+	production on 'Thor
+
+Sentence: Obama and Pelosi CIA attacks embolden terrorists
+Cue Found: embolden
+NPG1:
+	Obama and Pelosi CIA attacks
+NPG2:
+	terrorists
+
+Sentence: Peaceful Orcas Island disrupted by copycat killer in Roberts' July 6, 2010 release 'The Search'
+Cue Found: disrupt
+NPG1:
+	Peaceful Orcas Island
+NPG2:
+	by copycat killer in Roberts
+
+Sentence: Sex scandal blights career of anti-green government official in Northern Ireland
+Cue Found: blight
+NPG1:
+	Sex scandal
+NPG2:
+	career of anti-green government official in Northern Ireland
+
+Sentence: The will of the billionaire be done, Jerry Jones secures the Pacquiao fight after all
+Cue Found: secure
+NPG1:
+	Jerry Jones
+NPG2:
+	the Pacquiao fight
+
+Sentence: Toledo Walleye curb the Charlotte Checkers for a perfect weekend
+Cue Found: curb
+NPG1:
+	Toledo Walleye
+NPG2:
+	the Charlotte Checkers for a perfect weekend
+
+Sentence: UNC defeats Virginia Tech: PHOTO SLIDESHOW
+Cue Found: defeat
+NPG1:
+	UNC
+NPG2:
+	Virginia Tech
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Warning: Avatar so beautiful it causes depression and suicidal tendencies
+Cue Found: cause
+NPG1:
+	it
+NPG2:
+	depression and suicidal tendencies
+
+Sentence: 21 Indians arrested in China for smuggling diamonds
+Cue Found: arrest
+NPG1:
+	21 Indians
+NPG2:
+	in China for smuggling diamonds
+
+Sentence: Ark-La-Tex Boat Sport and RV Show and Fishing Tournament revealed businesses with distinction
+Cue Found: reveal
+NPG1:
+	Ark-La-Tex Boat Sport and RV Show and Fishing Tournament
+NPG2:
+	businesses with distinction
+
+Sentence: Avatar film causing depression and suicidal thoughts
+Cue Found: cause
+NPG1:
+	Avatar film
+NPG2:
+	depression and suicidal thoughts
+
+Sentence: Avatar sparks a discussion about racism
+Cue Found: spark
+NPG1:
+	Avatar
+NPG2:
+	a discussion about racism
+
+Sentence: Conan O'Brien issues revealing statement about his future at NBC
+Cue Found: reveal
+NPG1:
+	Conan O'Brien issues
+NPG2:
+	statement about his future at NBC
+
+Sentence: Cybil Shepherd's son arrested for theft at Philadelphia airport
+Cue Found: arrest
+NPG1:
+	son
+NPG2:
+	for theft at Philadelphia airport
+
+Sentence: OPD Chief Demings dispelling Orlando's national reputation as a 'dangerous,' 'angry' city
+Cue Found: dispel
+NPG1:
+	OPD Chief Demings
+NPG2:
+	Orlando
+
+Sentence: Seized sea container reveals 885 pounds of marijuana
+Cue Found: reveal
+NPG1:
+	sea container
+NPG2:
+	885 pounds of marijuana
+
+Sentence: Shaun White secures his spot on the U.S. Olympic Snowboarding Team
+Cue Found: secure
+NPG1:
+	Shaun White
+NPG2:
+	his spot on the U.S. Olympic Snowboarding Team
+
+Sentence: Slideshow: Haiti earthquake causes destruction and devastation (photos)
+Cue Found: cause
+NPG1:
+	Haiti earthquake
+NPG2:
+	destruction and devastation ( photos
+
+Sentence: Snow flurries today. More for this weekend?
+Cue Found: flurry
+NPG1:
+	Snow
+NPG2:
+	today
+
+Sentence: Thank you rally today
+Cue Found: rally
+NPG1:
+	you
+NPG2:
+	today
+
+Sentence: WEC 46 quick compendium: Henderson unifies the belt and Faber earns title shot
+Cue Found: unify
+NPG1:
+	Henderson
+NPG2:
+	the belt and Faber
+
+Sentence: Christian community and others offer aid to earthquake ravaged Haiti (video)
+Cue Found: ravage
+NPG1:
+	earthquake
+NPG2:
+	Haiti ( video )
+
+Sentence: Dexter's Michael C. Hall reveals cancer diagnosis
+Cue Found: reveal
+NPG1:
+	Michael C. Hall
+NPG2:
+	cancer diagnosis
+
+Sentence: Did God cause the earthquake in Haiti?
+Cue Found: cause
+NPG1:
+	God
+NPG2:
+	the earthquake in Haiti
+
+Sentence: Earthquake devastates Haiti: Coping with a natural disaster
+Cue Found: devastate
+NPG1:
+	Earthquake
+NPG2:
+	Haiti
+
+Sentence: Gabriel Johnson news: Police reveal new info in case of missing 8-month-old boy
+Cue Found: reveal
+NPG1:
+	Police
+NPG2:
+	new info in case
+
+Sentence: Haiti earthquake devastates resort city of Jacmel
+Cue Found: devastate
+NPG1:
+	Haiti earthquake
+NPG2:
+	resort city of Jacmel
+
+Sentence: Heidi Montag reveals plastic surgery addiction on cover of People: Yes, that really is her
+Cue Found: reveal
+NPG1:
+	Heidi Montag
+NPG2:
+	plastic surgery addiction on cover of People
+
+Sentence: Help yourself lose weight and serve mankind by committing dollars to earthquake ravaged Haiti
+Cue Found: ravage
+NPG1:
+	earthquake
+NPG2:
+	Haiti
+
+Sentence: Homeowner's screams scare burglar from home
+Cue Found: scare
+NPG1:
+	screams
+NPG2:
+	burglar from home
+
+Sentence: Inaccurate ATF records endanger gun owners
+Cue Found: endanger
+NPG1:
+	Inaccurate ATF records
+NPG2:
+	gun owners
+
+Sentence: Jennings deletes Twitter account
+Cue Found: delete
+NPG1:
+	Jennings
+NPG2:
+	Twitter account
+
+Sentence: Law of Attraction's Abraham on Martin Luther King Jr - The empowered version of Dr. King's dream
+Cue Found: empower
+NPG1:
+	The
+NPG2:
+	version of Dr. King
+
+Sentence: Major earthquake wreaks havoc in Haiti
+Cue Found: wreak
+NPG1:
+	Major earthquake
+NPG2:
+	havoc in Haiti
+
+Sentence: News of Kiffin's defection causes mass rioting on Tennessee campus (video)
+Cue Found: cause
+NPG1:
+	defection
+NPG2:
+	mass rioting on Tennessee campus ( video )
+
+Sentence: Victoria's Secret model Kylie Bisutti reveals secret obsession with lingerie
+Cue Found: reveal
+NPG1:
+	Secret model Kylie Bisutti
+NPG2:
+	secret obsession with lingerie
+
+Sentence: Why does God permit suffering?
+Cue Found: permit
+NPG1:
+	God
+NPG2:
+	suffering
+
+Sentence: Dragons defeat Hofstra in defensive struggle
+Cue Found: defeat
+NPG1:
+	Dragons
+NPG2:
+	Hofstra in defensive struggle
+
+Sentence: Even Haiti reveals moral disparity in Middle East
+Cue Found: reveal
+NPG1:
+	Haiti
+NPG2:
+	moral disparity in Middle East
+
+Sentence: Haitian Ambassador Raymond Joseph on Pat Robertson claim devil pact caused earthquake
+Cue Found: cause
+NPG1:
+	Haitian Ambassador Raymond Joseph on Pat Robertson claim devil pact
+NPG2:
+	earthquake
+
+Sentence: Holy Spirit defeats Wildwood Catholic (girls) in Cape Atlantic League battle, 51-24
+Cue Found: defeat
+NPG1:
+	Holy Spirit
+NPG2:
+	Wildwood Catholic ( girls
+
+Sentence: Katharine McPhee flaunts sexy bikini body: I overcame bulimia
+Cue Found: overcome
+NPG1:
+	I
+NPG2:
+	bulimia
+
+Sentence: Phoenix organization exemplies Christ's love in earthquake ravaged Haiti
+Cue Found: ravage
+NPG1:
+	love in earthquake
+NPG2:
+	Haiti
+
+Sentence: Silicon Valley Reads finalizes 2010 event schedule centering on 'In Defense of Food'
+Cue Found: center
+NPG1:
+	2010 event schedule
+NPG2:
+	on 'In Defense of Food
+
+Sentence: Stanford women improve record against Washington State to 49-0
+Cue Found: improve
+NPG1:
+	Stanford women
+NPG2:
+	record against Washington State
+
+Sentence: T-Devils spoil coaching debut of Neil Smith, down Chiefs 4-2
+Cue Found: spoil
+NPG1:
+	T-Devils
+NPG2:
+	coaching debut of Neil Smith
+
+Sentence: Video: Transformers: War for Cybertron reveal video
+Cue Found: reveal
+NPG1:
+	War for Cybertron
+NPG2:
+	video
+
+Sentence: Youtube Pants On The Ground: 'American Idol' auditions spark a new viral video star in Larry Platt
+Cue Found: spark
+NPG1:
+	auditions
+NPG2:
+	a new viral video star in Larry Platt
+
+Sentence: Cirque du Soleil evokes the magical mystery of the insect world in Ovo
+Cue Found: evoke
+NPG1:
+	Cirque du Soleil
+NPG2:
+	the magical mystery of the insect world in Ovo
+
+Sentence: Did Dallas protesters scare Harry Reid away from Irving appearance?
+Cue Found: scare
+NPG1:
+	Dallas protesters
+NPG2:
+	Harry Reid
+
+Sentence: Jimmy Kimmel embarrasses Jay Leno on 'The Jay Leno Show' (video)
+Cue Found: embarrass
+NPG1:
+	Jimmy Kimmel
+NPG2:
+	Jay Leno on 'The Jay Leno Show
+
+Sentence: New Boise ordinances improve cycling safety
+Cue Found: improve
+NPG1:
+	New Boise ordinances
+NPG2:
+	cycling safety
+
+Sentence: Overnight foot cream heals split thumb
+Cue Found: split
+NPG1:
+	Overnight foot cream heals
+NPG2:
+	thumb
+
+Sentence: Quake ravaged Haiti receives support from the city of Los Angeles
+Cue Found: ravage
+NPG1:
+	Quake
+NPG2:
+	Haiti
+
+Sentence: Staal sparks 3rd period comeback in Edmonton
+Cue Found: spark
+NPG1:
+	Staal
+NPG2:
+	3rd period comeback in Edmonton
+
+Sentence: Star Trek Online reveals subscription options
+Cue Found: reveal
+NPG1:
+	Star Trek Online
+NPG2:
+	subscription options
+
+Sentence: VIDEO: Jessica Biel refuses to address rumors linking beau Justin Timberlake and Rihanna
+Cue Found: link
+NPG1:
+	rumors
+NPG2:
+	beau Justin Timberlake and Rihanna
+
+Sentence: Western Kentucky Hilltoppers defeat Florida Atlantic Owls, despite the tweets
+Cue Found: defeat
+NPG1:
+	Western Kentucky Hilltoppers
+NPG2:
+	Florida Atlantic Owls , despite the tweets
+
+Sentence: Zac Posen limited edition line for Target revealed
+Cue Found: limit
+NPG1:
+	Zac Posen
+NPG2:
+	edition line for Target
+
+Sentence: Billy Graham Association and Samaritan's Purse reach out to earthquake ravaged Haiti
+Cue Found: ravage
+NPG1:
+	earthquake
+NPG2:
+	Haiti
+
+Sentence: Coyotes defeat Wild in offensive showcase
+Cue Found: defeat
+NPG1:
+	Coyotes
+NPG2:
+	Wild in offensive showcase
+
+Sentence: Crawford's buzzer beater propels Hawks over Suns
+Cue Found: propel
+NPG1:
+	buzzer beater
+NPG2:
+	Hawks over Suns
+
+Sentence: ICAN retracts Hughes endorsement, sides with Lowery
+Cue Found: retract
+NPG1:
+	ICAN
+NPG2:
+	Hughes endorsement , sides with Lowery
+
+Sentence: Minnesota Speaker of the House, DFL busted big time
+Cue Found: bust
+NPG1:
+	DFL
+NPG2:
+	big time
+
+Sentence: NJ Medicaid audit reveals typical government mismanagement
+Cue Found: reveal
+NPG1:
+	NJ Medicaid audit
+NPG2:
+	typical government mismanagement
+
+Sentence: 'Pants on the Ground' original video sparks viral popularity for General Larry Platt (VIDEO)
+Cue Found: spark
+NPG1:
+	original video
+NPG2:
+	viral popularity for General Larry Platt ( VIDEO
+
+Sentence: Sassafras reveals new collections and is giving you a chance to win them!
+Cue Found: reveal
+NPG1:
+	Sassafras
+NPG2:
+	new collections
+
+Sentence: Security fears and logistic issues hamper aid distribution in quake-hit Haiti
+Cue Found: hamper
+NPG1:
+	Security fears and logistic issues
+NPG2:
+	aid distribution in quake-hit Haiti
+
+Sentence: Song lyrics link Teddy, Philly Soul, hip-hop, and Haiti
+Cue Found: link
+NPG1:
+	Song lyrics
+NPG2:
+	Teddy , Philly Soul , hip-hop , and Haiti
+
+Sentence: VIDEO: Teen hunk Justin Bieber reveals his ideal girl, hair style insights and favorite fruits
+Cue Found: reveal
+NPG1:
+	Teen hunk Justin Bieber
+NPG2:
+	his ideal girl , hair style insights and favorite fruits
+
+Sentence: Wal-Mart demoralizes cash strapped Americans
+Cue Found: demoralize
+NPG1:
+	Wal-Mart
+NPG2:
+	cash strapped Americans
+
+Sentence: Warm January weather hastens the winter stonefly hatch
+Cue Found: hasten
+NPG1:
+	Warm January weather
+NPG2:
+	the winter
+
+Sentence: Camellias brighten the winter landscape
+Cue Found: brighten
+NPG1:
+	Camellias
+NPG2:
+	the winter landscape
+
+Sentence: Carnival revamps web site; creates Funville--new interactive social media hub
+Cue Found: revamp
+NPG1:
+	Carnival
+NPG2:
+	web site
+
+Sentence: How to stock you craft supplies for less
+Cue Found: craft
+NPG1:
+	you
+NPG2:
+	supplies
+
+Sentence: Jury applications being accepted for Spring into Wings craft show, Kalamazoo, March 2010
+Cue Found: craft
+NPG1:
+	for Spring into Wings
+NPG2:
+	show , Kalamazoo , March
+
+Sentence: Manzano beats Cibola 36-30 in JV contest, Cibola defeats Manzano 36-31 in varsity girls' basketball
+Cue Found: defeat
+NPG1:
+	Cibola
+NPG2:
+	Manzano
+
+Sentence: Need a chuckle? Ghost scares the New York Knicks into a loss
+Cue Found: scar
+NPG1:
+	Ghost
+NPG2:
+	the New York Knicks into a loss
+
+Sentence: Reitz defeats Harrison, 61-51, for their fourth ONB Classic championship
+Cue Found: defeat
+NPG1:
+	Reitz
+NPG2:
+	Harrison
+
+Sentence: Sarah Palin, Bristol Palin reveal life after babies, Bristol chooses life, celibacy
+Cue Found: reveal
+NPG1:
+	Bristol Palin
+NPG2:
+	life after babies
+
+Sentence: Saunders joins the 600 club as Wizards defeat Kings
+Cue Found: defeat
+NPG1:
+	600 club as Wizards
+NPG2:
+	Kings
+
+Sentence: Site of Crystal Cove Beach Cottages reveals hidden art treasures
+Cue Found: reveal
+NPG1:
+	Site of Crystal Cove Beach Cottages
+NPG2:
+	hidden art treasures
+
+Sentence: Two one-man shows wow Washington-area audiences
+Cue Found: wow
+NPG1:
+	Two one-man shows
+NPG2:
+	Washington-area audiences
+
+Sentence: What the Amir Khan / Frank Warren split means
+Cue Found: split
+NPG1:
+	Frank Warren
+NPG2:
+	means
+
+Sentence: Your first QSO will help you overcome 'mike fright' and get you going
+Cue Found: overcome
+NPG1:
+	you
+NPG2:
+	'mike fright
+
+Sentence: 40 years later: FDA reverses position on BPA as safe
+Cue Found: reverse
+NPG1:
+	FDA
+NPG2:
+	position on BPA
+
+Sentence: Charger meltdown caused by lack of leadership
+Cue Found: cause
+NPG1:
+	Charger meltdown
+NPG2:
+	by lack of leadership
+
+Sentence: Conan O'Brien rallies Monday in Los Angeles and New York City (videos)
+Cue Found: rally
+NPG1:
+	Conan O'Brien
+NPG2:
+	Monday in Los Angeles and New York City ( videos
+
+Sentence: Facebook overpowers Twitter for marketing
+Cue Found: overpower
+NPG1:
+	Facebook
+NPG2:
+	Twitter for marketing
+
+Sentence: Focus on the Family maintains CPAC 2010 co-sponsorship
+Cue Found: maintain
+NPG1:
+	Focus on the Family
+NPG2:
+	CPAC 2010 co-sponsorship
+
+Sentence: France questions role of United States in Haiti causing diplomatic rift
+Cue Found: cause
+NPG1:
+	France questions role of United States in Haiti
+NPG2:
+	diplomatic rift
+
+Sentence: Funny Video: What happens when you microwave a box of wine? Kitchen remodeling (with video)
+Cue Found: remodel
+NPG1:
+	Kitchen
+NPG2:
+	( with video )
+
+Sentence: Girls water polo: Dos Pueblos defeat Newport Harbor in Santa Barbara
+Cue Found: defeat
+NPG1:
+	Dos Pueblos
+NPG2:
+	Newport Harbor in Santa Barbara
+
+Sentence: Haiti Earthquake causes long-term health risks- Donate to ARC Haiti Relief to avoid scams (Link)
+Cue Found: cause
+NPG1:
+	Haiti Earthquake
+NPG2:
+	long-term health risks- Donate
+
+Sentence: Lakers defeat Magic on MLK Day: Five thoughts
+Cue Found: defeat
+NPG1:
+	Lakers
+NPG2:
+	Magic on MLK Day
+
+Sentence: Loria not McGwire embarrasses Major League Baseball
+Cue Found: embarrass
+NPG1:
+	McGwire
+NPG2:
+	Major League Baseball
+
+Sentence: Pearl Harbor spawns prejudice
+Cue Found: spawn
+NPG1:
+	Pearl Harbor
+NPG2:
+	prejudice
+
+Sentence: Quest Crew wows Kobe Bryant during Bryant's Nike Zoom Kobe V shoes.
+Cue Found: wow
+NPG1:
+	Quest Crew
+NPG2:
+	Kobe Bryant during Bryant
+
+Sentence: Synthetic, dissolving plates ease repairs of nasal septum defects
+Cue Found: ease
+NPG1:
+	plates
+NPG2:
+	repairs of nasal septum defects
+
+Sentence: Wizards defeat Blazers in first meeting
+Cue Found: defeat
+NPG1:
+	Wizards
+NPG2:
+	Blazers in first meeting
+
+Sentence: Back to back Walmart deals triggering ongoing strength in Jan with this 1.14cent stock.
+Cue Found: trigger
+NPG1:
+	Walmart deals
+NPG2:
+	ongoing strength in Jan with this 1.14cent stock
+
+Sentence: Bible verses on US combat rifles cause outrage
+Cue Found: cause
+NPG1:
+	Bible verses on US combat rifles
+NPG2:
+	outrage
+
+Sentence: Body image issues part 2: How can I improve the way I see myself?
+Cue Found: improve
+NPG1:
+	I
+NPG2:
+	the way I
+
+Sentence: Chargers' Jackson handcuffed day of Jets playoff game
+Cue Found: handcuff
+NPG1:
+	Jackson
+NPG2:
+	day of Jets playoff game
+
+Sentence: Examiner networking event
+Cue Found: network
+NPG1:
+	Examiner
+NPG2:
+	event
+
+Sentence: FW South Side topples Northrop in boy's SAC basketball action
+Cue Found: topple
+NPG1:
+	FW South Side
+NPG2:
+	Northrop in boy
+
+Sentence: Galloway Police arrest man on charges of rape, endangering a child, child pornography
+Cue Found: arrest
+NPG1:
+	Galloway Police
+NPG2:
+	man on charges of rape
+
+Sentence: Hawks split games vs. St. Bonaventure and Towson
+Cue Found: split
+NPG1:
+	Hawks
+NPG2:
+	games vs. St. Bonaventure and Towson
+
+Sentence: Letter to a pundit: The wounds speeding the demise of mainstream media are self-inflicted
+Cue Found: speed
+NPG1:
+	The wounds
+NPG2:
+	the demise of mainstream media
+
+Sentence: Robertson and Limbaugh spouting lunacy again
+Cue Found: spout
+NPG1:
+	Robertson and Limbaugh
+NPG2:
+	lunacy
+
+Sentence: San Diego resources improved thanks to A-1 Self Storage donations
+Cue Found: improve
+NPG1:
+	San Diego resources
+NPG2:
+	thanks
+
+Sentence: Scott Brown defeats Martha Coakley and the Democrats
+Cue Found: defeat
+NPG1:
+	Scott Brown
+NPG2:
+	Martha Coakley and the Democrats
+
+Sentence: Serena Williams defeats Urszula Radwanska (video), plus complete Australian Open first-round results
+Cue Found: defeat
+NPG1:
+	Serena Williams
+NPG2:
+	Urszula Radwanska ( video ) , plus complete Australian Open first-round results
+
+Sentence: Storms continue to hit California causing immense uneasiness for locals and travelers
+Cue Found: cause
+NPG1:
+	California
+NPG2:
+	immense uneasiness for locals and travelers
+
+Sentence: U.S. dictated freeze to Israel? Part 2. How might the U.S. coerce another country?
+Cue Found: coerce
+NPG1:
+	the U.S.
+NPG2:
+	another country
+
+Sentence: Actor Jose Zuniga reveals dinner date details with Robert Pattinson
+Cue Found: reveal
+NPG1:
+	Actor Jose Zuniga
+NPG2:
+	dinner date details with Robert Pattinson
+
+Sentence: Amazon reveals Heavy Rain Japanese box art
+Cue Found: reveal
+NPG1:
+	Amazon
+NPG2:
+	Heavy Rain Japanese box art
+
+Sentence: Amazon reveals Metal Gear Solid: Peace Walker Japanese box art
+Cue Found: reveal
+NPG1:
+	Amazon
+NPG2:
+	Metal Gear Solid
+
+Sentence: British bobsledder splits pants before run (video)
+Cue Found: split
+NPG1:
+	British bobsledder
+NPG2:
+	pants before run ( video )
+
+Sentence: Brittany Murphy's mother, husband appear on Larry King tonight; mitral valve prolapse caused death?
+Cue Found: cause
+NPG1:
+	mitral valve prolapse
+NPG2:
+	death
+
+Sentence: Did her involvement in Amiruault Fells Acres Day Care case help defeat Martha Coakley?
+Cue Found: defeat
+NPG1:
+	her involvement in Amiruault Fells Acres Day Care case help
+NPG2:
+	Martha Coakley
+
+Sentence: Dr. Oz Show reveals common toxins in your home that may be endangering your health
+Cue Found: reveal
+NPG1:
+	Dr. Oz Show
+NPG2:
+	common toxins in your home
+
+Sentence: Forney Police arrest robbery suspects
+Cue Found: arrest
+NPG1:
+	Forney Police
+NPG2:
+	robbery suspects
+
+Sentence: Haiti aftershock devastates island and complicates relief efforts
+Cue Found: devastate
+NPG1:
+	Haiti aftershock
+NPG2:
+	island
+
+Sentence: Harris County Republicans energized by Brown victory in Massachusetts
+Cue Found: energize
+NPG1:
+	Harris County Republicans
+NPG2:
+	by Brown victory in Massachusetts
+
+Sentence: Michael Pollan simplifies food at San Francisco Ferry Building
+Cue Found: simplify
+NPG1:
+	Michael Pollan
+NPG2:
+	food at San Francisco Ferry Building
+
+Sentence: Ohio State defeats Northwestern 76-56
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Northwestern
+
+Sentence: Prop 8 adversaries link the roots of anti-gay discrimination to the church
+Cue Found: link
+NPG1:
+	8 adversaries
+NPG2:
+	the roots of anti-gay discrimination
+
+Sentence: Purdue defeats Illinois 84-78
+Cue Found: defeat
+NPG1:
+	Purdue
+NPG2:
+	Illinois
+
+Sentence: San Jose Mercury News article quotes Food Network Chef Alton Brown saying cooking eases stress
+Cue Found: ease
+NPG1:
+	cooking
+NPG2:
+	stress
+
+Sentence: Storm caused the death of one San Diego County resident
+Cue Found: cause
+NPG1:
+	Storm
+NPG2:
+	the death of one San Diego County resident
+
+Sentence: The on-air 'passion' of Mel Gibson and KTLA's Sam Rubin sparks controversy (VIDEO)
+Cue Found: spark
+NPG1:
+	Sam Rubin
+NPG2:
+	controversy ( VIDEO
+
+Sentence: Got furniture? YoVille revealed new items for the beach house today!
+Cue Found: reveal
+NPG1:
+	YoVille
+NPG2:
+	new items for the beach house today
+
+Sentence: Has the U.S. government impoverished the American Samoa with good intentions? Is Chicago next?
+Cue Found: impoverish
+NPG1:
+	the U.S. government
+NPG2:
+	the American Samoa with good intentions
+
+Sentence: IPCC retracts mistake
+Cue Found: retract
+NPG1:
+	IPCC
+NPG2:
+	mistake
+
+Sentence: Joe Pilates invented Pilates
+Cue Found: invent
+NPG1:
+	Joe Pilates
+NPG2:
+	Pilates
+
+Sentence: NBC finalizes deal with Conan O'Brien to boot him off 'The Tonight Show'
+Cue Found: finalize
+NPG1:
+	NBC
+NPG2:
+	deal with Conan O'Brien
+
+Sentence: Obama, Dems perpetuate 'blame game'
+Cue Found: perpetuate
+NPG1:
+	Dems
+NPG2:
+	'blame game
+
+Sentence: Ozzy Osbourne pens revealing memoir
+Cue Found: reveal
+NPG1:
+	Ozzy Osbourne pens
+NPG2:
+	memoir
+
+Sentence: Police arrest man suspected of jewelry thefts in San Antonio, Austin and San Marcos
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	man
+
+Sentence: Prince William splits his second day in Australia between causes and friends (photos, video)
+Cue Found: split
+NPG1:
+	Prince William
+NPG2:
+	his second day in Australia between causes and friends
+
+Sentence: Review: Lubriderm moisturizing lotion
+Cue Found: moisturize
+NPG1:
+	Lubriderm
+NPG2:
+	lotion
+
+Sentence: Run with the Bulls: Spanish red wines evoke good times, flavor
+Cue Found: evoke
+NPG1:
+	Spanish red wines
+NPG2:
+	good times , flavor
+
+Sentence: Starfield readies for February 23 album release
+Cue Found: ready
+NPG1:
+	Starfield
+NPG2:
+	for February 23 album release
+
+Sentence: The Santa Maria del Fiore, aka Duomo, in Florence, Italy evokes wonder and awe
+Cue Found: evoke
+NPG1:
+	Italy
+NPG2:
+	wonder and awe
+
+Sentence: World Bank defers Haiti debt
+Cue Found: defer
+NPG1:
+	World Bank
+NPG2:
+	Haiti debt
+
+Sentence: 2010 Detroit Auto Show sparks emergency evacuation
+Cue Found: spark
+NPG1:
+	2010 Detroit Auto Show
+NPG2:
+	emergency evacuation
+
+Sentence: Aveion Malik Lewis: Search warrant reveals troubled home life for Roanoke toddler
+Cue Found: reveal
+NPG1:
+	warrant
+NPG2:
+	troubled home life for Roanoke toddler
+
+Sentence: Billings triple homicide trial postponed after discovery of new evidence
+Cue Found: postpone
+NPG1:
+	Billings triple homicide trial
+NPG2:
+	after discovery of new evidence
+
+Sentence: City of Heroes: Going Rogue reveals Tyrant
+Cue Found: reveal
+NPG1:
+	Rogue
+NPG2:
+	Tyrant
+
+Sentence: Ford wows NAIAS with multiple technology displays
+Cue Found: wow
+NPG1:
+	Ford
+NPG2:
+	NAIAS with multiple technology displays
+
+Sentence: Heidi Montag's plastic surgery horrifies her mother, Spencer Pratt admits he didn't like the idea
+Cue Found: horrify
+NPG1:
+	plastic surgery
+NPG2:
+	her mother
+
+Sentence: Hugo Chavez: New US weapon caused Haiti earthquake
+Cue Found: cause
+NPG1:
+	New US weapon
+NPG2:
+	Haiti earthquake
+
+Sentence: January 22: Russia's Imperial Guard causes Bloody Sunday, Roe v. Wade decision made
+Cue Found: cause
+NPG1:
+	Imperial Guard
+NPG2:
+	Bloody Sunday , Roe v. Wade decision
+
+Sentence: Jones Bobcats decimate Meridian Eagles
+Cue Found: decimate
+NPG1:
+	Jones Bobcats
+NPG2:
+	Meridian Eagles
+
+Sentence: Love Lessons: Is bad news and the recession harming your marriage?
+Cue Found: harm
+NPG1:
+	bad news and the recession
+NPG2:
+	your marriage
+
+Sentence: 'Pet torture lady' also abused children
+Cue Found: torture
+NPG1:
+	'Pet
+NPG2:
+	lady
+
+Sentence: Star studded Hope for Haiti telethon
+Cue Found: stud
+NPG1:
+	Star
+NPG2:
+	Hope for Haiti telethon
+
+Sentence: Third ranked Linn-Mar topples Washington
+Cue Found: topple
+NPG1:
+	Linn-Mar
+NPG2:
+	Washington
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Video: Glenn Beck distorts the progressive movement with Mao and Stalin references
+Cue Found: distort
+NPG1:
+	Glenn Beck
+NPG2:
+	the progressive movement with Mao and Stalin references
+
+Sentence: Weather postpones first race of year
+Cue Found: postpone
+NPG1:
+	Weather
+NPG2:
+	first race of year
+
+Sentence: Academy narrows field for foreign language Oscar to 9, including White Ribbon & A Prophet
+Cue Found: narrow
+NPG1:
+	Academy
+NPG2:
+	field for foreign language Oscar
+
+Sentence: Andy Dick arrested on two counts of sexual abuse
+Cue Found: arrest
+NPG1:
+	Andy Dick
+NPG2:
+	on two counts of sexual abuse
+
+Sentence: Ease of Googling Colorado political contributions negates Obama 'special interests' warning
+Cue Found: negate
+NPG1:
+	of Googling Colorado political contributions
+NPG2:
+	Obama 'special interests
+
+Sentence: Photo: Andy Dick arrested Saturday for two counts of sexual abuse
+Cue Found: arrest
+NPG1:
+	Andy Dick
+NPG2:
+	Saturday for two counts of sexual abuse
+
+Sentence: Placer County youth coalition reveals risks of mobile phones in children's hands
+Cue Found: reveal
+NPG1:
+	Placer County youth coalition
+NPG2:
+	risks of mobile phones in children
+
+Sentence: Russian ice skaters offend Aborigine culture with costumes
+Cue Found: offend
+NPG1:
+	Russian ice skaters
+NPG2:
+	Aborigine culture with costumes
+
+Sentence: Russian Report: U.S. weapon against Iran caused Haiti earthquake
+Cue Found: cause
+NPG1:
+	U.S. weapon against Iran
+NPG2:
+	Haiti earthquake
+
+Sentence: Symptoms of poverty wreak havoc on education
+Cue Found: wreak
+NPG1:
+	Symptoms of poverty
+NPG2:
+	havoc on education
+
+Sentence: Vonage bromance ads spawn spoof
+Cue Found: spawn
+NPG1:
+	Vonage bromance ads
+NPG2:
+	spoof
+
+Sentence: WSU Basketball Bruins go wire to wire defeating the Cougs 74-62
+Cue Found: defeat
+NPG1:
+	wire
+NPG2:
+	the Cougs
+
+Sentence: Brad Pitt and Angelina split rumors; their body language tells the story
+Cue Found: split
+NPG1:
+	Brad Pitt and Angelina
+NPG2:
+	rumors
+
+Sentence: Canada's homegrown hero, Ken Taylor revealed as a CIA spy chief in Iran
+Cue Found: reveal
+NPG1:
+	Ken Taylor
+NPG2:
+	as a CIA spy chief in Iran
+
+Sentence: Democrats rally the faithful for 2010 elections
+Cue Found: rally
+NPG1:
+	Democrats
+NPG2:
+	the faithful for 2010 elections
+
+Sentence: Hawks zone befuddles Dayton, leads to upset victory
+Cue Found: befuddle
+NPG1:
+	Hawks zone
+NPG2:
+	Dayton
+
+Sentence: Jenny Swallows astounds with her first collection of erotic verse
+Cue Found: astound
+NPG1:
+	Jenny Swallows
+NPG2:
+	with her first collection of erotic verse
+
+Sentence: Mayweather balks at Mosley, Arum drafting Margarito-Pacquiao
+Cue Found: draft
+NPG1:
+	Arum
+NPG2:
+	Margarito-Pacquiao
+
+Sentence: Murray State overcomes slow start, rolls past Southeast Missouri
+Cue Found: overcome
+NPG1:
+	Murray State
+NPG2:
+	slow start , rolls past Southeast Missouri
+
+Sentence: Rosie O'Donnell reveals life inside the O'Donnell household on Monday's Oprah Winfrey Show
+Cue Found: reveal
+NPG1:
+	Rosie O'Donnell
+NPG2:
+	life inside the O'Donnell household on Monday
+
+Sentence: Students rally against total closure of University of New Orleans
+Cue Found: rally
+NPG1:
+	Students
+NPG2:
+	against total closure of University of New Orleans
+
+Sentence: Study linking HIV with herpes yields unfortunate results
+Cue Found: link
+NPG1:
+	Study
+NPG2:
+	HIV with herpes yields unfortunate results
+
+Sentence: The United Kingdom dismantles its gifted program
+Cue Found: dismantle
+NPG1:
+	The United Kingdom
+NPG2:
+	its gifted program
+
+Sentence: Three suspects arrested in murder of Baltimore marine
+Cue Found: arrest
+NPG1:
+	Three suspects
+NPG2:
+	in murder of Baltimore
+
+Sentence: Tigers topple Houston without Williams
+Cue Found: topple
+NPG1:
+	Tigers
+NPG2:
+	Houston without Williams
+
+Sentence: 'Twilight' star Justin Chon reveals he was inspired by Kristen Stewart to join the film
+Cue Found: reveal
+NPG1:
+	star Justin Chon
+NPG2:
+	he
+
+Sentence: Abusive men coerce pregnancy, sabotage birth control
+Cue Found: coerce
+NPG1:
+	Abusive men
+NPG2:
+	pregnancy , sabotage birth control
+
+Sentence: American Idol sparks new craze 'Pants on the ground'.
+Cue Found: spark
+NPG1:
+	American Idol
+NPG2:
+	new craze 'Pants on the ground
+
+Sentence: Blood drive sparks competition in Boone County
+Cue Found: spark
+NPG1:
+	Blood drive
+NPG2:
+	competition in Boone County
+
+Sentence: Celtics defeat the Clippers, amist a slippery floor
+Cue Found: defeat
+NPG1:
+	Celtics
+NPG2:
+	the Clippers , amist a slippery floor
+
+Sentence: Digital David slays Goliath
+Cue Found: slay
+NPG1:
+	Digital David
+NPG2:
+	Goliath
+
+Sentence: ESRB reveals three new PSOne Classics
+Cue Found: reveal
+NPG1:
+	ESRB
+NPG2:
+	three new PSOne Classics
+
+Sentence: Former Olympic medalist Nancy Kerrigan's father dies, brother arrested (video)
+Cue Found: arrest
+NPG1:
+	brother
+NPG2:
+	( video )
+
+Sentence: Gary Coleman arrested in Utah for domestic assault
+Cue Found: arrest
+NPG1:
+	Gary Coleman
+NPG2:
+	in Utah for domestic assault
+
+Sentence: Gary Coleman arrested in Utah for domestic assault (mugshot)
+Cue Found: arrest
+NPG1:
+	Gary Coleman
+NPG2:
+	in Utah for domestic assault ( mugshot )
+
+Sentence: Gary SouthShore Railcats ensure return of Carrara for 2010
+Cue Found: ensure
+NPG1:
+	Gary SouthShore Railcats
+NPG2:
+	return of Carrara
+
+Sentence: Gov. Granholm on YouTube reveals Michigan's need for accessible broadband
+Cue Found: reveal
+NPG1:
+	Granholm on YouTube
+NPG2:
+	Michigan
+
+Sentence: Growing Oregon coast tides cause concern for home owners and commercial properties
+Cue Found: cause
+NPG1:
+	Oregon coast tides
+NPG2:
+	concern for home owners and commercial properties
+
+Sentence: In a battle of No. 1s, Augsburg defeats Nebraska-Omaha
+Cue Found: defeat
+NPG1:
+	Augsburg
+NPG2:
+	Nebraska-Omaha
+
+Sentence: Kourtney Kardashian: Magazine doctored post-pregnancy pictures (PHOTO links)
+Cue Found: doctor
+NPG1:
+	Magazine
+NPG2:
+	post-pregnancy pictures
+
+Sentence: Meet Eileen Parker: Adult with autism and creator of the Cozy Calm weighted blanket
+Cue Found: weight
+NPG1:
+	Adult with autism and creator of the Cozy Calm
+NPG2:
+	blanket
+
+Sentence: Playstation 3 price drop causes Metal Gear Solid 4 sales spike in Japan
+Cue Found: cause
+NPG1:
+	Playstation 3 price drop
+NPG2:
+	Metal Gear
+
+Sentence: St. Helens man arrested after string of graffiti incidents in St. Helens
+Cue Found: arrest
+NPG1:
+	St. Helens man
+NPG2:
+	after string of graffiti incidents in St. Helens
+
+Sentence: Transformers defeated by Star Trek at SAG awards
+Cue Found: defeat
+NPG1:
+	Transformers
+NPG2:
+	by Star Trek at SAG awards
+
+Sentence: Villanova defeats St. John's 81-71 to improve to 7-0 in the Big East
+Cue Found: defeat
+NPG1:
+	Villanova
+NPG2:
+	St. John
+
+Sentence: Why should you detoxify your body?
+Cue Found: detoxify
+NPG1:
+	you
+NPG2:
+	your body
+
+Sentence: Will our thoughts and beliefs enable us to reverse the aging process?
+Cue Found: enable
+NPG1:
+	our thoughts and beliefs
+NPG2:
+	us
+
+Sentence: Arkansans energized by vast numbers of young adults at 37th March for Life
+Cue Found: energize
+NPG1:
+	Arkansans
+NPG2:
+	by vast numbers of young adults at 37th March for Life
+
+Sentence: AT&T improving data network, but is iPhone on Verizon the best fix?
+Cue Found: improve
+NPG1:
+	AT & T
+NPG2:
+	data network
+
+Sentence: 'Blue-collar' Matthias rallies Florida Panthers into thick of playoff race
+Cue Found: rally
+NPG1:
+	Matthias
+NPG2:
+	Florida Panthers
+
+Sentence: Blue Xmas networking fundraiser party for Charity : Water a big success
+Cue Found: network
+NPG1:
+	Blue Xmas
+NPG2:
+	fundraiser party for Charity
+
+Sentence: Brief Bits: Lupe Fiasco readies release of Lasers LP
+Cue Found: ready
+NPG1:
+	Lupe Fiasco
+NPG2:
+	release of Lasers LP
+
+Sentence: Capcom reveals Super Street Fighter IV release date
+Cue Found: reveal
+NPG1:
+	Capcom
+NPG2:
+	Super Street Fighter IV release date
+
+Sentence: Cheap Eats Quickies: City Paper reveals Dining Deals and Events
+Cue Found: reveal
+NPG1:
+	City Paper
+NPG2:
+	Dining Deals and Events
+
+Sentence: Cold water temperatures causing coral bleaching in popular reefs in South Florida and the Keys
+Cue Found: cause
+NPG1:
+	Cold water temperatures
+NPG2:
+	coral bleaching in popular reefs in South Florida and the Keys
+
+Sentence: Could Taylor Mays reunite with Pete Carroll in Seattle?
+Cue Found: reunite
+NPG1:
+	Taylor Mays
+NPG2:
+	with Pete Carroll in Seattle
+
+Sentence: Earthquake devastates Haiti: Why should anyone in Aurora suddenly care?
+Cue Found: devastate
+NPG1:
+	Earthquake
+NPG2:
+	Haiti
+
+Sentence: Facebook page causes uproar
+Cue Found: cause
+NPG1:
+	Facebook page
+NPG2:
+	uproar
+
+Sentence: Lady Gaga reveals way to kill her at Haitian Benefit
+Cue Found: reveal
+NPG1:
+	Lady Gaga
+NPG2:
+	way
+
+Sentence: Man arrested with cache of weapons and maps of base in NJ
+Cue Found: arrest
+NPG1:
+	Man
+NPG2:
+	with cache of weapons and maps of base in NJ
+
+Sentence: New CPSC report reveals decline in ATV fatalities and injuries
+Cue Found: reveal
+NPG1:
+	New CPSC report
+NPG2:
+	decline in ATV fatalities and injuries
+
+Sentence: Social networking sites much cheaper than therapy.
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	sites
+
+Sentence: Supreme Court's decision enables Chinese takeover of America
+Cue Found: enable
+NPG1:
+	decision
+NPG2:
+	Chinese takeover of America
+
+Sentence: Susan Boyle's cousin wows 'Britain's Got Talent' judges
+Cue Found: wow
+NPG1:
+	cousin
+NPG2:
+	'Britain
+
+Sentence: Teen suicide postpones antibully task force meeting
+Cue Found: postpone
+NPG1:
+	Teen suicide
+NPG2:
+	antibully task force meeting
+
+Sentence: The American diet causes disease
+Cue Found: cause
+NPG1:
+	The American diet
+NPG2:
+	disease
+
+Sentence: Tim Tebow Pro-Life Super Bowl ad causes major controversy
+Cue Found: cause
+NPG1:
+	Tim Tebow Pro-Life Super Bowl ad
+NPG2:
+	major controversy
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Well-worn and lovely, the West Ashley Greenway reveals backyard beauty and charm
+Cue Found: reveal
+NPG1:
+	the West Ashley Greenway
+NPG2:
+	backyard beauty and charm
+
+Sentence: Admirals defeat the Wolf Pack, 5-4
+Cue Found: defeat
+NPG1:
+	Admirals
+NPG2:
+	the Wolf
+
+Sentence: Apple reveals iPad, base cost $499
+Cue Found: reveal
+NPG1:
+	Apple
+NPG2:
+	iPad
+
+Sentence: Arctic blast devastates Florida's citrus, wildlife
+Cue Found: devastate
+NPG1:
+	Arctic blast
+NPG2:
+	Florida
+
+Sentence: BCPS AIM controversy reveals many ethics issues
+Cue Found: reveal
+NPG1:
+	BCPS AIM controversy
+NPG2:
+	many ethics issues
+
+Sentence: Champions Online state of the game reveals first expansion
+Cue Found: reveal
+NPG1:
+	Champions Online state of the game
+NPG2:
+	first expansion
+
+Sentence: Did Britney cause Kevin Federline's depression and weight gain?
+Cue Found: cause
+NPG1:
+	Britney
+NPG2:
+	Kevin Federline
+
+Sentence: Dragons defeat Huskies to complete season sweep
+Cue Found: defeat
+NPG1:
+	Dragons
+NPG2:
+	Huskies
+
+Sentence: Ex-Bronco arrested on child porn charges in Texas
+Cue Found: arrest
+NPG1:
+	Ex-Bronco
+NPG2:
+	on child porn charges in Texas
+
+Sentence: Former San Francisco 49er Charles Haley reveals bipolar disorder diagnosis
+Cue Found: reveal
+NPG1:
+	Former San Francisco 49er Charles Haley
+NPG2:
+	bipolar disorder diagnosis
+
+Sentence: Harvard 'Fellow' CIA spook likens freemason opponents and JFK conspiracists to Al Qaeda terrorists
+Cue Found: spook
+NPG1:
+	CIA
+NPG2:
+	likens freemason opponents and JFK conspiracists
+
+Sentence: James O'Keefe arrest taints ACORN videos? Federal prosecution for attempted wiretapping of Landrieu
+Cue Found: taint
+NPG1:
+	James O'Keefe arrest
+NPG2:
+	ACORN videos
+
+Sentence: Lifting weight improves the mental prowess of older women a new study finds
+Cue Found: improve
+NPG1:
+	weight
+NPG2:
+	the mental prowess
+
+Sentence: LinkedLocal West Suburban networking tonight
+Cue Found: network
+NPG1:
+	LinkedLocal West Suburban
+NPG2:
+	tonight
+
+Sentence: Minnesota defeats Northwestern 65-61
+Cue Found: defeat
+NPG1:
+	Minnesota
+NPG2:
+	Northwestern
+
+Sentence: New findings reveal threat of E. coli in both grass-fed and grain-fed beef
+Cue Found: reveal
+NPG1:
+	New findings
+NPG2:
+	threat
+
+Sentence: Police arrest second suspect in Maple Street home invasion and kidnapping
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	second suspect in Maple Street home invasion and kidnapping
+
+Sentence: Providing safe meat for Haitian earthquake survivors: Indiana volunteers canning turkey meat
+Cue Found: can
+NPG1:
+	Indiana volunteers
+NPG2:
+	turkey meat
+
+Sentence: StuyTown mortgage collapse reveals lessons not learned, still no accountability
+Cue Found: reveal
+NPG1:
+	StuyTown mortgage collapse
+NPG2:
+	lessons
+
+Sentence: Tom Araya's back surgery postpones American Carnage tour
+Cue Found: postpone
+NPG1:
+	back surgery
+NPG2:
+	American Carnage tour
+
+Sentence: 'When movie heroes sprout wings...'
+Cue Found: sprout
+NPG1:
+	'When movie heroes
+NPG2:
+	wings
+
+Sentence: Word cloud of President Obama's State of the Union address reveals emphasis on economy
+Cue Found: reveal
+NPG1:
+	State of the Union address
+NPG2:
+	emphasis on economy
+
+Sentence: 23 local gang members arrested as part of nationwide federal sweep
+Cue Found: arrest
+NPG1:
+	23 local gang members
+NPG2:
+	as part of nationwide federal sweep
+
+Sentence: Blueberries improve memory in older adults
+Cue Found: improve
+NPG1:
+	Blueberries
+NPG2:
+	memory
+
+Sentence: Disney rewards volunteerism in 2010
+Cue Found: reward
+NPG1:
+	Disney
+NPG2:
+	volunteerism
+
+Sentence: Disney rewards volunteers with 'Give a day. Get a Disney day.'
+Cue Found: reward
+NPG1:
+	Disney
+NPG2:
+	volunteers with 'Give a day
+
+Sentence: Four paw declawed cat abandoned outside and now needs a home!
+Cue Found: declaw
+NPG1:
+	Four paw
+NPG2:
+	cat
+
+Sentence: Has AT&T improved service in San Francisco?
+Cue Found: improve
+NPG1:
+	AT & T
+NPG2:
+	service in San Francisco
+
+Sentence: Illinois defeats Penn State 77-67
+Cue Found: defeat
+NPG1:
+	Illinois
+NPG2:
+	Penn State
+
+Sentence: Inclement weather causes Country Music Hall of Fame to close Jan. 30, reschedule of free day TBA
+Cue Found: cause
+NPG1:
+	Inclement weather
+NPG2:
+	Country Music Hall of Fame
+
+Sentence: Jericho and Helms arrested in Kentucky for Public Intoxication
+Cue Found: arrest
+NPG1:
+	Jericho and Helms
+NPG2:
+	in Kentucky for Public Intoxication
+
+Sentence: Los Angeles Unified School District reveals its new report card
+Cue Found: reveal
+NPG1:
+	Los Angeles Unified School District
+NPG2:
+	its new report card
+
+Sentence: Obama rallies rail support, job growth in Tampa
+Cue Found: rally
+NPG1:
+	Obama
+NPG2:
+	rail support , job growth in Tampa
+
+Sentence: Perez Hilton & Hollywood beware - Murphy's husband Monjack reveals himself & points a legal finger
+Cue Found: reveal
+NPG1:
+	husband Monjack
+NPG2:
+	himself
+
+Sentence: Rasmussen: Giannoulias maintaining solid lead
+Cue Found: maintain
+NPG1:
+	Giannoulias
+NPG2:
+	solid lead
+
+Sentence: Religion: Mother Teresa stamps offend secular sensibilities
+Cue Found: offend
+NPG1:
+	Mother Teresa stamps
+NPG2:
+	secular sensibilities
+
+Sentence: Riboflavin and magnesium: can they defuse migraines?
+Cue Found: defuse
+NPG1:
+	they
+NPG2:
+	migraines
+
+Sentence: Stanford women overcome terrible start with big surge
+Cue Found: overcome
+NPG1:
+	Stanford women
+NPG2:
+	terrible start with big surge
+
+Sentence: Super-Obama crashes & burns during SOTU trashes all branches of corruptacrats
+Cue Found: trash
+NPG1:
+	Super-Obama crashes & burns during SOTU
+NPG2:
+	all branches of corruptacrats
+
+Sentence: The Duggar family reveals photos of Josie, talks about her 'scary' birth (video)
+Cue Found: reveal
+NPG1:
+	The Duggar family
+NPG2:
+	photos of Josie
+
+Sentence: Tre Cellars quality negates bargain price
+Cue Found: negate
+NPG1:
+	Tre Cellars quality
+NPG2:
+	bargain price
+
+Sentence: Turkey Creek delights homeschoolers' minds and budgets
+Cue Found: delight
+NPG1:
+	Turkey Creek
+NPG2:
+	homeschoolers
+
+Sentence: Video interview with Schumacher reveals he is ready to race
+Cue Found: reveal
+NPG1:
+	Video interview with Schumacher
+NPG2:
+	he
+
+Sentence: Will Marloes Coenen dethrone Cyborg in a clash of the titans at Strikeforce Miami? (video)
+Cue Found: dethrone
+NPG1:
+	Marloes Coenen
+NPG2:
+	Cyborg in a clash of the titans at Strikeforce Miami
+
+Sentence: Arizona Wildcats overcome cold shooting in victory over Stanford
+Cue Found: overcome
+NPG1:
+	Arizona Wildcats
+NPG2:
+	cold shooting in victory over Stanford
+
+Sentence: Bellevue mom arrested for laxative in baby's bottle: Postpartum depression may be involved
+Cue Found: arrest
+NPG1:
+	Bellevue mom
+NPG2:
+	for laxative in baby
+
+Sentence: Blackhawks defeat Sharks in overtime 4-3: What was learned
+Cue Found: defeat
+NPG1:
+	Blackhawks
+NPG2:
+	Sharks in overtime
+
+Sentence: Cincinnati Bengals' Rey Maualuga arrested in northern Kentucky for DUI charges
+Cue Found: arrest
+NPG1:
+	Rey Maualuga
+NPG2:
+	in northern Kentucky for DUI charges
+
+Sentence: Drugged up Bricktown man causes accident/stops traffic in order to flee scene
+Cue Found: cause
+NPG1:
+	Bricktown man
+NPG2:
+	accident/stops traffic in order
+
+Sentence: Hillsdale College defeats Saginaw Valley in GLIAC women's basketball showdown (slideshow)
+Cue Found: defeat
+NPG1:
+	Hillsdale College
+NPG2:
+	Saginaw Valley in GLIAC women
+
+Sentence: No. 4 Ohio State defeats Purdue, 35-6
+Cue Found: defeat
+NPG1:
+	4 Ohio State
+NPG2:
+	Purdue
+
+Sentence: Oakland rallies for Haiti at tomorrow night's Haitian Relief Benefit Concert
+Cue Found: rally
+NPG1:
+	Oakland
+NPG2:
+	for Haiti at tomorrow night
+
+Sentence: Republican Bill McCollum maintains lead over Democrat Alex Sink in Florida Governor's race
+Cue Found: maintain
+NPG1:
+	Republican Bill McCollum
+NPG2:
+	lead over Democrat Alex Sink in Florida Governor
+
+Sentence: Saturday night model train event delights Minnesota kids
+Cue Found: delight
+NPG1:
+	Saturday night model train event
+NPG2:
+	Minnesota kids
+
+Sentence: Sex offender arrested after 18 years on the lam
+Cue Found: arrest
+NPG1:
+	Sex offender
+NPG2:
+	after 18 years on the lam
+
+Sentence: Snow storm in NC causes Raleigh Airport to cancel flights
+Cue Found: cause
+NPG1:
+	Snow storm in NC
+NPG2:
+	Raleigh Airport
+
+Sentence: Texans draft watch: RB Jonathan Dwyer
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: TTXGP booted from Isle of Man TT races, electric motorcycle racing split worsens?
+Cue Found: split
+NPG1:
+	electric motorcycle racing
+NPG2:
+	worsens
+
+Sentence: Vampire Diaries episode Unpleasantville wows audiences
+Cue Found: wow
+NPG1:
+	Vampire Diaries episode Unpleasantville
+NPG2:
+	audiences
+
+Sentence: Warm January causes trouble for 2010
+Cue Found: cause
+NPG1:
+	Warm January
+NPG2:
+	trouble
+
+Sentence: 2010 Australian Open: Serena Williams defeats Justine Henin; Wins 12th career Grand Slam (photos)
+Cue Found: defeat
+NPG1:
+	Serena Williams
+NPG2:
+	Justine Henin
+
+Sentence: Acclaimed Bay Area brewer reveals secret party recipes just in time for Super Bowl Sunday
+Cue Found: reveal
+NPG1:
+	Acclaimed Bay Area brewer
+NPG2:
+	secret party recipes
+
+Sentence: Area colleges improve graduation rates but much work remains
+Cue Found: improve
+NPG1:
+	Area colleges
+NPG2:
+	graduation rates but much work
+
+Sentence: California imposes fee on Horse CTC rides
+Cue Found: impose
+NPG1:
+	California
+NPG2:
+	fee on Horse CTC rides
+
+Sentence: Dessert Girl reveals her favorite dessert - ever
+Cue Found: reveal
+NPG1:
+	Dessert Girl
+NPG2:
+	her favorite dessert
+
+Sentence: Habs rally for big point but fall in overtime
+Cue Found: rally
+NPG1:
+	Habs
+NPG2:
+	for big point but fall in overtime
+
+Sentence: Jackson sparks Bobcats to win over lifeless Warriors in return to Oracle
+Cue Found: spark
+NPG1:
+	Jackson
+NPG2:
+	Bobcats
+
+Sentence: Jayhawks tame Wildcats (KU defeats K-State 81-79)
+Cue Found: defeat
+NPG1:
+	KU
+NPG2:
+	K-State
+
+Sentence: Judge Joe Griffin terminates parental rights of six members of Tony Alamo Church in Arkansas
+Cue Found: terminate
+NPG1:
+	Judge Joe Griffin
+NPG2:
+	parental rights of six members of Tony Alamo Church in Arkansas
+
+Sentence: Local School Councils empower Chicago parents
+Cue Found: empower
+NPG1:
+	Local School Councils
+NPG2:
+	Chicago parents
+
+Sentence: NCAA: Auburn defeats Georgia for the first time in program history
+Cue Found: defeat
+NPG1:
+	Auburn
+NPG2:
+	Georgia for the first time in program history
+
+Sentence: Need help revamping your wardrobe? Get your own personal stylist!
+Cue Found: revamp
+NPG1:
+	help
+NPG2:
+	your wardrobe
+
+Sentence: Shanahan finalizes coaching staff
+Cue Found: finalize
+NPG1:
+	Shanahan
+NPG2:
+	coaching staff
+
+Sentence: Simon Cowell's star studded Haiti charity single set for February 7 release date
+Cue Found: stud
+NPG1:
+	star
+NPG2:
+	Haiti charity single set for February 7 release date
+
+Sentence: Smokey Bones remodeling program broadened
+Cue Found: remodel
+NPG1:
+	Smokey Bones
+NPG2:
+	program
+
+Sentence: Tampa Bay Lightning terminates contract of Lukas Krajicek
+Cue Found: terminate
+NPG1:
+	Tampa Bay Lightning
+NPG2:
+	contract of Lukas Krajicek
+
+Sentence: Texans draft watch: Guard Mike Iupati
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: 2010 Australian Open: Roger Federer defeats Andy Murray to win Men's Championship (pictures, video)
+Cue Found: defeat
+NPG1:
+	Roger Federer
+NPG2:
+	Andy Murray
+
+Sentence: An eBay killer? No - But DealitLive.com secures niche with iPods, laptops, gadgets & collectibles
+Cue Found: secure
+NPG1:
+	DealitLive.com
+NPG2:
+	niche with iPods , laptops , gadgets & collectibles
+
+Sentence: Can cult group mind control techniques reverse your aging process?
+Cue Found: reverse
+NPG1:
+	cult group mind control techniques
+NPG2:
+	your aging process
+
+Sentence: Federer defeats Murray to win 16th Grand Slam
+Cue Found: defeat
+NPG1:
+	Federer
+NPG2:
+	Murray
+
+Sentence: How workshops can help writers hone their skills
+Cue Found: hone
+NPG1:
+	writers
+NPG2:
+	their skills
+
+Sentence: Is protecting your feelings sabotaging your relationship?
+Cue Found: sabotage
+NPG1:
+	your feelings
+NPG2:
+	your relationship
+
+Sentence: LG FIS Snowboard World Cup slopestyle event wows crowd
+Cue Found: wow
+NPG1:
+	LG FIS Snowboard World Cup slopestyle event
+NPG2:
+	crowd
+
+Sentence: Quad City Jr. Flames defeat Chicago Force in shootout
+Cue Found: defeat
+NPG1:
+	Quad City Jr. Flames
+NPG2:
+	Chicago Force in shootout
+
+Sentence: Serena Williams defeats Justine Henin to win Australian Open 2010 (video)
+Cue Found: defeat
+NPG1:
+	Serena Williams
+NPG2:
+	Justine Henin
+
+Sentence: Texans draft watch: CB/FS Earl Thomas
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Will literacy projects improve the health of Charlotte locals?
+Cue Found: improve
+NPG1:
+	literacy projects
+NPG2:
+	the health of Charlotte locals
+
+Sentence: Yale basketball splits another pair against Ivy League
+Cue Found: split
+NPG1:
+	Yale basketball
+NPG2:
+	another pair against Ivy League
+
+Sentence: Bacco Ristorante delights the senses
+Cue Found: delight
+NPG1:
+	Bacco Ristorante
+NPG2:
+	the senses
+
+Sentence: Chocolate recipes: Dark chocolate eases emotional stress
+Cue Found: ease
+NPG1:
+	Dark chocolate
+NPG2:
+	emotional stress
+
+Sentence: Fallen Earth's State of the Game reveals new content, levels
+Cue Found: reveal
+NPG1:
+	State of the Game
+NPG2:
+	new content , levels
+
+Sentence: Hate crime laws criminalize thought
+Cue Found: criminalize
+NPG1:
+	crime laws
+NPG2:
+	thought
+
+Sentence: Managing, monitoring driver routes improves company's safety
+Cue Found: improve
+NPG1:
+	driver routes
+NPG2:
+	company
+
+Sentence: Michaels to feature kids craft event in Springfield February 6
+Cue Found: craft
+NPG1:
+	kids
+NPG2:
+	event in Springfield February
+
+Sentence: Religion: Idaho Baptists arrested trafficking children in Haiti
+Cue Found: arrest
+NPG1:
+	Idaho Baptists
+NPG2:
+	trafficking children in Haiti
+
+Sentence: Texans draft watch: CB Kyle Wilson
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Texas District 17 Candidate Rob Curnock secures endorsement from Astronaut Jim Lovell
+Cue Found: secure
+NPG1:
+	Texas District 17 Candidate Rob Curnock
+NPG2:
+	endorsement from Astronaut Jim Lovell
+
+Sentence: Through A Dog's Ear soothes the savage beast
+Cue Found: soothe
+NPG1:
+	Ear
+NPG2:
+	the savage beast
+
+Sentence: Tila Tequila deletes Twitter account, slams Perez Hilton
+Cue Found: delete
+NPG1:
+	Tila Tequila
+NPG2:
+	Twitter account
+
+Sentence: Trek Dirt Series coming to San Jose, Santa Cruz to help women cyclists improve mountain bike skills
+Cue Found: improve
+NPG1:
+	women cyclists
+NPG2:
+	mountain bike skills
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Video games improve speed and intelligence
+Cue Found: improve
+NPG1:
+	Video games
+NPG2:
+	speed and intelligence
+
+Sentence: Will Apple's iPad cause a revolution in educational books?
+Cue Found: cause
+NPG1:
+	iPad
+NPG2:
+	a revolution in educational books
+
+Sentence: 2010 Oscar nominees full list; 2010 Oscar nominees list revealed Tuesday morning
+Cue Found: reveal
+NPG1:
+	2010 Oscar nominees list
+NPG2:
+	Tuesday morning
+
+Sentence: Albany Brown Derby rearranging lunchtime
+Cue Found: rearrange
+NPG1:
+	Albany Brown Derby
+NPG2:
+	lunchtime
+
+Sentence: Americans capsize Mississippi RiverKings
+Cue Found: capsize
+NPG1:
+	Americans
+NPG2:
+	Mississippi RiverKings
+
+Sentence: Amir Khan postpones Marcos Maidana for Marquez
+Cue Found: postpone
+NPG1:
+	Amir Khan
+NPG2:
+	Marcos Maidana for Marquez
+
+Sentence: A walk down the dark side reveals recklessness at the House of Death
+Cue Found: reveal
+NPG1:
+	A walk down the dark side
+NPG2:
+	recklessness at the House of Death
+
+Sentence: Beatle news briefs: Paul McCartney becomes a blogger; Ringo's T-shirt causes a buzz
+Cue Found: cause
+NPG1:
+	T-shirt
+NPG2:
+	a buzz
+
+Sentence: Blair cabinet misled on legality of Iraq War; ex-minister warned U.S. not prepared for aftermath
+Cue Found: mislead
+NPG1:
+	Blair cabinet
+NPG2:
+	on legality of Iraq War
+
+Sentence: Disc golf custom dyed discs
+Cue Found: dye
+NPG1:
+	Disc golf custom
+NPG2:
+	discs
+
+Sentence: Iran escalating repression
+Cue Found: escalate
+NPG1:
+	Iran
+NPG2:
+	repression
+
+Sentence: Jonathan Maberry adapts 'The Wolfman'
+Cue Found: adapt
+NPG1:
+	Jonathan Maberry
+NPG2:
+	'The Wolfman
+
+Sentence: Journal retracts article suggesting that a routine childhood vaccination leads to autism
+Cue Found: retract
+NPG1:
+	Journal
+NPG2:
+	article
+
+Sentence: Kitsap Pumas reveal 2010 regular season schedule
+Cue Found: reveal
+NPG1:
+	Kitsap Pumas
+NPG2:
+	2010 regular season schedule
+
+Sentence: Lancet study linking vaccines to autism is 'incorrect'. UW researchers continue to look for answers.
+Cue Found: link
+NPG1:
+	Lancet study
+NPG2:
+	vaccines
+
+Sentence: Legendary Prog band Kansas adorns the Keswick Theatre this Friday!
+Cue Found: adorn
+NPG1:
+	Legendary Prog band Kansas
+NPG2:
+	the Keswick Theatre this Friday
+
+Sentence: Mike Skinner secures sponsor and Carlos Contreras throws his hat in for Daytona
+Cue Found: secure
+NPG1:
+	Mike Skinner
+NPG2:
+	sponsor and Carlos Contreras
+
+Sentence: Study linking autism to MMR vaccine retracted by The Lancet Medical Journal (VIDEO)
+Cue Found: link
+NPG1:
+	Study
+NPG2:
+	autism
+
+Sentence: Study linking vaccine to autism retracted
+Cue Found: link
+NPG1:
+	Study
+NPG2:
+	vaccine
+
+Sentence: Texans draft watch: DT Dan Williams
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Washington, we have a problem. Obama's budget distorts NASA's mission
+Cue Found: distort
+NPG1:
+	budget
+NPG2:
+	NASA
+
+Sentence: Ashley Dupre humiliates Howard Stern Show staffer
+Cue Found: humiliate
+NPG1:
+	Ashley Dupre
+NPG2:
+	Howard Stern Show staffer
+
+Sentence: BioWare squashes Mass Effect 2 on Playstation 3 rumor
+Cue Found: squash
+NPG1:
+	BioWare
+NPG2:
+	Mass Effect
+
+Sentence: Breaking News - LaHood retracts statement on Toyota
+Cue Found: retract
+NPG1:
+	LaHood
+NPG2:
+	statement on Toyota
+
+Sentence: Clippers halt Bulls winning streak
+Cue Found: halt
+NPG1:
+	Clippers
+NPG2:
+	Bulls
+
+Sentence: Dee Dee Moore arrested in murder case of lottery winner Abraham Shakespeare (photos, videos)
+Cue Found: arrest
+NPG1:
+	Dee Dee Moore
+NPG2:
+	in murder case of lottery winner Abraham Shakespeare
+
+Sentence: Duggar family reveals intimate details of Josie's birth on 'Special Duggar Delivery'
+Cue Found: reveal
+NPG1:
+	Duggar family
+NPG2:
+	intimate details of Josie
+
+Sentence: Favre injury photos spark debate, just like everything else about him
+Cue Found: spark
+NPG1:
+	Favre injury photos
+NPG2:
+	debate
+
+Sentence: Free throw in final seconds propels Tolland girls past Fermi, 45-44
+Cue Found: propel
+NPG1:
+	final seconds
+NPG2:
+	Tolland girls past Fermi
+
+Sentence: Golden Eagles secure verbal commitment from Crowder
+Cue Found: secure
+NPG1:
+	Golden Eagles
+NPG2:
+	verbal commitment from Crowder
+
+Sentence: Hague reverses decision and is set to charge Bashir with genocide
+Cue Found: reverse
+NPG1:
+	Hague
+NPG2:
+	decision
+
+Sentence: Housing Works slain a giant...with a telephone
+Cue Found: slay
+NPG1:
+	Housing Works
+NPG2:
+	a giant
+
+Sentence: KattySaks disguise litter boxes with style
+Cue Found: disguise
+NPG1:
+	KattySaks
+NPG2:
+	litter boxes with style
+
+Sentence: Lancet retracts 'false' study linking autism to vaccines
+Cue Found: retract
+NPG1:
+	Lancet
+NPG2:
+	'false
+
+Sentence: Mackenzie Phillips reveals a new twist in the story about her incestuous relationship with father
+Cue Found: reveal
+NPG1:
+	Mackenzie Phillips
+NPG2:
+	a new twist in the story about her incestuous relationship with father
+
+Sentence: Mariah Carey readies 'Angels Advocate' for March release
+Cue Found: ready
+NPG1:
+	Mariah Carey
+NPG2:
+	'Angels Advocate
+
+Sentence: Medical journal retracts paper on MMR vaccine and autism link
+Cue Found: retract
+NPG1:
+	Medical journal
+NPG2:
+	paper on MMR vaccine and autism link
+
+Sentence: New medical treatments improve health and longevity
+Cue Found: improve
+NPG1:
+	New medical treatments
+NPG2:
+	health and longevity
+
+Sentence: Once made for dancing: Leif Garrett arrested in drug bust (video)
+Cue Found: arrest
+NPG1:
+	Leif Garrett
+NPG2:
+	in drug bust ( video )
+
+Sentence: Scientific paper linking vaccine to autism is formally retracted
+Cue Found: link
+NPG1:
+	Scientific paper
+NPG2:
+	vaccine
+
+Sentence: Simon Cowell reveals a soft side in song for Haiti relief
+Cue Found: reveal
+NPG1:
+	Simon Cowell
+NPG2:
+	a soft side in song for Haiti relief
+
+Sentence: Slideshow: Slow pace of food distribution in Haiti spawn protests and accusations of corruption
+Cue Found: spawn
+NPG1:
+	pace of food distribution in Haiti
+NPG2:
+	protests and accusations of corruption
+
+Sentence: Study linking autism to MMR retracted; author of research works in Texas
+Cue Found: link
+NPG1:
+	Study
+NPG2:
+	autism
+
+Sentence: 'Survivor: Heroes vs. Villains:' TV Guide reveals their top moments, I reveal mine
+Cue Found: reveal
+NPG1:
+	TV Guide
+NPG2:
+	their top moments
+
+Sentence: SYTYCD judge Mary Murphy reveals Hot Tamale Train Hall of Fame
+Cue Found: reveal
+NPG1:
+	SYTYCD judge Mary Murphy
+NPG2:
+	Hot Tamale Train Hall of Fame
+
+Sentence: Team of Secret Pet Food Shoppers reveals the truth about byproducts in pet food
+Cue Found: reveal
+NPG1:
+	Team of Secret Pet Food Shoppers
+NPG2:
+	the truth about byproducts in pet food
+
+Sentence: Tea Party candidate secures nomination
+Cue Found: secure
+NPG1:
+	Tea Party candidate
+NPG2:
+	nomination
+
+Sentence: British medical journal withdraws study linking autism to MMR vaccine
+Cue Found: link
+NPG1:
+	British medical journal withdraws study
+NPG2:
+	autism
+
+Sentence: Cause of death revealed for punk indy artist Jay Reatard
+Cue Found: reveal
+NPG1:
+	Cause of death
+NPG2:
+	for punk indy artist Jay Reatard
+
+Sentence: Common Cause distorts truth about voter purges
+Cue Found: distort
+NPG1:
+	Common Cause
+NPG2:
+	truth about voter
+
+Sentence: Delectable variety of spices adorn Indian recipes in Omaha's Indian restaurants
+Cue Found: adorn
+NPG1:
+	Delectable variety of spices
+NPG2:
+	Indian recipes in Omaha
+
+Sentence: Dr. Conrad Murray maintains innocence in killing Michael Jackson but negotiates surrender
+Cue Found: maintain
+NPG1:
+	Dr. Conrad Murray
+NPG2:
+	innocence
+
+Sentence: Heiress Casey Johnson's death caused by complications with diabetes says coroner
+Cue Found: cause
+NPG1:
+	death
+NPG2:
+	by complications with diabetes
+
+Sentence: High-speed train linking San Diego to Sacramento is in the works
+Cue Found: link
+NPG1:
+	High-speed train
+NPG2:
+	San Diego
+
+Sentence: Imaginisce reveals hot i-rock tool at Winter CHA
+Cue Found: reveal
+NPG1:
+	Imaginisce
+NPG2:
+	hot i-rock tool at Winter CHA
+
+Sentence: James Arthur Ray arrested on 3 counts of manslaughter in Sedona sweat lodge deaths - 2 videos
+Cue Found: arrest
+NPG1:
+	James Arthur Ray
+NPG2:
+	on 3 counts of manslaughter in Sedona sweat
+
+Sentence: James Ray arrested for manslaughter in deaths of three individuals after sweatlodge ceremony
+Cue Found: arrest
+NPG1:
+	James Ray
+NPG2:
+	for manslaughter in deaths of three individuals after sweatlodge ceremony
+
+Sentence: Jenny Sanford reveals disturbing details of her marriage; what do Philly moms say?
+Cue Found: reveal
+NPG1:
+	Jenny Sanford
+NPG2:
+	disturbing details of her marriage
+
+Sentence: Obama trashes the religious principles that allow him to freely do so.
+Cue Found: trash
+NPG1:
+	Obama
+NPG2:
+	the religious principles
+
+Sentence: Pelosi reveals plan to get Obamacare passed with only 51 votes
+Cue Found: reveal
+NPG1:
+	Pelosi
+NPG2:
+	plan
+
+Sentence: Portrait reveals stars and dust
+Cue Found: reveal
+NPG1:
+	Portrait
+NPG2:
+	stars and dust
+
+Sentence: Project Needlemouse revealed as Sonic 4 Episode 1
+Cue Found: reveal
+NPG1:
+	Project Needlemouse
+NPG2:
+	as Sonic 4 Episode
+
+Sentence: Research study reveals regions of genomic variation in autistic patients
+Cue Found: reveal
+NPG1:
+	Research study
+NPG2:
+	regions of genomic variation in autistic patients
+
+Sentence: Rhino unearths Rod Stewart album, featuring a 19 minute run-through of Dylan song.
+Cue Found: unearth
+NPG1:
+	Rhino
+NPG2:
+	Rod Stewart album
+
+Sentence: Study linking Autism and MMR vaccine retracted
+Cue Found: link
+NPG1:
+	Study
+NPG2:
+	Autism and MMR vaccine
+
+Sentence: Superbowl athletes overcome asthma
+Cue Found: overcome
+NPG1:
+	Superbowl athletes
+NPG2:
+	asthma
+
+Sentence: Brittany Murphy's death caused by drugs and pneumonia, according to coroner
+Cue Found: cause
+NPG1:
+	death
+NPG2:
+	by drugs and pneumonia
+
+Sentence: Celebrity Secrets: Lindsay Lohan the hoarder? Clean House reveals Lohan's hoarding ways (video)
+Cue Found: reveal
+NPG1:
+	Clean House
+NPG2:
+	Lohan
+
+Sentence: Do charter schools cause racial divide?
+Cue Found: cause
+NPG1:
+	charter schools
+NPG2:
+	racial divide
+
+Sentence: Douglas County Diva's February networking event in Castle Rock Colorado
+Cue Found: network
+NPG1:
+	February
+NPG2:
+	event in Castle Rock Colorado
+
+Sentence: Ford's challenge of Gillibrand's Senate seat hinges on battle of image, reputations
+Cue Found: hinge
+NPG1:
+	Senate seat
+NPG2:
+	on battle of image , reputations
+
+Sentence: Gasland reveals flammable tapwater and more (Video)
+Cue Found: reveal
+NPG1:
+	Gasland
+NPG2:
+	flammable tapwater
+
+Sentence: Gwinnett Gladiators slay the Toledo Walleye 5-3
+Cue Found: slay
+NPG1:
+	Gwinnett Gladiators
+NPG2:
+	the Toledo Walleye
+
+Sentence: I healed my heart in San Francisco
+Cue Found: heal
+NPG1:
+	I
+NPG2:
+	my heart in San Francisco
+
+Sentence: NBC Black History Month lunch menu causes controversy on Twitter
+Cue Found: cause
+NPG1:
+	NBC Black History Month lunch menu
+NPG2:
+	controversy on Twitter
+
+Sentence: No. 3 Oklahoma State defeats Northern Iowa, 30-6
+Cue Found: defeat
+NPG1:
+	3 Oklahoma State
+NPG2:
+	Northern Iowa
+
+Sentence: Opera Colorado reveals next season's operas
+Cue Found: reveal
+NPG1:
+	Opera Colorado
+NPG2:
+	next season
+
+Sentence: Sarah Palin emails reveal an attempted tanning bed coverup and blacklisting of journalist
+Cue Found: reveal
+NPG1:
+	Sarah Palin emails
+NPG2:
+	an attempted tanning bed coverup and blacklisting of journalist
+
+Sentence: Senators defeat Canucks for 11th straight win
+Cue Found: defeat
+NPG1:
+	Senators
+NPG2:
+	Canucks
+
+Sentence: Should Congress halt the presses?
+Cue Found: halt
+NPG1:
+	Congress
+NPG2:
+	the presses
+
+Sentence: Snow causes WSU to postpone Rascal Flatts concert
+Cue Found: cause
+NPG1:
+	Snow
+NPG2:
+	WSU
+
+Sentence: Snow wreaks havoc on Blue Hens athletic teams
+Cue Found: wreak
+NPG1:
+	Snow
+NPG2:
+	havoc on Blue Hens athletic teams
+
+Sentence: Surprise rally toward end of day reverses early losses
+Cue Found: reverse
+NPG1:
+	Surprise rally toward end of day
+NPG2:
+	early losses
+
+Sentence: They can't bury their dead but they arrest ten Americans
+Cue Found: arrest
+NPG1:
+	they
+NPG2:
+	ten Americans
+
+Sentence: UPDATE 2: Wet weather causing slide in High School Rugby schedule
+Cue Found: cause
+NPG1:
+	Wet weather
+NPG2:
+	slide in High School Rugby schedule
+
+Sentence: Wakefield's research linking vaccines to autism has been retracted by international medical journal
+Cue Found: link
+NPG1:
+	research
+NPG2:
+	vaccines
+
+Sentence: Why kids get bullied: a new study reveals the answer
+Cue Found: reveal
+NPG1:
+	a new study
+NPG2:
+	the answer
+
+Sentence: A recent breakthrough improves the odds in war on HIV and AIDS
+Cue Found: improve
+NPG1:
+	A recent breakthrough
+NPG2:
+	the odds in war on HIV and AIDS
+
+Sentence: Is Splenda sabotaging your body?
+Cue Found: sabotage
+NPG1:
+	Splenda
+NPG2:
+	your body
+
+Sentence: Overtime heroics propel Rampage past Manitoba
+Cue Found: propel
+NPG1:
+	Overtime heroics
+NPG2:
+	Rampage past Manitoba
+
+Sentence: Palin energizes Salina before headliningTea Party convention
+Cue Found: energize
+NPG1:
+	Palin
+NPG2:
+	Salina before headliningTea Party convention
+
+Sentence: Raw sprouted grains for breakfast
+Cue Found: sprout
+NPG1:
+	Raw
+NPG2:
+	grains for breakfast
+
+Sentence: Saladworks offers improved nutrition campaign
+Cue Found: improve
+NPG1:
+	Saladworks offers
+NPG2:
+	nutrition campaign
+
+Sentence: Septic tank near Anza Trail reveals over 700 pounds of pot
+Cue Found: reveal
+NPG1:
+	Septic tank near Anza Trail
+NPG2:
+	over 700 pounds of pot
+
+Sentence: Social networking sites may have an impact on a student's college admission
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	sites
+
+Sentence: Super Bowl 2010: Hot Rihanna fashion at Pepsi Fan Jam Super Bowl Concert in Miami delights audience
+Cue Found: delight
+NPG1:
+	Hot Rihanna fashion at Pepsi Fan Jam Super Bowl Concert in Miami
+NPG2:
+	audience
+
+Sentence: Texans draft watch: C/G Maurkice Pouncey
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Tiger Woods' kids reunited with dad after six weeks apart
+Cue Found: reunite
+NPG1:
+	kids
+NPG2:
+	with dad after six weeks
+
+Sentence: Tomlinson's record assault sparks Saint Mary's
+Cue Found: spark
+NPG1:
+	record assault
+NPG2:
+	Saint Mary
+
+Sentence: 'Twilight' and Robert Pattinson cause 'spike' in sales of Volvo C30
+Cue Found: cause
+NPG1:
+	Robert Pattinson
+NPG2:
+	'spike
+
+Sentence: Wizards defeat Magic on road, snow postpones Hawks at home
+Cue Found: defeat
+NPG1:
+	Wizards
+NPG2:
+	Magic on road
+
+Sentence: A.D. animated zombie flick causes internet buzz
+Cue Found: cause
+NPG1:
+	A.D. animated zombie flick
+NPG2:
+	internet buzz
+
+Sentence: Aussie boxing kangaroo flag at Winter Olympics causes flap
+Cue Found: cause
+NPG1:
+	Aussie boxing kangaroo flag at Winter Olympics
+NPG2:
+	flap
+
+Sentence: Butler improves its record to 21-5 with win over the East Limestone Indians in Area 16 semi-finals
+Cue Found: improve
+NPG1:
+	Butler
+NPG2:
+	its record
+
+Sentence: Chicago research reveals tips to help children with social relationships
+Cue Found: reveal
+NPG1:
+	Chicago research
+NPG2:
+	tips
+
+Sentence: Deport your Valentine - Man posing as U.S. Marshal breaches TSA security, deports relative's wife
+Cue Found: breach
+NPG1:
+	Marshal
+NPG2:
+	TSA security
+
+Sentence: Health Technology 101: Does saturated fat cause heart disease? Analysis of studies reveals no link.
+Cue Found: reveal
+NPG1:
+	Analysis of studies
+NPG2:
+	no link
+
+Sentence: Leonard Cohen postpones European tour after back injury
+Cue Found: postpone
+NPG1:
+	Leonard Cohen
+NPG2:
+	European tour
+
+Sentence: LinkedIn networking opportunities in Orlando
+Cue Found: network
+NPG1:
+	LinkedIn
+NPG2:
+	opportunities in Orlando
+
+Sentence: Mighty Tiger craft a stellar indie/pop debut with 'Western Theater'
+Cue Found: craft
+NPG1:
+	Mighty Tiger
+NPG2:
+	a stellar indie/pop debut with 'Western Theater
+
+Sentence: No. 11 Penn State topples Michigan, 29-10
+Cue Found: topple
+NPG1:
+	11 Penn State
+NPG2:
+	Michigan
+
+Sentence: Prayers: Massive explosion in Connecticut power plant causing fatalities and numerous injuries.
+Cue Found: cause
+NPG1:
+	Massive explosion in Connecticut power plant
+NPG2:
+	fatalities and numerous injuries
+
+Sentence: Puppy Bowl readies viewers for cuteness, Super Bowl XLIV kickoff
+Cue Found: ready
+NPG1:
+	Puppy Bowl
+NPG2:
+	viewers for cuteness , Super Bowl XLIV kickoff
+
+Sentence: Sarah Palin speech marginalizes Tea Party movement
+Cue Found: marginalize
+NPG1:
+	Sarah Palin speech
+NPG2:
+	Tea Party movement
+
+Sentence: Scandal, ridicule undermine efforts by homeopaths to be part of health care reform packages
+Cue Found: undermine
+NPG1:
+	ridicule
+NPG2:
+	efforts by homeopaths
+
+Sentence: UCLA women's basketball defeats Cal 44-32
+Cue Found: defeat
+NPG1:
+	basketball
+NPG2:
+	Cal
+
+Sentence: Behind the scenes of 'Twilight' star Kellan Lutz's Calvin Klein shoot revealed (video)
+Cue Found: reveal
+NPG1:
+	Calvin Klein shoot
+NPG2:
+	( video )
+
+Sentence: Blue Ridge Magic - Summer camp sparks memories and friendships for Orlando teens
+Cue Found: spark
+NPG1:
+	Summer camp
+NPG2:
+	memories and friendships for Orlando teens
+
+Sentence: Chuck DeVore of Irvine, Ca tosses his hat in the ring for U.S. Senate race
+Cue Found: toss
+NPG1:
+	Ca
+NPG2:
+	his hat in the ring for U.S. Senate race
+
+Sentence: EA reveals release dates for Crysis 2, Medal of Honor, new Dragon Age
+Cue Found: reveal
+NPG1:
+	EA
+NPG2:
+	release dates for Crysis
+
+Sentence: Epic Games reveals new shooter for 2011
+Cue Found: reveal
+NPG1:
+	Epic Games
+NPG2:
+	new shooter
+
+Sentence: Heidi Montag reveals her 'fragile' state
+Cue Found: reveal
+NPG1:
+	Heidi Montag
+NPG2:
+	her 'fragile
+
+Sentence: Hildebrandt's: Old fashioned place, old fashioned prices
+Cue Found: fashion
+NPG1:
+	Old
+NPG2:
+	place
+
+Sentence: 'Jersey Shore:' Snooki reveals new boyfriend to the world - Emilio Antonio
+Cue Found: reveal
+NPG1:
+	Snooki
+NPG2:
+	new boyfriend
+
+Sentence: Michaels to feature kids craft event in Springfield February 9
+Cue Found: craft
+NPG1:
+	kids
+NPG2:
+	event in Springfield February
+
+Sentence: Police arrest Colonel Russell Williams, charge him with murder of Jessica Lloyd and Marie Comeau
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	Colonel Russell Williams , charge him with murder of Jessica Lloyd and Marie Comeau
+
+Sentence: Texans draft watch: RB Joique Bell
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Tour of California, 2010: Stage details revealed video by video this week
+Cue Found: reveal
+NPG1:
+	Stage details
+NPG2:
+	video by video this week
+
+Sentence: Upcoming Raleigh area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Raleigh area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Bassist Dave Ellefson rejoins Megadeth
+Cue Found: rejoin
+NPG1:
+	Bassist Dave Ellefson
+NPG2:
+	Megadeth
+
+Sentence: Britney Spears' hospital visit causes uproar
+Cue Found: cause
+NPG1:
+	hospital visit
+NPG2:
+	uproar
+
+Sentence: Can diet improve fertility? A Bay Area couple says yes.
+Cue Found: improve
+NPG1:
+	diet
+NPG2:
+	fertility
+
+Sentence: Charlotte County Florida commissioners postpone vote on renaming Tampa Bay Rays spring training park
+Cue Found: postpone
+NPG1:
+	Charlotte County Florida commissioners
+NPG2:
+	vote
+
+Sentence: Fireman boyfriend extinguishes flames of love - can they be rekindled?
+Cue Found: extinguish
+NPG1:
+	Fireman boyfriend
+NPG2:
+	flames of love
+
+Sentence: Gifted programs: Are parents distracted by a label of prestige?
+Cue Found: distract
+NPG1:
+	parents
+NPG2:
+	by a label of prestige
+
+Sentence: Gulf Coast Community College reveals expansion plans
+Cue Found: reveal
+NPG1:
+	Gulf Coast Community College
+NPG2:
+	expansion plans
+
+Sentence: Heavy snow postpones Wednesday's game between Maryland and Virginia
+Cue Found: postpone
+NPG1:
+	Heavy snow
+NPG2:
+	Wednesday
+
+Sentence: Hicks reveals Stars' financial difficulties
+Cue Found: reveal
+NPG1:
+	Hicks
+NPG2:
+	Stars
+
+Sentence: House postpones action; Senate confirms three
+Cue Found: postpone
+NPG1:
+	House
+NPG2:
+	action
+
+Sentence: Ice House Detroit art installation location revealed (slide-show)
+Cue Found: reveal
+NPG1:
+	Ice House Detroit art installation location
+NPG2:
+	( slide-show )
+
+Sentence: Illinois defeats Wisconsin 63-56
+Cue Found: defeat
+NPG1:
+	Illinois
+NPG2:
+	Wisconsin
+
+Sentence: Kansas defeats Texas
+Cue Found: defeat
+NPG1:
+	Kansas
+NPG2:
+	Texas
+
+Sentence: Kasich maintains solid lead over Strickland in race for Ohio Governorship
+Cue Found: maintain
+NPG1:
+	Kasich
+NPG2:
+	solid lead over Strickland in race for Ohio Governorship
+
+Sentence: Mavericks rally past Golden State behind Terry's 36
+Cue Found: rally
+NPG1:
+	Mavericks
+NPG2:
+	past Golden State behind Terry
+
+Sentence: Mysterious disease causing paralysis and death in South Florida dogs
+Cue Found: cause
+NPG1:
+	Mysterious disease
+NPG2:
+	paralysis and death in South Florida dogs
+
+Sentence: Tennesse defeats Vanderbilt with 9-point lead in last minute effort (video)
+Cue Found: defeat
+NPG1:
+	Tennesse
+NPG2:
+	Vanderbilt with 9-point lead in last minute effort ( video )
+
+Sentence: Third-hand smoke causes cancer, study shows risks to babies and toddlers -What is third-hand smoke?
+Cue Found: cause
+NPG1:
+	Third-hand smoke
+NPG2:
+	cancer
+
+Sentence: Third-hand smoke causes carcinogens when mixed with common indoor chemical
+Cue Found: cause
+NPG1:
+	Third-hand smoke
+NPG2:
+	carcinogens
+
+Sentence: Weather postpones the Cavaliers chance to gain ground in the ACC
+Cue Found: postpone
+NPG1:
+	Weather
+NPG2:
+	the Cavaliers chance
+
+Sentence: American Idol Hollywood Week Wrap Up: Ellen lessens rejection with humor; One TN native wows judges
+Cue Found: lessen
+NPG1:
+	Ellen
+NPG2:
+	rejection with humor
+
+Sentence: Celebrity News: Angelina Jolie comes out and says Brad Pitt convinced her to have children
+Cue Found: convince
+NPG1:
+	Brad Pitt
+NPG2:
+	her
+
+Sentence: Don't let these three life events halt your fitness
+Cue Found: halt
+NPG1:
+	three life events
+NPG2:
+	your fitness
+
+Sentence: John Mayer: 'My penis is racist', Comments against African Americans in Playboy ignite Twitter
+Cue Found: ignite
+NPG1:
+	Comments against African Americans in Playboy
+NPG2:
+	Twitter
+
+Sentence: Nation's homeless advocates convene conference on family homelessness in Los Angeles
+Cue Found: convene
+NPG1:
+	homeless advocates
+NPG2:
+	conference on family homelessness in Los Angeles
+
+Sentence: St. Petersburg, Florida Police exhume bodies in attempt to solve cold case homicides (video)
+Cue Found: exhume
+NPG1:
+	Florida Police
+NPG2:
+	bodies in attempt
+
+Sentence: Study reveals third hand smoke is a major health hazard
+Cue Found: reveal
+NPG1:
+	Study
+NPG2:
+	third hand smoke
+
+Sentence: Wednesday's news & notes: Kentucky defeats 'Bama 66-55, await pesky Volunteers pt. 1
+Cue Found: defeat
+NPG1:
+	Kentucky
+NPG2:
+	'Bama
+
+Sentence: Wednesday's news & notes: Kentucky defeats 'Bama 66-55, game-day quotes, pt. 2
+Cue Found: defeat
+NPG1:
+	Kentucky
+NPG2:
+	'Bama
+
+Sentence: Brain damage reveals links to human spirituality
+Cue Found: reveal
+NPG1:
+	Brain damage
+NPG2:
+	links
+
+Sentence: Dallas $90000 Diamond ring thief arrested in Wichita Falls, Texas
+Cue Found: arrest
+NPG1:
+	90000 Diamond ring thief
+NPG2:
+	in Wichita Falls , Texas
+
+Sentence: Falling weekly jobless claims dispel fears of double-dip recession
+Cue Found: dispel
+NPG1:
+	weekly jobless claims
+NPG2:
+	fears of double-dip recession
+
+Sentence: FAMU narrows selection for AD, finally gets off NCAA probation
+Cue Found: narrow
+NPG1:
+	FAMU
+NPG2:
+	selection for AD
+
+Sentence: Federal government reopens Friday, Feb. 12 with two-hour delay
+Cue Found: reopen
+NPG1:
+	Federal government
+NPG2:
+	Friday , Feb.
+
+Sentence: Fitness centers in Fresno for college students
+Cue Found: center
+NPG1:
+	Fitness
+NPG2:
+	in Fresno for college students
+
+Sentence: Greenberg reveals Xbox 360 NPD data for January
+Cue Found: reveal
+NPG1:
+	Greenberg
+NPG2:
+	Xbox 360 NPD data for January
+
+Sentence: Mark Knopfler readies for spring tour in support of current solo effort
+Cue Found: ready
+NPG1:
+	Mark Knopfler
+NPG2:
+	for spring tour in support of current solo effort
+
+Sentence: NASCAR amends green-white-checker rule
+Cue Found: amend
+NPG1:
+	NASCAR
+NPG2:
+	green-white-checker rule
+
+Sentence: Ohio State defeats Indiana 69-52
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Indiana
+
+Sentence: PETA's Duggar billboard causing controversy in Arkansas
+Cue Found: cause
+NPG1:
+	Duggar billboard
+NPG2:
+	controversy in Arkansas
+
+Sentence: Spring flowers brighten your outlook now and are on trend for spring and summer 2010
+Cue Found: brighten
+NPG1:
+	Spring flowers
+NPG2:
+	your outlook
+
+Sentence: Stanford overcomes 18-point deficit with 11:44 left to win
+Cue Found: overcome
+NPG1:
+	Stanford
+NPG2:
+	18-point deficit
+
+Sentence: 'Super' numbers propel WCBS to a winning week
+Cue Found: propel
+NPG1:
+	numbers
+NPG2:
+	WCBS
+
+Sentence: Texans draft watch: CB Patrick Robinson
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Airport body scanners cause religious dilemma for Muslims
+Cue Found: cause
+NPG1:
+	Airport body scanners
+NPG2:
+	religious dilemma for Muslims
+
+Sentence: Anne Hathaway reveals Valentine's Day plans to Ellen DeGeneres
+Cue Found: reveal
+NPG1:
+	Anne Hathaway
+NPG2:
+	Valentine
+
+Sentence: BMW/Oracle defeats Alinghi by huge margin in Race One of the America's Cup
+Cue Found: defeat
+NPG1:
+	BMW/Oracle
+NPG2:
+	Alinghi by huge margin in Race
+
+Sentence: Details on closing of Shreveport Harley Owner's Group revealed in meeting last evening
+Cue Found: reveal
+NPG1:
+	Group
+NPG2:
+	in meeting last evening
+
+Sentence: Drew Brees reveals his pre-game chant secrets (with video)
+Cue Found: reveal
+NPG1:
+	Drew Brees
+NPG2:
+	his pre-game chant secrets
+
+Sentence: EA says commercial spots for Mass Effect 2 and Dante's Inferno caused interest spikes
+Cue Found: cause
+NPG1:
+	Inferno
+NPG2:
+	interest spikes
+
+Sentence: Five tips for professionals easing their way back into the workplace
+Cue Found: ease
+NPG1:
+	Five tips for professionals
+NPG2:
+	their way
+
+Sentence: GameStop reveals Monster Hunter 3 pre-order bonus
+Cue Found: reveal
+NPG1:
+	GameStop
+NPG2:
+	Monster Hunter 3 pre-order bonus
+
+Sentence: Grandparents reward good grades with free treats
+Cue Found: reward
+NPG1:
+	Grandparents
+NPG2:
+	good grades
+
+Sentence: Jaycee Dugard journal reveals grip kidnappers held (photos, video, documents)
+Cue Found: reveal
+NPG1:
+	Jaycee Dugard journal
+NPG2:
+	grip kidnappers
+
+Sentence: Melissa Rycroft reveals secrets to sexy, girl-next-door body and why she's no Megan Fox
+Cue Found: reveal
+NPG1:
+	Melissa Rycroft
+NPG2:
+	secrets
+
+Sentence: Michaels to feature kids craft event in Springfield February 13
+Cue Found: craft
+NPG1:
+	kids
+NPG2:
+	event in Springfield February
+
+Sentence: No. 10 Penn State defeats Michigan State, 26-12, in home finale
+Cue Found: defeat
+NPG1:
+	10 Penn State
+NPG2:
+	Michigan State
+
+Sentence: PA torture victim stabbed, shaved and force-fed detergent and urine
+Cue Found: torture
+NPG1:
+	PA
+NPG2:
+	victim
+
+Sentence: Person of Interest arrested in Somer Thompson case, press conference (photos, videos)
+Cue Found: arrest
+NPG1:
+	Person of Interest
+NPG2:
+	in Somer Thompson case , press conference ( photos
+
+Sentence: Richmond Virginia's Balaclava overcome the odd name blues.
+Cue Found: overcome
+NPG1:
+	Balaclava
+NPG2:
+	the odd name blues
+
+Sentence: Vancouver Olympics: Luge star injured in horrific accident at 2010 Winter Games
+Cue Found: injure
+NPG1:
+	Luge star
+NPG2:
+	in horrific accident at 2010 Winter Games
+
+Sentence: Building Connections networking event in honor of Black History Month
+Cue Found: network
+NPG1:
+	Building Connections
+NPG2:
+	event in honor of Black History Month
+
+Sentence: Kristen Stewart's 'Runaways' and 'Eclipse' make-up artist reveals beauty secrets
+Cue Found: reveal
+NPG1:
+	make-up artist
+NPG2:
+	beauty secrets
+
+Sentence: Leonardo DiCaprio's fitness trainer reveals budget-friendly ways to get a body like a celebrity
+Cue Found: reveal
+NPG1:
+	fitness trainer
+NPG2:
+	budget-friendly ways
+
+Sentence: Olympic torch lighting malfunction causes brief confusion at opening ceremony (Photos)
+Cue Found: cause
+NPG1:
+	Olympic torch lighting malfunction
+NPG2:
+	brief confusion
+
+Sentence: Personal security: scareware scares you in to paying
+Cue Found: scar
+NPG1:
+	scareware
+NPG2:
+	you
+
+Sentence: Pinoy Power 3 Updates: Concepcion defeats Santiago and eyes a showdown with Juan Manuel Lopez
+Cue Found: defeat
+NPG1:
+	Concepcion
+NPG2:
+	Santiago and eyes a showdown with Juan Manuel Lopez
+
+Sentence: Ralph Rucci enchants with his Fall/Winter 2010 collection
+Cue Found: enchant
+NPG1:
+	Ralph Rucci
+NPG2:
+	with his Fall/Winter 2010 collection
+
+Sentence: Snow days cause 3 area schools to open on President's Day
+Cue Found: cause
+NPG1:
+	Snow days
+NPG2:
+	3 area schools
+
+Sentence: Track at FMX la Frontera revamped for February 14th 'Love Race'
+Cue Found: revamp
+NPG1:
+	Track at FMX la Frontera
+NPG2:
+	for February 14th 'Love Race
+
+Sentence: Amazing Photo reveals Elvis in Spirit - Part 3
+Cue Found: reveal
+NPG1:
+	Amazing Photo
+NPG2:
+	Elvis in Spirit
+
+Sentence: Author Steve Almond titillates Syracuse crowd at Red House
+Cue Found: titillate
+NPG1:
+	Author Steve Almond
+NPG2:
+	Syracuse crowd at Red House
+
+Sentence: Blue Cross postpones California rate increases pending investigation by state and federal officials
+Cue Found: postpone
+NPG1:
+	Blue Cross
+NPG2:
+	California rate
+
+Sentence: Bobby Caldwell and Deedles Schuur delight the audience at Kohler Memorial Theatre
+Cue Found: delight
+NPG1:
+	Bobby Caldwell and Deedles Schuur
+NPG2:
+	the audience at Kohler Memorial Theatre
+
+Sentence: Cal State Bakersfield topples UC Davis, 39-4, in what may be their last home wrestling event
+Cue Found: topple
+NPG1:
+	Cal State Bakersfield
+NPG2:
+	UC Davis
+
+Sentence: Does the New Covenant abolish God's laws?
+Cue Found: abolish
+NPG1:
+	the New Covenant
+NPG2:
+	God
+
+Sentence: Israel reopens Hebron road to Arabs
+Cue Found: reopen
+NPG1:
+	Israel
+NPG2:
+	Hebron road
+
+Sentence: J.R. Celski overcomes injury to win bronze in 1500m short track - Ohno takes the silver
+Cue Found: overcome
+NPG1:
+	J.R. Celski
+NPG2:
+	injury
+
+Sentence: National Weather Highlight for 2 / 13 / 10: Record-setting snowfall whitens Charleston, SC
+Cue Found: whiten
+NPG1:
+	Record-setting snowfall
+NPG2:
+	Charleston , SC
+
+Sentence: Texans draft watch: CB Dominique Franks
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Video: Unexpected wave injures a dozen people in California
+Cue Found: injure
+NPG1:
+	Unexpected wave
+NPG2:
+	a dozen people in California
+
+Sentence: Cabin fever causes stress for dogs and owners. Let's get those doggies out!
+Cue Found: cause
+NPG1:
+	Cabin fever
+NPG2:
+	stress for dogs and owners
+
+Sentence: Chatroulette creator reveals himself
+Cue Found: reveal
+NPG1:
+	Chatroulette creator
+NPG2:
+	himself
+
+Sentence: Do suspensions cause students to fail?
+Cue Found: cause
+NPG1:
+	suspensions
+NPG2:
+	students
+
+Sentence: Go ask Alice: Burton film spawns Wonderland of fashion ideas Pt. II of II
+Cue Found: spawn
+NPG1:
+	Burton film
+NPG2:
+	Wonderland of fashion ideas Pt
+
+Sentence: Go ask Alice: Burton film spawns Wonderland of fashion ideas Pt. I of II
+Cue Found: spawn
+NPG1:
+	Burton film
+NPG2:
+	Wonderland of fashion ideas Pt
+
+Sentence: Kourtney Kardashian reveals style inspiration
+Cue Found: reveal
+NPG1:
+	Kourtney Kardashian
+NPG2:
+	style inspiration
+
+Sentence: Late comeback propels Sens over Islanders
+Cue Found: propel
+NPG1:
+	comeback
+NPG2:
+	Sens over Islanders
+
+Sentence: Local youth program rallies the community to help others in need
+Cue Found: rally
+NPG1:
+	Local youth program
+NPG2:
+	the community
+
+Sentence: Marc Jacobs wows with leather and fur accessories for fall 2010
+Cue Found: wow
+NPG1:
+	Marc Jacobs
+NPG2:
+	with leather and fur accessories for fall
+
+Sentence: Offseason experience eases Ryan Suter's transition to Olympics
+Cue Found: ease
+NPG1:
+	Offseason experience
+NPG2:
+	Ryan Suter
+
+Sentence: Ohio State defeats Illinois 72-53
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Illinois
+
+Sentence: Operation: Dear John program enables students and teachers to thank service men and women
+Cue Found: enable
+NPG1:
+	Dear John program
+NPG2:
+	students and teachers
+
+Sentence: Pawlenty reveals deep cuts to balance state budget
+Cue Found: reveal
+NPG1:
+	Pawlenty
+NPG2:
+	deep cuts
+
+Sentence: Press conference reveals domestic violence in Powell marriage, family concerned about kid's safety
+Cue Found: reveal
+NPG1:
+	Press conference
+NPG2:
+	domestic violence in Powell marriage , family
+
+Sentence: Texans draft watch: G Mike Johnson
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Why do dogs tilt their heads?
+Cue Found: tilt
+NPG1:
+	dogs
+NPG2:
+	their heads
+
+Sentence: Bay Area chipmaker enables high-end phone cameras
+Cue Found: enable
+NPG1:
+	Bay Area chipmaker
+NPG2:
+	high-end phone cameras
+
+Sentence: Boca Raton Community Hospital implements smoke-free work place
+Cue Found: implement
+NPG1:
+	Boca Raton Community Hospital
+NPG2:
+	smoke-free work place
+
+Sentence: C-300 & Long Beach readies itself for the 2010 Toyota Grand Prix
+Cue Found: ready
+NPG1:
+	C-300 & Long Beach
+NPG2:
+	itself
+
+Sentence: Global warming: Are political body blows distorting science?
+Cue Found: distort
+NPG1:
+	political body blows
+NPG2:
+	science
+
+Sentence: Iggy ignites the Red and White
+Cue Found: ignite
+NPG1:
+	Iggy
+NPG2:
+	the Red and White
+
+Sentence: Israeli dig sparks Egyptian indignation
+Cue Found: spark
+NPG1:
+	Israeli dig
+NPG2:
+	Egyptian indignation
+
+Sentence: Jaycee Dugard case timeline: new parole and court papers reveal new information on Phillip Garrido
+Cue Found: reveal
+NPG1:
+	new parole and court papers
+NPG2:
+	new information on Phillip Garrido
+
+Sentence: J. D. Salinger letters reveal he was writing, but 'Most stuff that is genuine is better left unsaid'
+Cue Found: reveal
+NPG1:
+	J. D. Salinger letters
+NPG2:
+	he
+
+Sentence: Long Beach readies itself for the 2010 Toyota Grand Prix
+Cue Found: ready
+NPG1:
+	Long Beach
+NPG2:
+	itself
+
+Sentence: Men not Women of the Wall disrupt the peace at the Kotel
+Cue Found: disrupt
+NPG1:
+	Women of the Wall
+NPG2:
+	the peace at the Kotel
+
+Sentence: Mobile networking congress underway in Barcelona
+Cue Found: network
+NPG1:
+	Mobile
+NPG2:
+	congress underway in Barcelona
+
+Sentence: 'One-punch!' line captioned 1980s Justice
+Cue Found: caption
+NPG1:
+	line
+NPG2:
+	1980s Justice
+
+Sentence: Resignation of Senators reveals need for overhaul
+Cue Found: reveal
+NPG1:
+	Resignation of Senators
+NPG2:
+	need for overhaul
+
+Sentence: Snowboarder Seth Wescott overcomes injury and bad qualifying run to win gold from behind
+Cue Found: overcome
+NPG1:
+	Snowboarder Seth Wescott
+NPG2:
+	injury
+
+Sentence: State Democrats defeat pro-gun legislation
+Cue Found: defeat
+NPG1:
+	State Democrats
+NPG2:
+	pro-gun legislation
+
+Sentence: 'The Bachelor:' Ali furthers rumors that she could be 'Bachelorette'
+Cue Found: further
+NPG1:
+	Ali
+NPG2:
+	rumors that she
+
+Sentence: The Vancouver mascots spark a child's interest in the Winter Olympics
+Cue Found: spark
+NPG1:
+	The Vancouver mascots
+NPG2:
+	a child
+
+Sentence: Upcoming Central NC area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Central NC area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Appalachian League finalizes playoff format
+Cue Found: finalize
+NPG1:
+	Appalachian League
+NPG2:
+	playoff format
+
+Sentence: Beatle news briefs: Yoko brings out Midler and a POB reunion; Abbey Road sale ignites fans
+Cue Found: ignite
+NPG1:
+	Abbey Road sale
+NPG2:
+	fans
+
+Sentence: CNN poll of Tea Party reveals it to be dominated by white, highly educated, rich males
+Cue Found: reveal
+NPG1:
+	CNN poll of Tea Party
+NPG2:
+	it
+
+Sentence: Cockfighting: another cruel & cowardly blood 'sport'. Southern IL man arrested last week-end.
+Cue Found: arrest
+NPG1:
+	Southern IL man
+NPG2:
+	last week-end
+
+Sentence: Gartner reopening celebration concerts at Cleveland Museum of Art
+Cue Found: reopen
+NPG1:
+	Gartner
+NPG2:
+	celebration concerts at Cleveland Museum of Art
+
+Sentence: Gwinnett Braves secure stadium naming rights deal
+Cue Found: secure
+NPG1:
+	Gwinnett Braves
+NPG2:
+	stadium naming rights deal
+
+Sentence: Matthew McConaughey wows the gals at lesbian bar in Austin
+Cue Found: wow
+NPG1:
+	Matthew McConaughey
+NPG2:
+	the gals at lesbian bar in Austin
+
+Sentence: Mother-baby bonding hormone improves autism symptoms
+Cue Found: improve
+NPG1:
+	Mother-baby bonding hormone
+NPG2:
+	autism symptoms
+
+Sentence: Newsom readies his golden parachute, to leave behind $1.6 billion deficit
+Cue Found: ready
+NPG1:
+	Newsom
+NPG2:
+	his golden parachute
+
+Sentence: Olympic split screen: Kumaritashvili's body returns home and skater Weir sports pink (slideshow)
+Cue Found: split
+NPG1:
+	Olympic
+NPG2:
+	screen
+
+Sentence: Reading and games improve content vocabulary
+Cue Found: improve
+NPG1:
+	games
+NPG2:
+	content vocabulary
+
+Sentence: Shaun White reveals heart and soul about new tricks at Olympics
+Cue Found: reveal
+NPG1:
+	Shaun White
+NPG2:
+	heart and soul about new tricks at Olympics
+
+Sentence: 'Social gamers' survey reveals 43-year old women play most
+Cue Found: reveal
+NPG1:
+	survey
+NPG2:
+	43-year old women
+
+Sentence: Spring sanding sugar and decors in Target's Dollar Spot
+Cue Found: sand
+NPG1:
+	Spring
+NPG2:
+	sugar and decors in Target
+
+Sentence: Texans draft watch: RB Ben Tate
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: TNA reveals Hulk Hogan's and Ric Flair's in-ring debut
+Cue Found: reveal
+NPG1:
+	TNA
+NPG2:
+	Hulk Hogan
+
+Sentence: Twitter.com buzz over Obama job graph photo 'Job data reveal success' while Ohioans respond
+Cue Found: reveal
+NPG1:
+	Twitter.com buzz over Obama job graph photo 'Job data
+NPG2:
+	success
+
+Sentence: VCU defeats Drexel in CAA men's basketball showdown
+Cue Found: defeat
+NPG1:
+	VCU
+NPG2:
+	Drexel in CAA men
+
+Sentence: Video: Glenn Beck scares audience about economic collapse before survivalseedbank.com commercial
+Cue Found: scar
+NPG1:
+	Glenn Beck
+NPG2:
+	audience about economic collapse before survivalseedbank.com commercial
+
+Sentence: Vonn, Mancuso brighten Team USA's dampened spirits
+Cue Found: brighten
+NPG1:
+	Mancuso
+NPG2:
+	Team USA
+
+Sentence: West Coast Express improves public transit options during Olympics
+Cue Found: improve
+NPG1:
+	West Coast Express
+NPG2:
+	public transit options during Olympics
+
+Sentence: Wreck causes traffic mess in center city
+Cue Found: cause
+NPG1:
+	Wreck
+NPG2:
+	traffic mess in center city
+
+Sentence: 2010 Chicago Auto Show - Chevrolet brightens things up
+Cue Found: brighten
+NPG1:
+	Chevrolet
+NPG2:
+	things
+
+Sentence: Astros defeat Wandy Rodriguez in arbitration
+Cue Found: defeat
+NPG1:
+	Astros
+NPG2:
+	Wandy Rodriguez in arbitration
+
+Sentence: Brewers reveal new alternate jersey
+Cue Found: reveal
+NPG1:
+	Brewers
+NPG2:
+	new alternate jersey
+
+Sentence: Bulls defeat Knicks for the second night in a row
+Cue Found: defeat
+NPG1:
+	Bulls
+NPG2:
+	Knicks for the second night in a row
+
+Sentence: CSI approach reveals King Tut's death.
+Cue Found: reveal
+NPG1:
+	CSI approach
+NPG2:
+	King Tut
+
+Sentence: Did God cause the Texas and Palo Alto plane crashes? Or where is God when things go right?
+Cue Found: cause
+NPG1:
+	God
+NPG2:
+	the Texas and Palo Alto plane crashes
+
+Sentence: Elk's Nature Center reopens part time
+Cue Found: reopen
+NPG1:
+	Nature Center
+NPG2:
+	part time
+
+Sentence: Fire it up (keep on burning): G. Love ignites Harlow's crowd
+Cue Found: ignite
+NPG1:
+	G. Love
+NPG2:
+	Harlow
+
+Sentence: Malaysians caned under Islamic law for sex outside of marriage
+Cue Found: can
+NPG1:
+	Malaysians
+NPG2:
+	under Islamic law for sex
+
+Sentence: 'Mosley defeats Mayweather' a headline nightmare for Floyd
+Cue Found: defeat
+NPG1:
+	'Mosley
+NPG2:
+	Mayweather
+
+Sentence: National Weather Highlight for 2 / 17 / 10: Extremely localized heavy snow whitens NC / TN border
+Cue Found: whiten
+NPG1:
+	localized heavy snow
+NPG2:
+	NC
+
+Sentence: Robert Lusetich, Steve Helling penning books on Tiger Woods
+Cue Found: pen
+NPG1:
+	Steve Helling
+NPG2:
+	books on Tiger Woods
+
+Sentence: Runaway zebra in Atlanta causes rush hour traffic chaos
+Cue Found: cause
+NPG1:
+	Runaway zebra in Atlanta
+NPG2:
+	rush hour traffic chaos
+
+Sentence: Shaun White Olympics 2010 Video: White's victory lap awes America (VIDEO)
+Cue Found: awe
+NPG1:
+	victory lap
+NPG2:
+	America
+
+Sentence: Social networking a risk for travelers
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	a risk for travelers
+
+Sentence: Study reveals homelessness and poverty in Los Angeles has not changed after ten years
+Cue Found: reveal
+NPG1:
+	Study
+NPG2:
+	homelessness and poverty in Los Angeles
+
+Sentence: Urango and Alexander show respect, trainers ignite fireworks
+Cue Found: ignite
+NPG1:
+	trainers
+NPG2:
+	fireworks
+
+Sentence: Yoko Ono 77th birthday news - Plastic Ono Band reunited at BAM (video)
+Cue Found: reunite
+NPG1:
+	Plastic Ono Band
+NPG2:
+	at BAM ( video )
+
+Sentence: 11 teens arrested in drug raid at Redmond High: See which drugs teens are commonly using
+Cue Found: arrest
+NPG1:
+	11 teens
+NPG2:
+	in drug raid at Redmond High
+
+Sentence: Do big snow storms on East Coast nullify global warming?
+Cue Found: nullify
+NPG1:
+	big snow storms on East Coast
+NPG2:
+	global warming
+
+Sentence: Fox 4 Morning Blend Celebrity rallies One Mind for Haiti
+Cue Found: rally
+NPG1:
+	Fox 4 Morning Blend Celebrity
+NPG2:
+	One Mind for Haiti
+
+Sentence: LARP'ing and DND cause people to kill?
+Cue Found: cause
+NPG1:
+	LARP'ing and DND
+NPG2:
+	people
+
+Sentence: Shawn Porter defeats Russell Jordan to capture NABO jr. middleweight belt
+Cue Found: defeat
+NPG1:
+	Shawn Porter
+NPG2:
+	Russell Jordan
+
+Sentence: Social networking top sites dominated by 40 somethings
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	top sites
+
+Sentence: Strength training improves cognitive function
+Cue Found: improve
+NPG1:
+	Strength training
+NPG2:
+	cognitive function
+
+Sentence: Texans draft watch: FS Nate Allen
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Tiger Woods evokes Buddhism, says he was raised a Buddhist (video, transcript, photos, pictures)
+Cue Found: evoke
+NPG1:
+	Tiger Woods
+NPG2:
+	Buddhism
+
+Sentence: ABA postpones tonight's Express-Phantoms game
+Cue Found: postpone
+NPG1:
+	ABA
+NPG2:
+	tonight
+
+Sentence: British tabloids link Chelsea player Ashley Cole with Seattle visit in wife-cheating scandal
+Cue Found: link
+NPG1:
+	British tabloids
+NPG2:
+	Chelsea player Ashley Cole with Seattle visit in wife-cheating scandal
+
+Sentence: Dallas Mavericks defeat Orlando Magic 95-85
+Cue Found: defeat
+NPG1:
+	Dallas Mavericks
+NPG2:
+	Orlando Magic
+
+Sentence: Eldorado Golden Eagles defeat Rio Grande Ravens 66-38 Friday in girls' varsity game at Eldorado
+Cue Found: defeat
+NPG1:
+	Eldorado Golden Eagles
+NPG2:
+	Rio Grande Ravens 66-38 Friday in girls
+
+Sentence: Eldorado JV girls defeat Rio Grande Ravens 59-15 on Golden Eagles' floor
+Cue Found: defeat
+NPG1:
+	Eldorado JV girls
+NPG2:
+	Rio Grande Ravens
+
+Sentence: Grammy Award-Winner Harry Connick Jr. wows a capacity crowd at the Clay Center
+Cue Found: wow
+NPG1:
+	Grammy Award-Winner Harry Connick Jr.
+NPG2:
+	a capacity crowd at the Clay Center
+
+Sentence: Haskins scores game-winner as Sound Tigers topple Wolf Pack, 4-2
+Cue Found: topple
+NPG1:
+	Haskins scores game-winner as Sound Tigers
+NPG2:
+	Wolf
+
+Sentence: Jake Harris from Deadliest Catch arrested days after his dad Phil Harris died
+Cue Found: arrest
+NPG1:
+	Jake Harris from Deadliest Catch
+NPG2:
+	days after his dad Phil Harris
+
+Sentence: No. 3 Oklahoma State dismantles Binghamton, 32-9
+Cue Found: dismantle
+NPG1:
+	3 Oklahoma State
+NPG2:
+	Binghamton
+
+Sentence: Ohio AG Cordray readies AIG case as House GOP asks him to challenge federal health care proposal
+Cue Found: ready
+NPG1:
+	Ohio AG Cordray
+NPG2:
+	AIG case as House GOP
+
+Sentence: Second half surge propels Xavier over Charlotte
+Cue Found: propel
+NPG1:
+	Second half surge
+NPG2:
+	Xavier over Charlotte
+
+Sentence: Sir Elton John offends Christians
+Cue Found: offend
+NPG1:
+	Sir Elton John
+NPG2:
+	Christians
+
+Sentence: Southern rallies against Cal State Northridge at MLB Urban Invitational
+Cue Found: rally
+NPG1:
+	Southern
+NPG2:
+	against Cal State Northridge at MLB Urban Invitational
+
+Sentence: Angelina Jolie reunites with father Jon Voight in Venice, Italy: Twitter spreads the word
+Cue Found: reunite
+NPG1:
+	Angelina Jolie
+NPG2:
+	with father Jon Voight in Venice , Italy
+
+Sentence: Ask Liz Ryan: recruiter mishap trashed my reputation?
+Cue Found: trash
+NPG1:
+	recruiter mishap
+NPG2:
+	my reputation
+
+Sentence: Desperate Housewives Spoilers: Robin causes trouble on the lane; John Barrowman joins cast in March
+Cue Found: cause
+NPG1:
+	Robin
+NPG2:
+	trouble on the lane
+
+Sentence: Destiny vs. Dominance: Purefoods humbles SMB, joins Alaska in the Philippine Cup finals
+Cue Found: humble
+NPG1:
+	Purefoods
+NPG2:
+	SMB
+
+Sentence: Editors convince the skeptics at The Phoenix Concert Theatre
+Cue Found: convince
+NPG1:
+	Editors
+NPG2:
+	the skeptics at The Phoenix Concert Theatre
+
+Sentence: FDA didn't pull diabetes drug despite knowing it caused hundreds of heart attacks
+Cue Found: cause
+NPG1:
+	it
+NPG2:
+	hundreds of heart attacks
+
+Sentence: Georgia Baseball: Diamond Dogs defeat Duke, fall to Baylor, to close Texas tournament on Sunday
+Cue Found: defeat
+NPG1:
+	Diamond Dogs
+NPG2:
+	Duke , fall
+
+Sentence: Governor talks depleted uranium with feds
+Cue Found: deplete
+NPG1:
+	Governor talks
+NPG2:
+	uranium with feds
+
+Sentence: Huskers unravel in extra innings for third straight loss
+Cue Found: unravel
+NPG1:
+	Huskers
+NPG2:
+	in extra innings for third straight loss
+
+Sentence: Indiana splits with Force in return to Fargo
+Cue Found: split
+NPG1:
+	Indiana
+NPG2:
+	with Force in return
+
+Sentence: NCAA men: Oklahoma takes down Michigan, Illinois defeats Penn State
+Cue Found: defeat
+NPG1:
+	Illinois
+NPG2:
+	Penn State
+
+Sentence: Texans draft watch: RB Anthony Dixon
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: VA Episcopalian vote reveals a disturbing trend
+Cue Found: reveal
+NPG1:
+	VA Episcopalian vote
+NPG2:
+	a disturbing trend
+
+Sentence: WWE Elimination Chamber: Team LayCool defeat Maryse and Gail Kim
+Cue Found: defeat
+NPG1:
+	Team LayCool
+NPG2:
+	Maryse and Gail Kim
+
+Sentence: WWE main eventer injured in freak pyrotechnic accident at Elimination Chamber
+Cue Found: injure
+NPG1:
+	WWE main eventer
+NPG2:
+	in freak pyrotechnic accident at Elimination Chamber
+
+Sentence: Controversy as Atlanta billboards link race and abortion
+Cue Found: link
+NPG1:
+	Controversy as Atlanta billboards
+NPG2:
+	race and abortion
+
+Sentence: Do we live in a quick fix beauty culture? New survey reveals startling findings on womens' image
+Cue Found: reveal
+NPG1:
+	New survey
+NPG2:
+	startling findings on womens
+
+Sentence: February 22: US defeats Soviet Union hockey team at Lake Placid, NY Winter Olympics
+Cue Found: defeat
+NPG1:
+	US
+NPG2:
+	Soviet Union hockey team at Lake Placid , NY Winter Olympics
+
+Sentence: From Lincoln assassination to Columbine, Madigan compiles front pages that span history
+Cue Found: compile
+NPG1:
+	Madigan
+NPG2:
+	front pages
+
+Sentence: How does Jake Pavelka feel about his final choice? Jake reveals Ali Fedotowsky was his frontrunner!
+Cue Found: reveal
+NPG1:
+	Jake
+NPG2:
+	Ali Fedotowsky
+
+Sentence: Hunt for vintage toy reveals vintage memories
+Cue Found: reveal
+NPG1:
+	Hunt for vintage toy
+NPG2:
+	vintage memories
+
+Sentence: India overcome South Africa in a thriller
+Cue Found: overcome
+NPG1:
+	India
+NPG2:
+	South Africa in a thriller
+
+Sentence: Justin Bieber dispels rumors of his death as he immediately Twitters fans from plane
+Cue Found: dispel
+NPG1:
+	Justin Bieber
+NPG2:
+	rumors of his death as he
+
+Sentence: Kaufman County deputies arrest burglary suspects after high speed chase
+Cue Found: arrest
+NPG1:
+	Kaufman County deputies
+NPG2:
+	burglary suspects after high speed chase
+
+Sentence: Lady Canes defeat Norway
+Cue Found: defeat
+NPG1:
+	Lady Canes
+NPG2:
+	Norway
+
+Sentence: Lufthansa pilots halt strike
+Cue Found: halt
+NPG1:
+	Lufthansa pilots
+NPG2:
+	strike
+
+Sentence: Michaels to feature kids craft event in Springfield February 27
+Cue Found: craft
+NPG1:
+	kids
+NPG2:
+	event in Springfield February
+
+Sentence: Mom and baby yoga nourishes the body
+Cue Found: nourish
+NPG1:
+	Mom and baby yoga
+NPG2:
+	the body
+
+Sentence: Pittsburgh & Allegheny County reopen Homelessness Prevention Hotline HPRP
+Cue Found: reopen
+NPG1:
+	Pittsburgh & Allegheny County
+NPG2:
+	Homelessness Prevention Hotline HPRP
+
+Sentence: Plane crash reveals tech's big ears
+Cue Found: reveal
+NPG1:
+	Plane crash
+NPG2:
+	tech
+
+Sentence: Selena Gomez vs Demi Lovato: 2010 Young Artist Award nominations revealed (Compete List)
+Cue Found: reveal
+NPG1:
+	2010 Young Artist Award nominations
+NPG2:
+	( Compete List )
+
+Sentence: Tila Tequila reveals marriage plans
+Cue Found: reveal
+NPG1:
+	Tila Tequila
+NPG2:
+	marriage plans
+
+Sentence: Toyota misled the public, according to House committee
+Cue Found: mislead
+NPG1:
+	Toyota
+NPG2:
+	the public
+
+Sentence: USC splits results, stops 5-game skid
+Cue Found: split
+NPG1:
+	USC
+NPG2:
+	results
+
+Sentence: U.S. ice dancing pairs improve rankings, compete for Olympic gold tonight (video)
+Cue Found: improve
+NPG1:
+	U.S. ice dancing pairs
+NPG2:
+	rankings
+
+Sentence: U.S. ice hockey team defeats Sweden in women's play-offs semifinals at Winter Olympics 2010
+Cue Found: defeat
+NPG1:
+	U.S. ice hockey team
+NPG2:
+	Sweden in women
+
+Sentence: 11th-ranked Georgetown Hoyas defeat Louisville Cardinals, 70-60
+Cue Found: defeat
+NPG1:
+	11th-ranked Georgetown Hoyas
+NPG2:
+	Louisville Cardinals
+
+Sentence: Are you sabotaging your relationship?
+Cue Found: sabotage
+NPG1:
+	you
+NPG2:
+	your relationship
+
+Sentence: Bikram yoga healed my back
+Cue Found: heal
+NPG1:
+	Bikram yoga
+NPG2:
+	my back
+
+Sentence: Canada's Ashleigh McIvor delights home fans in Olympic women's ski cross
+Cue Found: delight
+NPG1:
+	Ashleigh McIvor
+NPG2:
+	home fans in Olympic women
+
+Sentence: Canada's Moir and Virtue elevate Olympic ice dancing to virtuoso affair
+Cue Found: elevate
+NPG1:
+	Moir and Virtue
+NPG2:
+	Olympic ice dancing
+
+Sentence: Can a graphic overhaul improve your brand?
+Cue Found: improve
+NPG1:
+	a graphic overhaul
+NPG2:
+	your brand
+
+Sentence: City & County reopen Homelessness Prevention Hotline
+Cue Found: reopen
+NPG1:
+	City & County
+NPG2:
+	Homelessness Prevention Hotline
+
+Sentence: Heavy Rain patch causing severe problems
+Cue Found: cause
+NPG1:
+	Heavy Rain patch
+NPG2:
+	severe problems
+
+Sentence: Jim Belushi causes drama
+Cue Found: cause
+NPG1:
+	Jim Belushi
+NPG2:
+	drama
+
+Sentence: Mavericks defeat Pacers 91-82, 4-1 since trade with Wizards
+Cue Found: defeat
+NPG1:
+	Mavericks
+NPG2:
+	Pacers
+
+Sentence: Music enlivens memories in folks with dementia
+Cue Found: enliven
+NPG1:
+	Music
+NPG2:
+	memories in folks with dementia
+
+Sentence: New York Native Nolan Haan elevates graffiti to fine art
+Cue Found: elevate
+NPG1:
+	New York Native Nolan Haan
+NPG2:
+	graffiti
+
+Sentence: NOAA revamps hurricane scale to more accurately reflect dangers
+Cue Found: revamp
+NPG1:
+	NOAA
+NPG2:
+	hurricane scale
+
+Sentence: Northwest valley archaeological site reveals an array of petroglyphs
+Cue Found: reveal
+NPG1:
+	Northwest valley archaeological site
+NPG2:
+	an array of petroglyphs
+
+Sentence: Police arrest Marine in death of infant son
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	Marine in death of infant son
+
+Sentence: Profile html on Facebook profiles enables an email optin
+Cue Found: enable
+NPG1:
+	html on Facebook profiles
+NPG2:
+	an email optin
+
+Sentence: Scott Brown trashed on Facebook after jobs vote
+Cue Found: trash
+NPG1:
+	Scott Brown
+NPG2:
+	on Facebook after jobs vote
+
+Sentence: Spyker finalizes deal to buy Saab
+Cue Found: finalize
+NPG1:
+	Spyker
+NPG2:
+	deal
+
+Sentence: Statue erected in Alabama for boxing great and enemy of Adolf Hitler
+Cue Found: erect
+NPG1:
+	Statue
+NPG2:
+	in Alabama for boxing
+
+Sentence: Stern trashes Justin Bieber and 'We Are the World' remake (video)
+Cue Found: trash
+NPG1:
+	Stern
+NPG2:
+	Justin Bieber and 'We
+
+Sentence: Teen arrested after high school lock-down in Cowansville
+Cue Found: arrest
+NPG1:
+	Teen
+NPG2:
+	after high school lock-down in Cowansville
+
+Sentence: 2010 Winter Olympics: Hockey ignites final Olympic weekend excitement
+Cue Found: ignite
+NPG1:
+	Hockey
+NPG2:
+	final Olympic weekend excitement
+
+Sentence: Ancient art reveals ongoing Alien Presence
+Cue Found: reveal
+NPG1:
+	Ancient art
+NPG2:
+	ongoing Alien Presence
+
+Sentence: Breath meditation improves health
+Cue Found: improve
+NPG1:
+	Breath meditation
+NPG2:
+	health
+
+Sentence: Clottey defeats Pacquiao: With heavy odds against, is reality in favor?
+Cue Found: defeat
+NPG1:
+	Clottey
+NPG2:
+	Pacquiao
+
+Sentence: Complaints spark market conduct examination of Anthem Blue Cross by Co. Division of Insurance
+Cue Found: spark
+NPG1:
+	Complaints
+NPG2:
+	market conduct examination of Anthem Blue Cross by Co. Division of Insurance
+
+Sentence: Coruba flavored spirits from Jamaica
+Cue Found: flavor
+NPG1:
+	Coruba
+NPG2:
+	spirits from Jamaica
+
+Sentence: Florida: GOP's McCollum maintains lead in gubernatorial race
+Cue Found: maintain
+NPG1:
+	McCollum
+NPG2:
+	lead in gubernatorial race
+
+Sentence: Georgia Baseball: Diamond Dogs defeat Presbyterian in home season opener tonight in Athens
+Cue Found: defeat
+NPG1:
+	Diamond Dogs
+NPG2:
+	Presbyterian in home season opener tonight in Athens
+
+Sentence: Hagerstown Speedway postpones 2010 season opener for late models, big block modifieds
+Cue Found: postpone
+NPG1:
+	Hagerstown Speedway
+NPG2:
+	2010 season opener for late models , big block modifieds
+
+Sentence: How a small business quadrupled its customer base without changing its products
+Cue Found: quadruple
+NPG1:
+	a small business
+NPG2:
+	its customer base
+
+Sentence: Joannie Rochette overcomes grief to give stunning performance in the world spotlight
+Cue Found: overcome
+NPG1:
+	Joannie Rochette
+NPG2:
+	grief
+
+Sentence: J Street fabricated anti-Israel scandal?
+Cue Found: fabricate
+NPG1:
+	J Street
+NPG2:
+	anti-Israel scandal
+
+Sentence: Kelly Ripa reveals new tattoo (video)
+Cue Found: reveal
+NPG1:
+	Kelly Ripa
+NPG2:
+	new tattoo ( video )
+
+Sentence: Maryland Terrapins defeat Clemson Tigers, 88-79 for fourth win in a row
+Cue Found: defeat
+NPG1:
+	Maryland Terrapins
+NPG2:
+	Clemson Tigers
+
+Sentence: Olive repaving causes detours and delays
+Cue Found: cause
+NPG1:
+	Olive repaving
+NPG2:
+	detours and delays
+
+Sentence: PETA protestors disrupt 2010 Westminster Dog Show in New York City
+Cue Found: disrupt
+NPG1:
+	PETA protestors
+NPG2:
+	2010 Westminster Dog Show in New York City
+
+Sentence: Portman maintains lead over Democratic foes in race for vacant Senate seat
+Cue Found: maintain
+NPG1:
+	Portman
+NPG2:
+	lead over Democratic foes in race for vacant Senate seat
+
+Sentence: Stock market negates yesterdays drop
+Cue Found: negate
+NPG1:
+	Stock market
+NPG2:
+	yesterdays
+
+Sentence: Texans draft watch: CB Devin McCourty
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Upcoming Central NC area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Central NC area scrapbook and paper
+NPG2:
+	events
+
+Sentence: U.S. men's ice hockey defeats Switzerland 2-0; heads to Olympic semifinals
+Cue Found: defeat
+NPG1:
+	ice hockey
+NPG2:
+	Switzerland
+
+Sentence: Utah criminalizes certain miscarriages
+Cue Found: criminalize
+NPG1:
+	Utah
+NPG2:
+	certain miscarriages
+
+Sentence: Bomb scare triggers evacuation of ICE building in Hemet
+Cue Found: trigger
+NPG1:
+	Bomb scare
+NPG2:
+	evacuation of ICE building in Hemet
+
+Sentence: Brittany Murphy death: Full autopsy reveals new information regarding drug use
+Cue Found: reveal
+NPG1:
+	Full autopsy
+NPG2:
+	new information
+
+Sentence: Cedartown man arrested on domestic violence and animal cruelty charges
+Cue Found: arrest
+NPG1:
+	Cedartown man
+NPG2:
+	on domestic violence and animal cruelty charges
+
+Sentence: Cisco-HP split a year in the making
+Cue Found: split
+NPG1:
+	Cisco-HP
+NPG2:
+	a year in the making
+
+Sentence: College appearance of 'Jersey Shore's' Snooki sparks racial unrest on Facebook (VIDEO)
+Cue Found: spark
+NPG1:
+	Snooki
+NPG2:
+	racial unrest on Facebook ( VIDEO
+
+Sentence: Does God cause disasters and are they disasters if they bring people together?
+Cue Found: cause
+NPG1:
+	God
+NPG2:
+	disasters
+
+Sentence: Fayette Chamber of Commerce sponsors free business networking event for members and non-members
+Cue Found: network
+NPG1:
+	Fayette Chamber of Commerce sponsors free business
+NPG2:
+	event for members and non-members
+
+Sentence: Governor Gregoire stifles democracy, kills recovery, suspends Initiative I-960
+Cue Found: stifle
+NPG1:
+	Governor Gregoire
+NPG2:
+	democracy
+
+Sentence: Korean website reveals new God of War III screenshots
+Cue Found: reveal
+NPG1:
+	Korean website
+NPG2:
+	new God of War III screenshots
+
+Sentence: Mavericks defeat Lakers 101-96, Dirk and Terry combine for 61
+Cue Found: defeat
+NPG1:
+	Mavericks
+NPG2:
+	Lakers
+
+Sentence: Merola's Leah Crocetto recreated audition for private Merola event, behind the scenes
+Cue Found: recreate
+NPG1:
+	Leah Crocetto
+NPG2:
+	audition for private Merola event , behind the scenes
+
+Sentence: Nintendo reveals game lineup for first half of 2010
+Cue Found: reveal
+NPG1:
+	Nintendo
+NPG2:
+	game lineup for first half
+
+Sentence: Octomom Nadya Suleman's 'The View' appearance evokes criticism, anger (video)
+Cue Found: evoke
+NPG1:
+	appearance
+NPG2:
+	criticism , anger ( video )
+
+Sentence: Pittsburgh Pirates Pep Rally reveals new jerseys
+Cue Found: reveal
+NPG1:
+	Pittsburgh Pirates Pep Rally
+NPG2:
+	new jerseys
+
+Sentence: Robbie Hummel injures knee during Purdue game and is out for the season (see video of injury)
+Cue Found: injure
+NPG1:
+	Robbie Hummel
+NPG2:
+	knee during Purdue game
+
+Sentence: Salazar rescinds Oregon logging plans in spotted owl habitat
+Cue Found: rescind
+NPG1:
+	Salazar
+NPG2:
+	Oregon
+
+Sentence: South San Francisco elder caregiver arrested on 38 counts of financial abuse
+Cue Found: arrest
+NPG1:
+	caregiver
+NPG2:
+	on 38 counts of financial abuse
+
+Sentence: Steelers ensure Reed, Hampton stay with team
+Cue Found: ensure
+NPG1:
+	Steelers
+NPG2:
+	Reed
+
+Sentence: Terps rally past Clemson, 88-79
+Cue Found: rally
+NPG1:
+	Terps
+NPG2:
+	past Clemson
+
+Sentence: 'Twilight Saga: New Moon' DVD deleted scene released by Target (video)
+Cue Found: delete
+NPG1:
+	DVD
+NPG2:
+	scene
+
+Sentence: Video: SeaWorld trainer Dawn Brancheau's ponytail aggravated Tilly killer whale attack
+Cue Found: aggravate
+NPG1:
+	ponytail
+NPG2:
+	Tilly killer whale attack
+
+Sentence: 20 inch blizzard causes NYC schools to close. Keep kids safe ... make it a fun day.
+Cue Found: cause
+NPG1:
+	20 inch blizzard
+NPG2:
+	NYC schools
+
+Sentence: Atlas Sound dish the avant garde at Great American Music Hall
+Cue Found: dish
+NPG1:
+	Atlas Sound
+NPG2:
+	the avant garde at Great American Music Hall
+
+Sentence: Awty International School hosts French-American Chamber of Commerce networking session
+Cue Found: network
+NPG1:
+	Awty International School hosts French-American Chamber of Commerce
+NPG2:
+	session
+
+Sentence: Band of Skulls reveals video for 'The Twilight Saga: New Moon' soundtrack's 'Friends'
+Cue Found: reveal
+NPG1:
+	Band of Skulls
+NPG2:
+	video for 'The Twilight Saga
+
+Sentence: Bloom Energy reveals 'Bloom Box' - cheap electricity
+Cue Found: reveal
+NPG1:
+	Bloom Energy
+NPG2:
+	'Bloom Box
+
+Sentence: Cold weather causing your dog to have dry skin?
+Cue Found: cause
+NPG1:
+	Cold weather
+NPG2:
+	your dog
+
+Sentence: Court disbars Washington County Public Defender Patrick Barber for fabricating family court orders
+Cue Found: disbar
+NPG1:
+	Court
+NPG2:
+	Washington County Public Defender Patrick Barber
+
+Sentence: DC Universe Online reveals Power Girl
+Cue Found: reveal
+NPG1:
+	DC Universe Online
+NPG2:
+	Power Girl
+
+Sentence: Detroit couple busted in Kentucky with Oxycontin, cash, part of a broader picture
+Cue Found: bust
+NPG1:
+	Detroit couple
+NPG2:
+	in Kentucky with Oxycontin , cash , part
+
+Sentence: Experts climb to the sky on Telluride's new stairs linking Gold Hill's extreme chutes
+Cue Found: link
+NPG1:
+	new stairs
+NPG2:
+	Gold Hill
+
+Sentence: NBA All-star, Alvin Robertson arrested on sex-trafficking charges of an underaged child, photos
+Cue Found: arrest
+NPG1:
+	Alvin Robertson
+NPG2:
+	on sex-trafficking charges of an underaged child , photos
+
+Sentence: Nevada Senators split vote on latest Jobs Bill
+Cue Found: split
+NPG1:
+	Nevada Senators
+NPG2:
+	vote
+
+Sentence: Obama distorts polls to prop up health care
+Cue Found: distort
+NPG1:
+	Obama
+NPG2:
+	polls
+
+Sentence: Orange peel artwork is so much fun!
+Cue Found: peel
+NPG1:
+	Orange
+NPG2:
+	artwork
+
+Sentence: Ralph Lauren Home + Kravet fabrics= home furnishing heaven
+Cue Found: furnish
+NPG1:
+	Ralph Lauren Home + Kravet fabrics= home
+NPG2:
+	heaven
+
+Sentence: Shamu's Twitter feed halted after attack on trainer Dawn Brancheau
+Cue Found: halt
+NPG1:
+	Twitter feed
+NPG2:
+	after attack on trainer Dawn Brancheau
+
+Sentence: The Hurt Locker causes reality check friction from armed forces
+Cue Found: cause
+NPG1:
+	The Hurt Locker
+NPG2:
+	reality check friction from armed forces
+
+Sentence: Toyota: SO boned by Dimitrios the whistleblower
+Cue Found: bone
+NPG1:
+	SO
+NPG2:
+	by Dimitrios the whistleblower
+
+Sentence: Two men arrested in connection with Columbia County crime spree
+Cue Found: arrest
+NPG1:
+	Two men
+NPG2:
+	in connection with Columbia County crime spree
+
+Sentence: 8.8 earthquake devastates Chile, tsunami warnings sound in Hawaii, Pacific under watch (photos)
+Cue Found: devastate
+NPG1:
+	8.8 earthquake
+NPG2:
+	Chile
+
+Sentence: Artist Douglas Charles Granum wows Puyallup
+Cue Found: wow
+NPG1:
+	Artist Douglas Charles Granum
+NPG2:
+	Puyallup
+
+Sentence: Carly Simon reveals 'You're So Vain' mystery man? (video)
+Cue Found: reveal
+NPG1:
+	Carly Simon
+NPG2:
+	'You
+
+Sentence: Chandler-Gilbert captures second men's seed, Central women keep streak alive, Pima topples Mesa
+Cue Found: topple
+NPG1:
+	Pima
+NPG2:
+	Mesa
+
+Sentence: Chile earthquake causes 'Lost' cast to seek higher ground in Hawaii
+Cue Found: cause
+NPG1:
+	Chile earthquake
+NPG2:
+	'Lost
+
+Sentence: CHIRLA: CIS report on immigration distorts reality
+Cue Found: distort
+NPG1:
+	CIS report on immigration
+NPG2:
+	reality
+
+Sentence: Delaware State splits pair at Savannah State Classic
+Cue Found: split
+NPG1:
+	Delaware State
+NPG2:
+	pair at Savannah State Classic
+
+Sentence: Documents reveal leaks and spills at national virus lab
+Cue Found: reveal
+NPG1:
+	Documents
+NPG2:
+	leaks and spills at national virus lab
+
+Sentence: Drunk mom busted with sword in school, man beaten with Worcestershire sauce bottle
+Cue Found: bust
+NPG1:
+	Drunk mom
+NPG2:
+	with sword in school
+
+Sentence: Flights to Hawaii halted from San Francisco, sirens in Honolulu, Waikiki (streaming video, photos)
+Cue Found: halt
+NPG1:
+	Hawaii
+NPG2:
+	from San Francisco , sirens in Honolulu , Waikiki ( streaming video
+
+Sentence: Fort Collins cello duet enchants small residential venue
+Cue Found: enchant
+NPG1:
+	Fort Collins cello duet
+NPG2:
+	small residential venue
+
+Sentence: Georgia Baseball: Bulldogs defeat Stetson on Friday, go for second win Saturday afternoon in Athens
+Cue Found: defeat
+NPG1:
+	Bulldogs
+NPG2:
+	Stetson on Friday
+
+Sentence: Henry heats up in overtime as Huskers defeat Red Raiders
+Cue Found: defeat
+NPG1:
+	in overtime as Huskers
+NPG2:
+	Red Raiders
+
+Sentence: Houston defeats Dallas in preseason preview of Texas Derby
+Cue Found: defeat
+NPG1:
+	Houston
+NPG2:
+	Dallas in preseason preview of Texas Derby
+
+Sentence: Magnitude 8.8 Chile Earthquake causes tsunami danger to Asia and Hawaii- Health risks after disaster
+Cue Found: cause
+NPG1:
+	Magnitude 8.8 Chile Earthquake
+NPG2:
+	tsunami danger
+
+Sentence: Paris Hilton sparks controversy in Brazil with scandalous commercial (VIDEO)
+Cue Found: spark
+NPG1:
+	Paris Hilton
+NPG2:
+	controversy in Brazil with scandalous commercial ( VIDEO
+
+Sentence: Texans draft watch: RB Ryan Mathews
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Tsunami warning alerts San Diego County
+Cue Found: alert
+NPG1:
+	Tsunami warning
+NPG2:
+	San Diego County
+
+Sentence: UPDATE:Chilean earthquake causes tsunami warnings to be issued for Pacific region, including Hawaii
+Cue Found: cause
+NPG1:
+	Chilean earthquake
+NPG2:
+	tsunami warnings
+
+Sentence: Wired magazine interview reveals physicist's pursuit of the theory of time
+Cue Found: reveal
+NPG1:
+	magazine interview
+NPG2:
+	physicist
+
+Sentence: Best home furnishing stores in the Jackson area
+Cue Found: furnish
+NPG1:
+	home
+NPG2:
+	stores in the Jackson area
+
+Sentence: Drexel defeats JMU, rematch set for Friday
+Cue Found: defeat
+NPG1:
+	Drexel
+NPG2:
+	JMU , rematch set for Friday
+
+Sentence: Ea sports reveals first details about ncaa football 11
+Cue Found: reveal
+NPG1:
+	Ea sports
+NPG2:
+	first details about ncaa football
+
+Sentence: Hamilton fastest in final day of F.1 testing: Schumacher reveals Mercedes looking very reasonable
+Cue Found: reveal
+NPG1:
+	Schumacher
+NPG2:
+	Mercedes
+
+Sentence: Hialeah Police arrest men involved in the murder of a 77-year old man
+Cue Found: arrest
+NPG1:
+	Hialeah Police
+NPG2:
+	men
+
+Sentence: Iowa men defeat Indiana 73-57
+Cue Found: defeat
+NPG1:
+	Iowa men
+NPG2:
+	Indiana
+
+Sentence: Lady Gaga and Megan Fox in high school: Celebrity yearbook photos spark interest with fans
+Cue Found: spark
+NPG1:
+	Celebrity yearbook photos
+NPG2:
+	interest with fans
+
+Sentence: Marie Osmond devastated over death of 18 year old
+Cue Found: devastate
+NPG1:
+	Marie Osmond
+NPG2:
+	over death of 18 year
+
+Sentence: Middle Eastern delights at G&P Lebanese Pastry & Fast in New Brunswick
+Cue Found: delight
+NPG1:
+	Middle Eastern
+NPG2:
+	at G & P Lebanese Pastry
+
+Sentence: Midwest punk legends Song of Zarathustra reunite at Triple Rock, new STNNNG album in the works
+Cue Found: reunite
+NPG1:
+	Midwest punk legends Song of Zarathustra
+NPG2:
+	at Triple Rock , new STNNNG album in the works
+
+Sentence: Olympic update: Crosby scores in overtime, Canada defeats USA for the gold
+Cue Found: defeat
+NPG1:
+	Canada
+NPG2:
+	USA for the gold
+
+Sentence: Rachael Ray reveals cancer scare: Her weight-loss diet and workout secrets
+Cue Found: reveal
+NPG1:
+	Rachael Ray
+NPG2:
+	cancer scare
+
+Sentence: Texans draft watch: RB C.J. Spiller
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: This Monday: Music networking night at Double Door
+Cue Found: network
+NPG1:
+	Music
+NPG2:
+	night at Double Door
+
+Sentence: Atari.com promotion causes galaxy-sized uproar among Star Trek Online community
+Cue Found: cause
+NPG1:
+	Atari.com promotion
+NPG2:
+	galaxy-sized uproar among Star Trek Online community
+
+Sentence: BatCats overcome distractions, move up in polls
+Cue Found: overcome
+NPG1:
+	BatCats
+NPG2:
+	distractions
+
+Sentence: Christian minister arrested in Tampa for distribution of child pornography
+Cue Found: arrest
+NPG1:
+	Christian minister
+NPG2:
+	in Tampa for distribution of child pornography
+
+Sentence: 'Dancing With the Stars' cast revealed (photo slideshow)
+Cue Found: reveal
+NPG1:
+	cast
+NPG2:
+	( photo slideshow )
+
+Sentence: Dayton Flyers overpower the Minutemen 96-68
+Cue Found: overpower
+NPG1:
+	Dayton Flyers
+NPG2:
+	the Minutemen
+
+Sentence: EPA polluter enforcements limited by uncertainties in Clean Water Act
+Cue Found: limit
+NPG1:
+	EPA polluter enforcements
+NPG2:
+	by uncertainties in Clean Water Act
+
+Sentence: Four juveniles arrested for graffiti in Kettering
+Cue Found: arrest
+NPG1:
+	Four juveniles
+NPG2:
+	for graffiti in Kettering
+
+Sentence: Georgia Softball: Lady Bulldogs defeat Alabama to capture Georgia Softball Classic title in Athens
+Cue Found: defeat
+NPG1:
+	Lady Bulldogs
+NPG2:
+	Alabama
+
+Sentence: Harry Caray toasted at Navy Pier with celebration and fireworks
+Cue Found: toast
+NPG1:
+	Harry Caray
+NPG2:
+	at Navy Pier with celebration and fireworks
+
+Sentence: Jorge Luis Delgado reveals the secrets behind 2012
+Cue Found: reveal
+NPG1:
+	Jorge Luis Delgado
+NPG2:
+	the secrets
+
+Sentence: North Carolina's statewide tornado drill postponed until Friday, March 5
+Cue Found: postpone
+NPG1:
+	statewide tornado drill
+NPG2:
+	until Friday , March
+
+Sentence: Paterson's scandal sparks new bill
+Cue Found: spark
+NPG1:
+	scandal
+NPG2:
+	new bill
+
+Sentence: San Diego photographer convenes local leaders to find solutions to homelessness
+Cue Found: convene
+NPG1:
+	San Diego photographer
+NPG2:
+	local leaders
+
+Sentence: Upcoming Central NC area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Central NC area scrapbook and paper
+NPG2:
+	events
+
+Sentence: VPC invents bizarre new justification to ban 'assault weapons'
+Cue Found: invent
+NPG1:
+	VPC
+NPG2:
+	bizarre new justification
+
+Sentence: West Virginia Mountaineers defeat Georgetown Hoyas in Big East battle, 81-68
+Cue Found: defeat
+NPG1:
+	West Virginia Mountaineers
+NPG2:
+	Georgetown Hoyas in Big East battle
+
+Sentence: ABC reveals breakthrough 'Dancing' contestants during 'The Bachelor'
+Cue Found: reveal
+NPG1:
+	ABC
+NPG2:
+	breakthrough
+
+Sentence: Atlanta snow causes hundreds of flights to cancel
+Cue Found: cause
+NPG1:
+	Atlanta snow
+NPG2:
+	hundreds of flights
+
+Sentence: CeBIT 2010: SteelSeries reveals new gaming keyboard
+Cue Found: reveal
+NPG1:
+	SteelSeries
+NPG2:
+	new gaming keyboard
+
+Sentence: CeBIT 2010: SteelSeries reveals SteelSeries 7H headset
+Cue Found: reveal
+NPG1:
+	SteelSeries
+NPG2:
+	SteelSeries 7H headset
+
+Sentence: Chamber launches eBid Connect to help members secure public sector business
+Cue Found: secure
+NPG1:
+	members
+NPG2:
+	public sector business
+
+Sentence: 'Dancing With the Stars:' professional dancers revealed for season 10 (photos)
+Cue Found: reveal
+NPG1:
+	professional dancers
+NPG2:
+	for season 10 ( photos
+
+Sentence: Demonology 101: Did Christianity invent the ideas of Satan and Hell?
+Cue Found: invent
+NPG1:
+	Christianity
+NPG2:
+	the ideas of Satan and Hell
+
+Sentence: Mars radar mapping reveals hidden glaciers and buried ice
+Cue Found: reveal
+NPG1:
+	Mars radar mapping
+NPG2:
+	hidden glaciers
+
+Sentence: NCAA squashes Focus on the Family's pro-family message
+Cue Found: squash
+NPG1:
+	NCAA
+NPG2:
+	Focus on the Family
+
+Sentence: Stray cat alerts woman to undiagnosed breast cancer (Photo)
+Cue Found: alert
+NPG1:
+	Stray cat
+NPG2:
+	woman
+
+Sentence: SUNO women defeat Spring Hill, advance to GCAC quarterfinals
+Cue Found: defeat
+NPG1:
+	SUNO women
+NPG2:
+	Spring Hill , advance
+
+Sentence: Texans draft watch: CB Kareem Jackson
+Cue Found: draft
+NPG1:
+	Texans
+NPG2:
+	watch
+
+Sentence: Video: Howard Stern trashes Jay Leno on the CBS Early Show (full segment)
+Cue Found: trash
+NPG1:
+	Howard Stern
+NPG2:
+	Jay Leno on the CBS Early Show
+
+Sentence: Video: Icy roads cause a car to hit a police officer
+Cue Found: cause
+NPG1:
+	Icy roads
+NPG2:
+	a car
+
+Sentence: Activision reveals plans for Call of Duty franchise
+Cue Found: reveal
+NPG1:
+	Activision
+NPG2:
+	plans for Call of Duty franchise
+
+Sentence: Columbus Crew defeats Arizona without tipping their hand to Toluca
+Cue Found: defeat
+NPG1:
+	Columbus Crew
+NPG2:
+	Arizona
+
+Sentence: Five year study reveals Texas state park visitors satisifion levels and econonmic draw
+Cue Found: reveal
+NPG1:
+	Five year study
+NPG2:
+	Texas state park visitors satisifion levels and econonmic draw
+
+Sentence: Gain success in your personal life: Sleep improves health and longevity
+Cue Found: improve
+NPG1:
+	Sleep
+NPG2:
+	health and longevity
+
+Sentence: Mayor Newsom's deficit busting fire-rehire plan finally acting like a governor
+Cue Found: bust
+NPG1:
+	deficit
+NPG2:
+	fire-rehire plan
+
+Sentence: Megan Fox reveals details about her sex life in 'Bazaar' magazine
+Cue Found: reveal
+NPG1:
+	Megan Fox
+NPG2:
+	details about her sex life in 'Bazaar
+
+Sentence: Musicians On Call: changing the way hospitals heal the sick (video)
+Cue Found: heal
+NPG1:
+	the way hospitals
+NPG2:
+	the sick ( video )
+
+Sentence: New Halo: Reach trailer reveals multiplayer mayhem
+Cue Found: reveal
+NPG1:
+	trailer
+NPG2:
+	multiplayer mayhem
+
+Sentence: No witch in Dawn Treader: Christianity Today reveals spoilers
+Cue Found: reveal
+NPG1:
+	Christianity Today
+NPG2:
+	spoilers
+
+Sentence: Oscar-nominated Jewish-themed and Israeli films cause speculation among Jews
+Cue Found: cause
+NPG1:
+	Israeli films
+NPG2:
+	speculation among Jews
+
+Sentence: Pamela's Products founder reveals her gluten free secrets to living well at the gluten free expo
+Cue Found: reveal
+NPG1:
+	Products founder
+NPG2:
+	her gluten free secrets
+
+Sentence: Pet peeves about wine in restaurants around Hampton Roads
+Cue Found: peeve
+NPG1:
+	Pet
+NPG2:
+	about wine in restaurants around Hampton Roads
+
+Sentence: Sacha Baron Cohen offends James Cameron
+Cue Found: offend
+NPG1:
+	Sacha Baron Cohen
+NPG2:
+	James Cameron
+
+Sentence: Sex Crime suspect from AZ arrested in El Paso, TX
+Cue Found: arrest
+NPG1:
+	Sex Crime suspect from AZ
+NPG2:
+	in El Paso , TX
+
+Sentence: Snow in N.C. causes school delays and slick roads
+Cue Found: cause
+NPG1:
+	Snow in N.C.
+NPG2:
+	school delays and slick roads
+
+Sentence: The Politically Incorrect Guide to the Vietnam War reveals the lies about Vietnam and the war
+Cue Found: reveal
+NPG1:
+	the Vietnam War
+NPG2:
+	the lies about Vietnam and the war
+
+Sentence: U.S. Women's Soccer Team defeats Germany to win 2010 Algarve Cup (photos)
+Cue Found: defeat
+NPG1:
+	Soccer Team
+NPG2:
+	Germany
+
+Sentence: 27 rioters arrested in College Park after Maryland's victory over Duke
+Cue Found: arrest
+NPG1:
+	27 rioters
+NPG2:
+	in College Park after Maryland
+
+Sentence: Attacks disrupt early voting in Iraq killing more than a dozen
+Cue Found: disrupt
+NPG1:
+	Attacks
+NPG2:
+	early voting in Iraq
+
+Sentence: 'Black circle' UFO causes two Ohio witnesses distress during night sighting
+Cue Found: cause
+NPG1:
+	UFO
+NPG2:
+	two Ohio witnesses distress during night sighting
+
+Sentence: Brenda Song: 'My brothers annoy the crud out of me'
+Cue Found: annoy
+NPG1:
+	'My brothers
+NPG2:
+	the crud
+
+Sentence: Burns Flat Cumberland Presbyterian Church trashes YouTube.
+Cue Found: trash
+NPG1:
+	Burns Flat Cumberland Presbyterian Church
+NPG2:
+	YouTube
+
+Sentence: Denver East High School Rugby defeats the Aurora Saracens to start season 2-0
+Cue Found: defeat
+NPG1:
+	Denver East High School Rugby
+NPG2:
+	the Aurora Saracens
+
+Sentence: DJ Cannon reveals his universal style
+Cue Found: reveal
+NPG1:
+	DJ Cannon
+NPG2:
+	his universal style
+
+Sentence: Documents reveal fear mongering is republican strategy for fund raising (Video & Slide show)
+Cue Found: reveal
+NPG1:
+	Documents
+NPG2:
+	fear mongering
+
+Sentence: Forney road construction causing traffic issues
+Cue Found: cause
+NPG1:
+	Forney road construction
+NPG2:
+	traffic issues
+
+Sentence: Gardening 101: How do I curb diseases when planting in Bangor?
+Cue Found: curb
+NPG1:
+	I
+NPG2:
+	diseases
+
+Sentence: Geneva Auto Show 2010: The horror! Nightmare concepts scare onlookers
+Cue Found: scare
+NPG1:
+	Nightmare concepts
+NPG2:
+	onlookers
+
+Sentence: Jimmie Johnson causing NASCAR ratings to slip?
+Cue Found: cause
+NPG1:
+	Jimmie Johnson
+NPG2:
+	NASCAR ratings
+
+Sentence: Murrieta Valley overcomes odds to reach first title game
+Cue Found: overcome
+NPG1:
+	Murrieta Valley
+NPG2:
+	odds
+
+Sentence: Porsche reveals hybrid electric concept car
+Cue Found: reveal
+NPG1:
+	Porsche
+NPG2:
+	hybrid electric concept car
+
+Sentence: Retirement sparks a new career for a woman in San Francisco
+Cue Found: spark
+NPG1:
+	Retirement
+NPG2:
+	a new career for a woman in San Francisco
+
+Sentence: Seton Hall defeats Rutgers to sweep the two-game series
+Cue Found: defeat
+NPG1:
+	Seton Hall
+NPG2:
+	Rutgers
+
+Sentence: Tony Alamo victim's powerful blog reveals the difficulty of overcoming sexual abuse by the clergy
+Cue Found: reveal
+NPG1:
+	powerful blog
+NPG2:
+	the difficulty
+
+Sentence: University School defeats Stoughton in overtime of state quarterfinal
+Cue Found: defeat
+NPG1:
+	University School
+NPG2:
+	Stoughton in overtime of state quarterfinal
+
+Sentence: Can Stanford negate Cal's Max Factor on Saturday?
+Cue Found: negate
+NPG1:
+	Stanford
+NPG2:
+	Cal
+
+Sentence: Chile earthquake aftershocks cause panic, Chilean officials state death count is overestimated
+Cue Found: cause
+NPG1:
+	Chile earthquake aftershocks
+NPG2:
+	panic
+
+Sentence: Court of Appeals reverses jury verdict of assault with intent to murder, remands for retrial
+Cue Found: reverse
+NPG1:
+	Court of Appeals
+NPG2:
+	jury verdict of assault with intent
+
+Sentence: Home builders survey reveals consumer support for government homebuyer programs
+Cue Found: reveal
+NPG1:
+	Home builders survey
+NPG2:
+	consumer support for government homebuyer programs
+
+Sentence: House 'genocide' resolution sparks controversy
+Cue Found: spark
+NPG1:
+	resolution
+NPG2:
+	controversy
+
+Sentence: Liz Cheney conjures ghost of Joe McCarthy
+Cue Found: conjure
+NPG1:
+	Liz Cheney
+NPG2:
+	ghost of Joe McCarthy
+
+Sentence: Looxii simplifies social media listening
+Cue Found: simplify
+NPG1:
+	Looxii
+NPG2:
+	social media
+
+Sentence: Read Roseanne Barr's claim of Mormon Church caused Osmond suicide
+Cue Found: cause
+NPG1:
+	claim of Mormon Church
+NPG2:
+	Osmond suicide
+
+Sentence: Tampa online Pastor arrested for child porn (video)
+Cue Found: arrest
+NPG1:
+	Tampa online Pastor
+NPG2:
+	for child porn ( video )
+
+Sentence: The City School District of Albany implements a new lottery system for entry into its pre-k programs
+Cue Found: implement
+NPG1:
+	The City School District of Albany
+NPG2:
+	a new lottery system for entry into its pre-k programs
+
+Sentence: VCU defeats Delaware in CAA tournament men's basketball game
+Cue Found: defeat
+NPG1:
+	VCU
+NPG2:
+	Delaware in CAA tournament men
+
+Sentence: Video: Taylor Swift covers Elle magazine, singer reveals 'Twilight' star Taylor Lautner on hot list
+Cue Found: reveal
+NPG1:
+	singer
+NPG2:
+	'Twilight
+
+Sentence: Baton augmented arrest following car and foot pursuit sparks investigations
+Cue Found: spark
+NPG1:
+	car and foot pursuit
+NPG2:
+	investigations
+
+Sentence: Brazil defeats Ireland 2-0 in pre-FIFA game (video)
+Cue Found: defeat
+NPG1:
+	Brazil
+NPG2:
+	Ireland
+
+Sentence: California defeats rival Stanford to become outright Pac-10 champs
+Cue Found: defeat
+NPG1:
+	California
+NPG2:
+	rival Stanford
+
+Sentence: CD round up: Three new releases evoke a world of jazz
+Cue Found: evoke
+NPG1:
+	Three new releases
+NPG2:
+	a world of jazz
+
+Sentence: Honey squash quick bread recipe flavored with thyme and chili is made like banana bread
+Cue Found: flavor
+NPG1:
+	Honey squash quick bread recipe
+NPG2:
+	with thyme and chili
+
+Sentence: Justin Bieber causes Twitter fever - again (photo show)
+Cue Found: cause
+NPG1:
+	Justin Bieber
+NPG2:
+	Twitter fever
+
+Sentence: Men empowering men to reach men
+Cue Found: empower
+NPG1:
+	Men
+NPG2:
+	men
+
+Sentence: Opposing groups rally in downtown Wilmington, NC; Senator Kay Hagan's policies spark confrontation
+Cue Found: spark
+NPG1:
+	policies
+NPG2:
+	confrontation
+
+Sentence: Should nursing homes permit medical marijuana
+Cue Found: permit
+NPG1:
+	homes
+NPG2:
+	medical marijuana
+
+Sentence: Video: Tim Gunn trashes Karadashian's look and calls it vulgar
+Cue Found: trash
+NPG1:
+	Tim Gunn
+NPG2:
+	Karadashian
+
+Sentence: 2010 Oscar-nominee Meryl Streep rehearses lines with her cat
+Cue Found: rehearse
+NPG1:
+	2010 Oscar-nominee Meryl Streep
+NPG2:
+	lines with her cat
+
+Sentence: Chocolate soothes a broken heart
+Cue Found: soothe
+NPG1:
+	Chocolate
+NPG2:
+	a broken heart
+
+Sentence: Deanna Raybourn reveals her new historical mystery
+Cue Found: reveal
+NPG1:
+	Deanna Raybourn
+NPG2:
+	her new historical mystery
+
+Sentence: Excessive penalties cause Enfield skaters DQ from state tournament
+Cue Found: cause
+NPG1:
+	Excessive penalties
+NPG2:
+	Enfield skaters DQ from state tournament
+
+Sentence: In utero and first year air pollution exposures trigger development of asthma in children
+Cue Found: trigger
+NPG1:
+	In utero and first year air pollution exposures
+NPG2:
+	development of asthma in children
+
+Sentence: Investigations reveal climate scientists aren't telling the truth
+Cue Found: reveal
+NPG1:
+	Investigations
+NPG2:
+	climate scientists
+
+Sentence: Lobos split doubleheader with Trojans
+Cue Found: split
+NPG1:
+	Lobos
+NPG2:
+	doubleheader with Trojans
+
+Sentence: New study in underage drinking reveals parents aren't saying enough
+Cue Found: reveal
+NPG1:
+	New study in underage drinking
+NPG2:
+	parents
+
+Sentence: Nonprofit organizations empower children and give them the tools to change the world
+Cue Found: empower
+NPG1:
+	Nonprofit organizations
+NPG2:
+	children
+
+Sentence: Positive labor stats: Census jobs skew the results (video)
+Cue Found: skew
+NPG1:
+	Census jobs
+NPG2:
+	the results
+
+Sentence: Religion pollutes politics, threatens health care reform via abortion, Catholic bishops
+Cue Found: pollute
+NPG1:
+	Religion
+NPG2:
+	politics
+
+Sentence: Sarah Jessica Parker wows Twitter with Chanel at Oscars
+Cue Found: wow
+NPG1:
+	Sarah Jessica Parker
+NPG2:
+	Twitter with Chanel at Oscars
+
+Sentence: Scorsese's 'Shutter Island' conclusion causes a conundrum
+Cue Found: cause
+NPG1:
+	conclusion
+NPG2:
+	a conundrum
+
+Sentence: Tales of the World soothes the beasties
+Cue Found: soothe
+NPG1:
+	Tales of the World
+NPG2:
+	the beasties
+
+Sentence: Video: Robert Pattinson, In & Out Burger - 'Twilight' star reveals script reading history
+Cue Found: reveal
+NPG1:
+	star
+NPG2:
+	script reading history
+
+Sentence: Woman arrested outside military base sues city,county for false arrest & illegal seizure
+Cue Found: arrest
+NPG1:
+	Woman
+NPG2:
+	outside military base
+
+Sentence: Academy Awards: Carson Kressley reveals fashion picks on 'Oprah' (photos)
+Cue Found: reveal
+NPG1:
+	Carson Kressley
+NPG2:
+	fashion picks on 'Oprah
+
+Sentence: Conference reveals History of Native - ET Contact - Part 4
+Cue Found: reveal
+NPG1:
+	Conference
+NPG2:
+	History
+
+Sentence: Don't let the flu spoil your Spring Break
+Cue Found: spoil
+NPG1:
+	the flu
+NPG2:
+	your Spring
+
+Sentence: Fatigue endangers workers,passengers across all modes, warns NTSB chairman
+Cue Found: endanger
+NPG1:
+	Fatigue
+NPG2:
+	workers , passengers across all modes
+
+Sentence: Local triathlete overcomes obstacles while working toward fitness goals
+Cue Found: overcome
+NPG1:
+	Local triathlete
+NPG2:
+	obstacles
+
+Sentence: Michigan humbled by Michigan State in regular season finale
+Cue Found: humble
+NPG1:
+	Michigan
+NPG2:
+	by Michigan State in regular season finale
+
+Sentence: Monsters defeat Phoenix 5-1 in game 2 of the second round and keep their season alive
+Cue Found: defeat
+NPG1:
+	Monsters
+NPG2:
+	Phoenix
+
+Sentence: Most talked-about match of the weekend: Palmer defeats Metcalf at Big Tens
+Cue Found: defeat
+NPG1:
+	Palmer
+NPG2:
+	Metcalf at Big Tens
+
+Sentence: Rain, wet fields vexing Mariners
+Cue Found: vex
+NPG1:
+	wet fields
+NPG2:
+	Mariners
+
+Sentence: Resolve lifts diluted Cavs to meaningful win
+Cue Found: dilute
+NPG1:
+	lifts
+NPG2:
+	Cavs
+
+Sentence: Tera Patrick reveals insights into her career in the adult film industry
+Cue Found: reveal
+NPG1:
+	Tera Patrick
+NPG2:
+	insights into her career in the adult film industry
+
+Sentence: The Hurt Locker reveals rewards of filming in the Middle East
+Cue Found: reveal
+NPG1:
+	The Hurt Locker
+NPG2:
+	rewards
+
+Sentence: Unii Cosmetics simplifies mommy makeup on the go
+Cue Found: simplify
+NPG1:
+	Unii Cosmetics
+NPG2:
+	mommy makeup on the go
+
+Sentence: Upcoming issue of Nintendo Power reveals Scribblenauts 2, Earthworm Jim remake
+Cue Found: reveal
+NPG1:
+	Upcoming issue of Nintendo Power
+NPG2:
+	Scribblenauts
+
+Sentence: Any Gentlemen out there or has technology deleted their memory?
+Cue Found: delete
+NPG1:
+	technology
+NPG2:
+	their memory
+
+Sentence: Bloomberg outraged over lack of progress at World Trade Center; Fires shot at Port Authority
+Cue Found: outrage
+NPG1:
+	Bloomberg
+NPG2:
+	over lack of progress at World Trade Center
+
+Sentence: Can Cena defeat Batista at Wrestlemania XXVI?
+Cue Found: defeat
+NPG1:
+	Cena
+NPG2:
+	Batista at Wrestlemania XXVI
+
+Sentence: Fear of passing Multiple Sclerosis to children sparks murder in France
+Cue Found: spark
+NPG1:
+	children
+NPG2:
+	murder in France
+
+Sentence: Florence Chapel reveals 'secret paintings' by Giotto
+Cue Found: reveal
+NPG1:
+	Florence Chapel
+NPG2:
+	'secret paintings
+
+Sentence: Helping your dog overcome fear aggression before it affects his health
+Cue Found: overcome
+NPG1:
+	your dog
+NPG2:
+	fear aggression before it
+
+Sentence: Is social media wrecking the lives of stay-at-home moms?
+Cue Found: wreck
+NPG1:
+	social media
+NPG2:
+	the lives of stay-at-home moms
+
+Sentence: Josh Gondelman secures comedy win for Boston
+Cue Found: secure
+NPG1:
+	Josh Gondelman
+NPG2:
+	comedy
+
+Sentence: Kangaroos in Japan mystify residents
+Cue Found: mystify
+NPG1:
+	Kangaroos in Japan
+NPG2:
+	residents
+
+Sentence: List of drugs causing unexpected bad events released
+Cue Found: cause
+NPG1:
+	List of drugs
+NPG2:
+	unexpected bad events
+
+Sentence: More details revealed about Sega and Platinum Games' VanQuish
+Cue Found: reveal
+NPG1:
+	details
+NPG2:
+	about Sega and Platinum Games
+
+Sentence: Salary cap proposal sparks status quo quandary
+Cue Found: spark
+NPG1:
+	Salary cap proposal
+NPG2:
+	status quo quandary
+
+Sentence: Social networking for dogs nets new homes
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	for dogs nets new homes
+
+Sentence: Spy Zone Collection reveals styles that are full of color and charm!
+Cue Found: reveal
+NPG1:
+	Spy Zone Collection
+NPG2:
+	styles
+
+Sentence: Toni Braxton reveals Pulse album cover, release date
+Cue Found: reveal
+NPG1:
+	Toni Braxton
+NPG2:
+	Pulse album cover , release date
+
+Sentence: UConn topples West Virginia in Big East women's championship final with 72nd straight win
+Cue Found: topple
+NPG1:
+	UConn
+NPG2:
+	West Virginia in Big East women
+
+Sentence: Undercover investigation reveals ease of identity theft in U.S.
+Cue Found: reveal
+NPG1:
+	Undercover investigation
+NPG2:
+	ease of identity theft in U.S
+
+Sentence: Undercover investigation reveals ease of identity theft in U.S.
+Cue Found: reveal
+NPG1:
+	Undercover investigation
+NPG2:
+	ease of identity theft in U.S
+
+Sentence: Upcoming Central NC area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Central NC area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Vernonia woman injured in early morning crash north of Vernonia
+Cue Found: injure
+NPG1:
+	Vernonia woman
+NPG2:
+	in early morning crash north of Vernonia
+
+Sentence: With Masters in sight, Tiger Woods honing his game with coach Hank Haney
+Cue Found: hone
+NPG1:
+	Tiger Woods
+NPG2:
+	his game with coach Hank Haney
+
+Sentence: Athletics split squad, lose to Royals, battle for tie with Rangers
+Cue Found: split
+NPG1:
+	Athletics
+NPG2:
+	squad
+
+Sentence: Bay area fitness trainer overcomes a lifetime of pain to serve others
+Cue Found: overcome
+NPG1:
+	Bay area fitness trainer
+NPG2:
+	a lifetime of pain
+
+Sentence: Catastrophic event caused the halt of star birth in early galaxies, scientists say
+Cue Found: cause
+NPG1:
+	Catastrophic event
+NPG2:
+	the halt of star birth in early galaxies
+
+Sentence: CMHC toughens mortgage guidelines for self-employed borrowers
+Cue Found: toughen
+NPG1:
+	CMHC
+NPG2:
+	mortgage guidelines for self-employed borrowers
+
+Sentence: Corey Haim autopsy: Coroner reveals autopsy planned, no illegal drugs found (video)
+Cue Found: reveal
+NPG1:
+	Coroner
+NPG2:
+	autopsy
+
+Sentence: Court orders private Canadian college to refund expelled student's tuition
+Cue Found: expel
+NPG1:
+	refund
+NPG2:
+	student
+
+Sentence: Derek Anderson is unique: admits he trashed Cleveland Browns fans
+Cue Found: trash
+NPG1:
+	admits he
+NPG2:
+	Cleveland Browns fans
+
+Sentence: Exclusive Video: Pacquiao rehearses for his after-fight concert during his down time
+Cue Found: rehearse
+NPG1:
+	Pacquiao
+NPG2:
+	for his after-fight concert during his down time
+
+Sentence: Larry Kane wows Philadelphia fans with Beatles stories
+Cue Found: wow
+NPG1:
+	Larry Kane
+NPG2:
+	Philadelphia fans with Beatles stories
+
+Sentence: LATEST UPDATE - Runaway Toyota Prius injures woman
+Cue Found: injure
+NPG1:
+	Runaway Toyota Prius
+NPG2:
+	woman
+
+Sentence: Mark Valley reveals the highs and lows of 'Human Target'
+Cue Found: reveal
+NPG1:
+	Mark Valley
+NPG2:
+	the highs and lows of 'Human Target
+
+Sentence: Stress wreaks havoc on multiple aspects of wellness
+Cue Found: wreak
+NPG1:
+	Stress
+NPG2:
+	havoc on multiple aspects of wellness
+
+Sentence: The Story of Stuff: Viral video spawns new book
+Cue Found: spawn
+NPG1:
+	Viral video
+NPG2:
+	new book
+
+Sentence: Tiger Woods Mistress Beauty Pageant contestants revealed (photos)
+Cue Found: reveal
+NPG1:
+	Tiger Woods Mistress Beauty Pageant contestants
+NPG2:
+	( photos
+
+Sentence: Canadian study reveals RVing is the most affordable approach to a family vacation
+Cue Found: reveal
+NPG1:
+	Canadian study
+NPG2:
+	RVing
+
+Sentence: Carlos Slim Helu dethrones Bill Gates as world's richest
+Cue Found: dethrone
+NPG1:
+	Carlos Slim Helu
+NPG2:
+	Bill Gates as world
+
+Sentence: Chad Ochocinco reveals the fashion he wants to wear during his Dancing with the Stars performances
+Cue Found: reveal
+NPG1:
+	Chad Ochocinco
+NPG2:
+	the fashion he
+
+Sentence: Dangers of 'arm chair' marriage advice and cheating scares midst France infidelity rumors
+Cue Found: scar
+NPG1:
+	marriage advice and cheating
+NPG2:
+	midst France infidelity rumors
+
+Sentence: Denied! California defeats Oregon in Pac-10 Tournament despite Kent's guarantee
+Cue Found: defeat
+NPG1:
+	California
+NPG2:
+	Oregon in Pac-10 Tournament despite Kent
+
+Sentence: Grab a paddle: Charleston waterways reveal a world of wildlife, adventure and beauty
+Cue Found: reveal
+NPG1:
+	Charleston waterways
+NPG2:
+	a world of wildlife , adventure and beauty
+
+Sentence: Hulk defeats The Truth
+Cue Found: defeat
+NPG1:
+	Hulk
+NPG2:
+	The Truth
+
+Sentence: Ikea improving family life through the works of many artisans
+Cue Found: improve
+NPG1:
+	Ikea
+NPG2:
+	family life through the works of many artisans
+
+Sentence: Info 101: St. Louis Publishers Association empowers authors
+Cue Found: empower
+NPG1:
+	St. Louis Publishers Association
+NPG2:
+	authors
+
+Sentence: Java Men reunite for whirlwind tour of Germantown
+Cue Found: reunite
+NPG1:
+	Java Men
+NPG2:
+	for whirlwind tour of Germantown
+
+Sentence: Jenni 'JWoWW' Farley reveals new details about fashion line
+Cue Found: reveal
+NPG1:
+	Farley
+NPG2:
+	new details about fashion line
+
+Sentence: MLS players' vote endangers debut of Philadelphia Union
+Cue Found: endanger
+NPG1:
+	vote
+NPG2:
+	debut of Philadelphia Union
+
+Sentence: Moderate Party secures RI Young Dems board member as field organizer
+Cue Found: secure
+NPG1:
+	Moderate Party
+NPG2:
+	RI Young Dems board member as field organizer
+
+Sentence: Romantic chemistry: You can create it, but can you maintain it?
+Cue Found: maintain
+NPG1:
+	you
+NPG2:
+	it
+
+Sentence: Shorthanded Blue Jackets defeat Atlanta 2-1
+Cue Found: defeat
+NPG1:
+	Shorthanded Blue Jackets
+NPG2:
+	Atlanta
+
+Sentence: Swingers cause a clamor in Amarillo
+Cue Found: cause
+NPG1:
+	Swingers
+NPG2:
+	a clamor in Amarillo
+
+Sentence: The mortgage dilemma: National solutions cause local problems
+Cue Found: cause
+NPG1:
+	National solutions
+NPG2:
+	local problems
+
+Sentence: Tommy James reveals music and mob connections in new book
+Cue Found: reveal
+NPG1:
+	Tommy James
+NPG2:
+	music and mob connections in new book
+
+Sentence: Alarming HIV and syphilis rates causes a call to action
+Cue Found: cause
+NPG1:
+	Alarming HIV and syphilis rates
+NPG2:
+	a call
+
+Sentence: A stormy Thursday begets a stormy Friday
+Cue Found: beget
+NPG1:
+	A stormy Thursday
+NPG2:
+	a stormy Friday
+
+Sentence: Breaking news: Tiger Woods police report reveals possible domestic abuse
+Cue Found: reveal
+NPG1:
+	Tiger Woods police report
+NPG2:
+	possible domestic abuse
+
+Sentence: California defeats UCLA to advance to Pac-10 Tournament Championship game
+Cue Found: defeat
+NPG1:
+	California
+NPG2:
+	UCLA
+
+Sentence: California Love: 'The Golden State' overwhelmingly thinks Pacquiao defeats Clottey
+Cue Found: defeat
+NPG1:
+	Pacquiao
+NPG2:
+	Clottey
+
+Sentence: Corey Haim autopsy report reveals no drug overdose
+Cue Found: reveal
+NPG1:
+	Corey Haim autopsy report
+NPG2:
+	no drug overdose
+
+Sentence: Erica Spindler untangles Blood Vines (A Q&A)
+Cue Found: untangle
+NPG1:
+	Erica Spindler
+NPG2:
+	Blood Vines
+
+Sentence: Foreclosures ease a bit in Pasco
+Cue Found: ease
+NPG1:
+	Foreclosures
+NPG2:
+	a bit in Pasco
+
+Sentence: Iron Horse Vineyards merges wine and technology at Sip and Twit
+Cue Found: merge
+NPG1:
+	Iron Horse Vineyards
+NPG2:
+	wine and technology at Sip and Twit
+
+Sentence: Kentucky overcomes sluggish start, defeats Alabama 73-67; Tennessee up next
+Cue Found: overcome
+NPG1:
+	Kentucky
+NPG2:
+	sluggish start
+
+Sentence: LeBron James steroids rumors scare Cleveland
+Cue Found: scare
+NPG1:
+	LeBron James steroids rumors
+NPG2:
+	Cleveland
+
+Sentence: Michael's hosts crafting events to celebrate National Craft Month
+Cue Found: craft
+NPG1:
+	hosts
+NPG2:
+	events
+
+Sentence: Obama, fearing H.C.R. loss postpones trip to Indonesia
+Cue Found: postpone
+NPG1:
+	loss
+NPG2:
+	trip
+
+Sentence: Ohio State defeats Michigan on last second shot by Evan Turner
+Cue Found: defeat
+NPG1:
+	Ohio State
+NPG2:
+	Michigan on last second shot by Evan Turner
+
+Sentence: OSSE empowers teens who pursue non-traditional careers: celebrating National Womens History Month
+Cue Found: empower
+NPG1:
+	OSSE
+NPG2:
+	teens
+
+Sentence: Quetico permit information for 2010
+Cue Found: permit
+NPG1:
+	Quetico
+NPG2:
+	information
+
+Sentence: SFFD extinguishes 2- alarm fire near Twin Peaks
+Cue Found: extinguish
+NPG1:
+	SFFD
+NPG2:
+	2- alarm fire near Twin Peaks
+
+Sentence: Shutter Island: Hollywood perpetuating the myth of violence and schizophrenia
+Cue Found: perpetuate
+NPG1:
+	Hollywood
+NPG2:
+	the myth of violence and schizophrenia
+
+Sentence: Spirituality eases relationship loss
+Cue Found: ease
+NPG1:
+	Spirituality
+NPG2:
+	relationship loss
+
+Sentence: SVRG Dot.Kamikazes defeat Tacoma's Dockyard Derby Dames
+Cue Found: defeat
+NPG1:
+	SVRG Dot.Kamikazes
+NPG2:
+	Tacoma
+
+Sentence: Chelsea maintain form, Arsenal squeak out a win at the KC
+Cue Found: maintain
+NPG1:
+	Chelsea
+NPG2:
+	form
+
+Sentence: Help John Dennis defeat Nancy Pelosi in 2010!
+Cue Found: defeat
+NPG1:
+	John Dennis
+NPG2:
+	Nancy Pelosi
+
+Sentence: How stress causes heart disease and cancer
+Cue Found: cause
+NPG1:
+	stress
+NPG2:
+	heart disease and cancer
+
+Sentence: Knighthawks embarrass themselves in loss to Orlando
+Cue Found: embarrass
+NPG1:
+	Knighthawks
+NPG2:
+	themselves in loss
+
+Sentence: Lady Gaga: New 'Telephone' video sparks Internet backlash
+Cue Found: spark
+NPG1:
+	video
+NPG2:
+	Internet backlash
+
+Sentence: Late goal propels Breck to second straight title
+Cue Found: propel
+NPG1:
+	goal
+NPG2:
+	Breck
+
+Sentence: Mercury in vaccines causes autism?
+Cue Found: cause
+NPG1:
+	Mercury in vaccines
+NPG2:
+	autism
+
+Sentence: Ottawa Neighbourhood Study reveals access to fresh food varies widely by neighbourhood
+Cue Found: reveal
+NPG1:
+	Ottawa Neighbourhood Study
+NPG2:
+	access
+
+Sentence: Social networking skills are highly desirable in today's employment market
+Cue Found: network
+NPG1:
+	Social
+NPG2:
+	skills
+
+Sentence: Two goals by Trevor Kell propel T-Devils past Toledo in 3-2 overtime win
+Cue Found: propel
+NPG1:
+	Two goals by Trevor Kell
+NPG2:
+	T-Devils past Toledo in 3-2 overtime
+
+Sentence: Will Crystal Bowersox overcome health problems and win American Idol?
+Cue Found: overcome
+NPG1:
+	Crystal Bowersox
+NPG2:
+	health problems
+
+Sentence: Capitals overcome 3-0 deficit, beat Blackhawks 4-3 in OT after Ovechkin ejected
+Cue Found: overcome
+NPG1:
+	Capitals
+NPG2:
+	3-0 deficit
+
+Sentence: Charlotte's best Irish pubs: Ri Ra reopens in time for St. Patrick's Day
+Cue Found: reopen
+NPG1:
+	Ri Ra
+NPG2:
+	in time for St. Patrick
+
+Sentence: Cultivating humility engenders joy
+Cue Found: engender
+NPG1:
+	humility
+NPG2:
+	joy
+
+Sentence: Cultivating humility engenders joy
+Cue Found: engender
+NPG1:
+	humility
+NPG2:
+	joy
+
+Sentence: Do bisphosphonates cause femur fractures?
+Cue Found: cause
+NPG1:
+	bisphosphonates
+NPG2:
+	femur fractures
+
+Sentence: Elton John reveals lover's suicide
+Cue Found: reveal
+NPG1:
+	Elton John
+NPG2:
+	lover
+
+Sentence: Jamie Paulin-Ramirez, another US woman arrested in connection with plot to kill Swedish cartoonist
+Cue Found: arrest
+NPG1:
+	another US woman
+NPG2:
+	in connection with plot
+
+Sentence: Jamie Paulin-Ramirez, another US woman arrested in connection with plot to kill Swedish cartoonist
+Cue Found: arrest
+NPG1:
+	another US woman
+NPG2:
+	in connection with plot
+
+Sentence: Jumbo perch jigged from depths of Lake Michigan
+Cue Found: jig
+NPG1:
+	Jumbo perch
+NPG2:
+	from depths of Lake Michigan
+
+Sentence: Napa Valley Mustard Festival's Marketplace on Napa's Riverfront delights the senses, continues today
+Cue Found: delight
+NPG1:
+	Riverfront
+NPG2:
+	the senses
+
+Sentence: Ontario Vets alarmed by 10-fold increase in Heartworm Disease - Part 2
+Cue Found: alarm
+NPG1:
+	Ontario Vets
+NPG2:
+	by 10-fold increase in Heartworm Disease
+
+Sentence: Pacquiao defeats Clottey and 510 calories in 12 rounds
+Cue Found: defeat
+NPG1:
+	Pacquiao
+NPG2:
+	Clottey and 510 calories in 12 rounds
+
+Sentence: UNC women's ultimate Frisbee B-team improves play despite the wind
+Cue Found: improve
+NPG1:
+	ultimate Frisbee B-team
+NPG2:
+	play despite the wind
+
+Sentence: Weather postpones March 13th Paralympic downhill events until March 18th
+Cue Found: postpone
+NPG1:
+	Weather
+NPG2:
+	March 13th Paralympic
+
+Sentence: Bonanzle marketplace implements seller monitoring
+Cue Found: implement
+NPG1:
+	Bonanzle marketplace
+NPG2:
+	seller monitoring
+
+Sentence: Can local genealogists link school lunch burgers and chicken sandwiches to middle-school obesity?
+Cue Found: link
+NPG1:
+	local genealogists
+NPG2:
+	school lunch burgers and chicken sandwiches
+
+Sentence: Ciao Ciao elevates pizza to new heights
+Cue Found: elevate
+NPG1:
+	Ciao Ciao
+NPG2:
+	pizza
+
+Sentence: Ciao Ciao elevates pizza to new heights
+Cue Found: elevate
+NPG1:
+	Ciao Ciao
+NPG2:
+	pizza
+
+Sentence: Do mountain bikes scare elk?
+Cue Found: scare
+NPG1:
+	mountain bikes
+NPG2:
+	elk
+
+Sentence: Faulty power nailer causing serious eye injuries. Shock hazard from electrical tester
+Cue Found: cause
+NPG1:
+	Faulty power nailer
+NPG2:
+	serious eye injuries
+
+Sentence: Finding networking groups in the Denver and Boulder area
+Cue Found: network
+NPG1:
+	Finding
+NPG2:
+	groups in the Denver and Boulder area
+
+Sentence: Flooding fallout postpones second Starland show
+Cue Found: postpone
+NPG1:
+	Flooding fallout
+NPG2:
+	second Starland show
+
+Sentence: Lady Gaga reveals three month North America tour
+Cue Found: reveal
+NPG1:
+	Lady Gaga
+NPG2:
+	three month North America tour
+
+Sentence: Lee Child reveals Jack Reacher's fate at Left Coast Crime Conference
+Cue Found: reveal
+NPG1:
+	Lee Child
+NPG2:
+	Jack Reacher
+
+Sentence: Local woman overcomes disparity of force problem
+Cue Found: overcome
+NPG1:
+	Local woman
+NPG2:
+	disparity of force problem
+
+Sentence: Louisiana man arrested in Birmingham for sex trafficking
+Cue Found: arrest
+NPG1:
+	Louisiana man
+NPG2:
+	in Birmingham for sex trafficking
+
+Sentence: New simplified Twitter site integration with @anywhere
+Cue Found: simplify
+NPG1:
+	New
+NPG2:
+	Twitter site integration
+
+Sentence: Ohio GOP SOS candidate Husted readies bill for greater openness in campaign spending, advertising
+Cue Found: ready
+NPG1:
+	Ohio GOP SOS candidate Husted
+NPG2:
+	bill
+
+Sentence: Prison population growth study reveals surprises
+Cue Found: reveal
+NPG1:
+	Prison population growth study
+NPG2:
+	surprises
+
+Sentence: Referees, Rockets overcome solid performance by Nuggets
+Cue Found: overcome
+NPG1:
+	Rockets
+NPG2:
+	solid performance by Nuggets
+
+Sentence: St Patrick's Day sparks fun creative movement activities for kids
+Cue Found: spark
+NPG1:
+	Day
+NPG2:
+	fun creative movement activities for kids
+
+Sentence: 'American Idol:' Adam Lambert balks at critics, jokes about sex in new interview
+Cue Found: balk
+NPG1:
+	Adam Lambert
+NPG2:
+	at critics , jokes about sex in new interview
+
+Sentence: Carina Cellars delights the senses with their unique, hearty syrah and radiant voignier
+Cue Found: delight
+NPG1:
+	Carina Cellars
+NPG2:
+	the senses
+
+Sentence: FMOC holds interest rates steady, market negates yesterdays pullback attempt and goes up ...again
+Cue Found: negate
+NPG1:
+	market
+NPG2:
+	yesterdays pullback attempt
+
+Sentence: Georgia State softball splits SpringHill Suites Buckhead Classic
+Cue Found: split
+NPG1:
+	Georgia State softball
+NPG2:
+	SpringHill Suites Buckhead Classic
+
+Sentence: Gluten-free St. Patrick's Day with spinach mashed potatoes
+Cue Found: mash
+NPG1:
+	Day with spinach
+NPG2:
+	potatoes
+
+Sentence: Gunther's Safari Trio delights Dazzle crowd
+Cue Found: delight
+NPG1:
+	Safari Trio
+NPG2:
+	Dazzle crowd
+
+Sentence: House of Pain reunite Thursday
+Cue Found: reunite
+NPG1:
+	House of Pain
+NPG2:
+	Thursday
+
+Sentence: Justin Bieber rehearses with Jason Mraz, Guns N' Roses for MTV performance
+Cue Found: rehearse
+NPG1:
+	Justin Bieber
+NPG2:
+	with Jason Mraz , Guns N
+
+Sentence: Lose weight maintain energy and catch a buzz is this a diet you want
+Cue Found: maintain
+NPG1:
+	weight
+NPG2:
+	energy
+
+Sentence: Sarah Palin delights Republicans gathered for Lincoln Day Dinner
+Cue Found: delight
+NPG1:
+	Sarah Palin
+NPG2:
+	Republicans
+
+Sentence: Storm causes flooding concerns
+Cue Found: cause
+NPG1:
+	Storm
+NPG2:
+	flooding concerns
+
+Sentence: 'The Twilight Saga: Eclipse' costume designer reveals important details
+Cue Found: reveal
+NPG1:
+	costume designer
+NPG2:
+	important details
+
+Sentence: Who's taking care of Fido? The American Veterinary Medical Association reveals trends in care
+Cue Found: reveal
+NPG1:
+	The American Veterinary Medical Association
+NPG2:
+	trends in care
+
+Sentence: #12 Seawolves lacrosse dismantles St. John's, 21-6
+Cue Found: dismantle
+NPG1:
+	12 Seawolves lacrosse
+NPG2:
+	St. John
+
+Sentence: Arab human rights group: Hurva synagogue rebuilding a 'war crime'
+Cue Found: rebuild
+NPG1:
+	Hurva synagogue
+NPG2:
+	a 'war crime
+
+Sentence: Bobcat baseball splits Southern Division opener
+Cue Found: split
+NPG1:
+	Bobcat baseball
+NPG2:
+	Southern Division opener
+
+Sentence: Cherish the Ladies evokes magic of Emerald Isle with Celtic Celebration
+Cue Found: evoke
+NPG1:
+	the Ladies
+NPG2:
+	magic of Emerald Isle with Celtic Celebration
+
+Sentence: Code Red rally in Washington DC escalates the war against health care reform
+Cue Found: escalate
+NPG1:
+	Code Red rally in Washington DC
+NPG2:
+	the war against health care reform
+
+Sentence: Donald Freed reveals agenda for 'Einstein Plan' at LA Theatre Center
+Cue Found: reveal
+NPG1:
+	Donald Freed
+NPG2:
+	agenda for 'Einstein Plan
+
+Sentence: Edward and Bella scene deleted from theatrical version of 'New Moon' released (video)
+Cue Found: delete
+NPG1:
+	Edward and Bella scene
+NPG2:
+	from theatrical version of 'New Moon
+
+Sentence: FBI busted NM sex predators, multiple offenders sentenced for child porn crimes
+Cue Found: bust
+NPG1:
+	FBI
+NPG2:
+	NM sex predators
+
+Sentence: First Kitsap Pumas practice reveals a Seattle, Sounders flavor to 2010 roster
+Cue Found: reveal
+NPG1:
+	First Kitsap Pumas practice
+NPG2:
+	a Seattle , Sounders flavor
+
+Sentence: Free Realms reveals new 3D mini-game called Pirate's Plunder (updated)
+Cue Found: reveal
+NPG1:
+	Free Realms
+NPG2:
+	new 3D mini-game
+
+Sentence: Governor McDonnell and VDOT reopen eight additional rest areas
+Cue Found: reopen
+NPG1:
+	Governor McDonnell and VDOT
+NPG2:
+	eight additional rest areas
+
+Sentence: Michaels to feature kids craft event in Springfield March 20
+Cue Found: craft
+NPG1:
+	kids
+NPG2:
+	event in Springfield March
+
+Sentence: Peralta defeats Monserrate in Special Election
+Cue Found: defeat
+NPG1:
+	Peralta
+NPG2:
+	Monserrate in Special Election
+
+Sentence: Pigeon-toed green glub-glubs with optional foam hat constitute interesting St. Patrick's Day craft
+Cue Found: constitute
+NPG1:
+	Pigeon-toed green glub-glubs with optional foam hat
+NPG2:
+	interesting St. Patrick
+
+Sentence: Reactions to NJ budget address reveal biases and ulterior agendas
+Cue Found: reveal
+NPG1:
+	NJ budget address
+NPG2:
+	biases and ulterior agendas
+
+Sentence: Reaction to rollover contract ignites Georgia Tech's Paul Hewitt
+Cue Found: ignite
+NPG1:
+	rollover contract
+NPG2:
+	Georgia Tech
+
+Sentence: Review: Incendiary wit ignites a scorching drama of familial dysfunction in August: Osage County
+Cue Found: ignite
+NPG1:
+	Incendiary wit
+NPG2:
+	a scorching drama of familial dysfunction in August
+
+Sentence: St. Patrick's Day celebrations trigger binge drinking (video)
+Cue Found: trigger
+NPG1:
+	Day celebrations
+NPG2:
+	binge drinking ( video )
+
+Sentence: Tim Tebow reveals himself new and improved at Florida's Pro Day (photos, slideshow, video)
+Cue Found: reveal
+NPG1:
+	Tim Tebow
+NPG2:
+	himself
+
+Sentence: ASU defeats Harvard to advance in CIT
+Cue Found: defeat
+NPG1:
+	ASU
+NPG2:
+	Harvard
+
+Sentence: Best actress curse: Sandra Bullock, Jesse James split after affair with Internet fetish 'model'
+Cue Found: split
+NPG1:
+	Jesse James
+NPG2:
+	after affair with Internet fetish 'model
+
+Sentence: Childrens menus improving in taste and health
+Cue Found: improve
+NPG1:
+	Childrens menus
+NPG2:
+	in taste and health
+
+Sentence: Concussions cause thousands of deaths, hospitalizations in Va.
+Cue Found: cause
+NPG1:
+	Concussions
+NPG2:
+	thousands of deaths , hospitalizations in Va
+
+Sentence: Congress inching towards passage of health care reform
+Cue Found: inch
+NPG1:
+	Congress
+NPG2:
+	towards passage of health care reform
+
+Sentence: Congress slaughters the Constitution
+Cue Found: slaughter
+NPG1:
+	Congress
+NPG2:
+	the Constitution
+
+Sentence: Jesse James deletes Twitter account as Sandra Bullock leaves over Michelle McGee bombshell (photos)
+Cue Found: delete
+NPG1:
+	Jesse James
+NPG2:
+	Twitter account as Sandra Bullock
+
+Sentence: People enraged over Walmart store racist announcement 'All blacks need to leave the store'
+Cue Found: enrage
+NPG1:
+	People
+NPG2:
+	over Walmart store racist announcement 'All blacks
+
+Sentence: Rock and roll reunion reunites Rick Shaw South Florida 60's and 70's bands and you
+Cue Found: reunite
+NPG1:
+	Rock and roll reunion
+NPG2:
+	Rick Shaw South Florida 60
+
+Sentence: Sexting Joslyn James site reveals Tiger Woods texts: 'You Are My...Whore'
+Cue Found: reveal
+NPG1:
+	Joslyn James site
+NPG2:
+	Tiger Woods texts
+
+Sentence: Taubman Center for Design Education renovation revitalizes Detroit's New Center
+Cue Found: revitalize
+NPG1:
+	Taubman Center for Design Education renovation
+NPG2:
+	Detroit
+
+Sentence: 'The Bachelor:' alleged 'other woman' Tanya Douglas reveals Jake Pavelka's words
+Cue Found: reveal
+NPG1:
+	Tanya Douglas
+NPG2:
+	Jake Pavelka
+
+Sentence: The Killer 2011 Corvette Z06 Carbon limited edition photos released
+Cue Found: limit
+NPG1:
+	The Killer 2011 Corvette Z06 Carbon
+NPG2:
+	edition photos
+
+Sentence: The Royals defeat Oklahoma City 7-2
+Cue Found: defeat
+NPG1:
+	The Royals
+NPG2:
+	Oklahoma City
+
+Sentence: United States readies attack on Iran
+Cue Found: ready
+NPG1:
+	United States
+NPG2:
+	attack on Iran
+
+Sentence: Upcoming Central NC area scrapbook and paper crafting events
+Cue Found: craft
+NPG1:
+	Central NC area scrapbook and paper
+NPG2:
+	events
+
+Sentence: Casey Anthony latest news: Inmate letters spark launch of jail investigation
+Cue Found: spark
+NPG1:
+	Inmate letters
+NPG2:
+	launch of jail investigation
+
+Sentence: Clarke overcomes Bingle break-up with century on return
+Cue Found: overcome
+NPG1:
+	Clarke
+NPG2:
+	Bingle break-up with century on return
+
+Sentence: Kirstie Alley's Rescue Me weight loss program now available
+Cue Found: weight
+NPG1:
+	Rescue Me
+NPG2:
+	loss program
+
+Sentence: Knight Rider Festival reunites David Hasselhoff and Catherine Hickland
+Cue Found: reunite
+NPG1:
+	Knight Rider Festival
+NPG2:
+	David Hasselhoff and Catherine Hickland
+
+Sentence: Police arrest two former Seton Hall players
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	two former Seton Hall players
+
+Sentence: Port Angeles boy wants to play on girls team; Club postpones practices
+Cue Found: postpone
+NPG1:
+	Club
+NPG2:
+	practices
+
+Sentence: St. Joseph's Day 2010 video: Zeppole cause traffic jams
+Cue Found: cause
+NPG1:
+	Zeppole
+NPG2:
+	traffic jams
+
+Sentence: Team USA finalized for World Cross Country Championships in Poland
+Cue Found: finalize
+NPG1:
+	Team USA
+NPG2:
+	for World Cross Country Championships in Poland
+
+Sentence: The Twilight Saga: New Moon DVD deleted scenes
+Cue Found: delete
+NPG1:
+	New Moon DVD
+NPG2:
+	scenes
+
+Sentence: TN man arrested on 15 counts of id theft
+Cue Found: arrest
+NPG1:
+	TN man
+NPG2:
+	on 15 counts of id theft
+
+Sentence: Topless gardener causes Boulder, Colo. officials to rethink public nudity laws
+Cue Found: cause
+NPG1:
+	Topless gardener
+NPG2:
+	Boulder , Colo. officials
+
+Sentence: Winter snow storm causes major delays at Denver International Airport
+Cue Found: cause
+NPG1:
+	Winter snow storm
+NPG2:
+	major delays at Denver International Airport
+
+Sentence: Zheng Jie defeats Sharapova at BNP Paribas
+Cue Found: defeat
+NPG1:
+	Zheng Jie
+NPG2:
+	Sharapova at BNP Paribas
+
+Sentence: Abortion madness causing last-minute rift for health bill
+Cue Found: cause
+NPG1:
+	Abortion madness
+NPG2:
+	last-minute rift for health bill
+
+Sentence: Clay Aiken reveals new album in Raleigh concert
+Cue Found: reveal
+NPG1:
+	Clay Aiken
+NPG2:
+	new album in Raleigh concert
+
+Sentence: First school board meetings since aid cuts reveal mindsets
+Cue Found: reveal
+NPG1:
+	First school board meetings since aid cuts
+NPG2:
+	mindsets
+
+Sentence: It wouldn't be a health care debate without a GOP congressman tossing civil war threats around
+Cue Found: toss
+NPG1:
+	a health care debate without a GOP congressman
+NPG2:
+	civil war threats
+
+Sentence: Jesse James 'mistress' Michelle 'Bombshell' McGee causing turmoil for ex-husband
+Cue Found: cause
+NPG1:
+	McGee
+NPG2:
+	turmoil for ex-husband
+
+Sentence: Kim Kardashian rewarded for hard work with new Maserati convertible
+Cue Found: reward
+NPG1:
+	Kim Kardashian
+NPG2:
+	for hard work with new Maserati convertible
+
+Sentence: March 20: US ratifies peace treaty with Japan, US military operations begin in Iraq
+Cue Found: ratify
+NPG1:
+	US
+NPG2:
+	peace treaty with Japan , US military operations
+
+Sentence: Norrie mAy-welby: Australia reverses decision on 'sex not specified' legal designation
+Cue Found: reverse
+NPG1:
+	Australia
+NPG2:
+	decision on 'sex
+
+Sentence: Octo-Mom Nadya Suleman's Mom reveals her daughter is nuts!
+Cue Found: reveal
+NPG1:
+	Mom
+NPG2:
+	her daughter
+
+Sentence: Police arrest teen for racist Walmart announcement telling 'all black people' to 'leave the store'
+Cue Found: arrest
+NPG1:
+	Police
+NPG2:
+	teen for racist Walmart announcement
+
+Sentence: Samhan sparks 'team' win as Saint Mary's reaches Sweet Sixteen
+Cue Found: spark
+NPG1:
+	Samhan
+NPG2:
+	'team
+
+Sentence: Tacoma Stars reveal national championship banner, jump to higher league
+Cue Found: reveal
+NPG1:
+	Tacoma Stars
+NPG2:
+	national championship banner , jump
+
+Sentence: UFC on Versus debuts Sunday, can Vera spoil the Jones hype?
+Cue Found: spoil
+NPG1:
+	Vera
+NPG2:
+	the Jones hype
+
+Sentence: UT Knoxville reverses student-athlete gun ban
+Cue Found: reverse
+NPG1:
+	UT Knoxville
+NPG2:
+	student-athlete gun ban
+
+Sentence: Bangkok's three main problems spoil the city, but what are they?
+Cue Found: spoil
+NPG1:
+	three main problems
+NPG2:
+	the city
+
+Sentence: Floyd Mayweather reveals the motivation for his trash talking
+Cue Found: reveal
+NPG1:
+	Floyd Mayweather
+NPG2:
+	the motivation for his trash talking
+
+Sentence: Georgia Lady Bulldogs defeat Tulane, prepare to face Oklahoma State in 2010 NCAA Tournament Monday
+Cue Found: defeat
+NPG1:
+	Georgia Lady Bulldogs
+NPG2:
+	Tulane
+
+Sentence: High level of lead causes Chandigarh Fashion to recall children's bracelets
+Cue Found: cause
+NPG1:
+	High level of lead
+NPG2:
+	Chandigarh Fashion
+
+Sentence: NASCAR icon Larry Pearson injures ankle, pelvis, hand in legends race at Bristol. Video included
+Cue Found: injure
+NPG1:
+	NASCAR icon Larry Pearson
+NPG2:
+	ankle , pelvis , hand in legends race at Bristol
+
+Sentence: Town board postpones hearing.
+Cue Found: postpone
+NPG1:
+	Town board
+NPG2:
+	hearing
+
+Sentence: Yankees demote catchers Montero, Romine
+Cue Found: demote
+NPG1:
+	Yankees
+NPG2:
+	catchers Montero , Romine
+
